@@ -56,8 +56,6 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-CVPR - A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
-
 
 
 # Single-Image-Blind-Deblurring (DL)
@@ -84,7 +82,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018-CVPR - Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Learning_a_Discriminative_CVPR_2018_paper.html)[[Code]]()
 
-[-] 2018-CVPR - Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Dynamic_Scene_Deblurring_CVPR_2018_paper.html)[[Code]]()
+[-] 2018-CVPR - Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Dynamic_Scene_Deblurring_CVPR_2018_paper.html)[[Code]](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
 
 
 [-] 2018-CVPR - Scale-recurrent network for deep image deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tao_Scale-Recurrent_Network_for_CVPR_2018_paper.html)[[Code]]()
@@ -108,10 +106,6 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-CVPR - Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.html)[[Code]]()
 
 [-] 2019-CVPR - Unsupervised Domain-Specific Deblurring via Disentangled Representations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Lu_Unsupervised_Domain-Specific_Deblurring_via_Disentangled_Representations_CVPR_2019_paper.html)[[Code]]()
-
-
-
-[-] 20- - . [[Paper]]()[[Code]]()
 
 
 # Non-Blind-Deblurring
@@ -154,6 +148,9 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-ICCV - Learning to push the limits of efficient fft-based image deconvolution. [[Paper]]()[[Code]]()
 
+[-] 2017-NIPS - Deep Mean-Shift Priors for Image Restoration. [[Paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[Code]](https://github.com/siavashbigdeli/DMSP)
+
+
 [-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 [-] 2018- - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
@@ -161,48 +158,21 @@ A curated list of resources for Image and Video Deblurring
 [-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)[[Code]]()
 
 
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
 # Multi-image/Video-Deblurring
 
 [-] 2017-CVPR - Deep Video Deblurring for Hand-Held Cameras. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)[[Code]]()
 
-
 [-] 2018-ECCV - Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)[[Code]]()
+
+
+[-] 2019-TIP - Adversarial Spatio-Temporal Learning for Video Deblurring. [[Paper]](https://arxiv.org/abs/1804.00533)[[Code]](https://github.com/themathgeek13/STdeblur)
 
 [-] 2019-CVPR - Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)[[Code]]()
 
 [-] 2019-CVPR - EDVR: Video Restoration with Enhanced Deformable Convolutional Networks. [[Paper]](https://arxiv.org/abs/1905.02716)[[Code]](https://github.com/xinntao/EDVR)
 
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2019-CVPR_W - NTIRE 2019 Challenge on Video Deblurring: Methods and Results [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
-
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2019-CVPR_W - A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with
+Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)[[Code]]()
