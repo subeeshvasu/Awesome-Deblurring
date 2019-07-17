@@ -44,7 +44,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Y. Yan, W. Ren, Y. Guo, R. Wang, and X. Cao, Xiaochun, Image deblurring via extreme channels prior. [[Paper]]()[[Code]]()
 
-[-] 2017-CVPR - Subeesh Vasu and A. N. Rajagopalan, From local to global: Edge profiles to camera motion in blurred images. [[Paper]]()[[Code]]()
+[-] 2017-CVPR - Subeesh Vasu and A. N. Rajagopalan, From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
@@ -75,7 +75,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2018-CVPR - L. Li, J. Pan, W. S. Lai, C. Gao, N. Sang, and M. H. Yang, Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]]()[[Code]]()
 
 
-[-] 2017-ICCV - S. Nah, T. H. Kim, and K. M. Lee, Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]]()[[Code]]()
+[-] 2017-CVPR - S. Nah, T. H. Kim, and K. M. Lee, Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)[[Code]](https://github.com/SeungjunNah/DeepDeblur_release)
 
 
 [-] 2017-ICCV - T.M Nimisha, Akash Kumar Singh, and A.N.Rajagopalan, Blur-Invariant Deep Learning for Blind Deblurring. [[Paper]]()[[Code]]()
@@ -84,7 +84,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2018-CVPR - X. Tao, H. Gao, Y. Wang, X. Shen, J. Wang, and J. Jia, Scale-recurrent network for deep image deblurring. [[Paper]]()[[Code]]()
 
 
-[-] 2018-CVPR - Kupyn, Orest, et al. Deblurgan: Blind motion deblurring using conditional adversarial networks. [[Paper]]()[[Code]]()
+[-] 2018-CVPR - Kupyn, Orest, et al. Deblurgan: Blind motion deblurring using conditional adversarial networks. [[Paper]](https://arxiv.org/pdf/1711.07064v4.pdf)[[Code-Pytorch]](https://github.com/KupynOrest/DeblurGAN)
 
 
 [-] 2018-ECCV - T. M. Nimisha, Sunil Kumar, and A N Rajagopalan, Unsupervised Class-Specific Deblurring. [[Paper]]()[[Code]]()
@@ -136,7 +136,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2017-ICCV - J. Kruse, C. Rother, and U. Schmidt. Learning to push the limits of efficient fft-based image deconvolution. [[Paper]]()[[Code]]()
 
 
-[-] 2018-CVPR - Subeesh Vasu, Venkatesh Maligireddy, and A.N. Rajagopalan, Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]]()[[Code]]()
+[-] 2018-CVPR - Subeesh Vasu, Venkatesh Maligireddy, and A.N. Rajagopalan, Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 
 [-] 2018- - Gong, Dong, et al., Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
@@ -159,7 +159,7 @@ A curated list of resources for Image and Video Deblurring
 
 # Video-Deblurring
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2019-CVPR - EDVR: Video Restoration with Enhanced Deformable Convolutional Networks. [[Paper]](https://arxiv.org/abs/1905.02716)[[Code]](https://github.com/xinntao/EDVR)
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
