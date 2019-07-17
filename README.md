@@ -38,11 +38,11 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-CVPR - Deblurring Text Images via L0 -Regularized Intensity and Gradient Prior. [[Paper]](https://eng.ucmerced.edu/people/zhu/CVPR14_deblurtext.pdf)[[Code & Project page]](https://sites.google.com/site/jspanhomepage/l0rigdeblur)
 
-[-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]]()[[Code]]()
+[-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
 [-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
-[-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]]()[[Code]]()
+[-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]](https://drive.google.com/file/d/0B7PPbXPJRQp3dDlIM1ctM2pMYjg/view)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
 
 [-] 2017-CVPR - From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
 
@@ -51,13 +51,12 @@ A curated list of resources for Image and Video Deblurring
 [-] 2017-ICCV - Blind Image Deblurring with Outlier Handling. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Blind_Image_Deblurring_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/qmxkkwgnmuwrfoj/code_iccv2017_outlier.zip?dl=0)
 
 
+[-] 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)
 
-[-] 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)[[Code]]()
 
+[-] 2019-CVPR - Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Phase-Only_Image_Based_Kernel_Estimation_for_Single_Image_Blind_Deblurring_CVPR_2019_paper.html)[[Results]](https://github.com/panpanfei/Phase-only-Image-Based-Kernel-Estimation-for-Blind-Motion-Deblurring/tree/master/result)
 
-[-] 2019-CVPR - Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Phase-Only_Image_Based_Kernel_Estimation_for_Single_Image_Blind_Deblurring_CVPR_2019_paper.html)[[Code]]()
-
-[-] 2019-CVPR - A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)[[Code]]()
+[-] 2019-CVPR - A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)
 
 
 
