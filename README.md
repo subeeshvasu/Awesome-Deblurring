@@ -138,7 +138,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018-CVPR - Subeesh Vasu, Venkatesh Maligireddy, and A.N. Rajagopalan, Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+
+[-] 2018- - Gong, Dong, et al., Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
