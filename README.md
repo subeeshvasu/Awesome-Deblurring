@@ -147,18 +147,14 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Image Deblurring via Extreme Channels Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)[[Code]]()
 
-
 [-] 2017-ICCV - Learning to push the limits of efficient fft-based image deconvolution. [[Paper]]()[[Code]]()
-
-
-
 
 [-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
-
 [-] 2018- - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)[[Code]]()
+
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
@@ -172,17 +168,17 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
-
-# Video-Deblurring
-
-[-] 2019-CVPR - EDVR: Video Restoration with Enhanced Deformable Convolutional Networks. [[Paper]](https://arxiv.org/abs/1905.02716)[[Code]](https://github.com/xinntao/EDVR)
+# Multi-image/Video-Deblurring
 
 [-] 2017-CVPR - Deep Video Deblurring for Hand-Held Cameras. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)[[Code]]()
 
+
+[-] 2018-ECCV - Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)[[Code]]()
+
 [-] 2019-CVPR - Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2019-CVPR - EDVR: Video Restoration with Enhanced Deformable Convolutional Networks. [[Paper]](https://arxiv.org/abs/1905.02716)[[Code]](https://github.com/xinntao/EDVR)
+
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
