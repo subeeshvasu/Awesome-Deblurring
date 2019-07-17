@@ -60,27 +60,37 @@ A curated list of resources for Image and Video Deblurring
 
 # Single-Image-Blind-Deblurring (DL)
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2015-CVPR - J. Sun, W. Cao, Z. Xu, J. Ponce, Learning a convolutional neural network for non-uniform motion blur removal. [[Paper]]()[[Code]]()
+, CVPR 2015
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2016-ECCV - Chakrabarti, Ayan. A neural approach to blind motion deblurring. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2016-PAMI - C. J. Schuler, M. Hirsch, S. Harmeling, and B. Sch ̈olkopf. Learning to deblur. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2018-TIP - X. Xu, J. Pan, and Y. Zhang, and M. H. Yang, Motion blur kernel estimation via deep learning. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2018-CVPR - L. Li, J. Pan, W. S. Lai, C. Gao, N. Sang, and M. H. Yang, Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2017-ICCV - S. Nah, T. H. Kim, and K. M. Lee, Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+
+[-] 2017-ICCV - T.M Nimisha, Akash Kumar Singh, and A.N.Rajagopalan, Blur-Invariant Deep Learning for Blind Deblurring. [[Paper]]()[[Code]]()
+
+
+[-] 2018-CVPR - X. Tao, H. Gao, Y. Wang, X. Shen, J. Wang, and J. Jia, Scale-recurrent network for deep image deblurring. [[Paper]]()[[Code]]()
+
+
+[-] 2018-CVPR - Kupyn, Orest, et al. Deblurgan: Blind motion deblurring using conditional adversarial networks. [[Paper]]()[[Code]]()
+
+
+[-] 2018-ECCV - T. M. Nimisha, Sunil Kumar, and A N Rajagopalan, Unsupervised Class-Specific Deblurring. [[Paper]]()[[Code]]()
+
+
+[-] 2019-CVPR - Kuldeep Purohit, Anshul B. Shah, and A.N. Rajagopalan, Bringing Alive Blurred Moments. [[Paper]]()[[Code]]()
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
