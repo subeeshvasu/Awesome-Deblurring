@@ -50,23 +50,18 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-ICCV - Blind Image Deblurring with Outlier Handling. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Blind_Image_Deblurring_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/qmxkkwgnmuwrfoj/code_iccv2017_outlier.zip?dl=0)
 
-
 [-] 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)
-
 
 [-] 2019-CVPR - Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Phase-Only_Image_Based_Kernel_Estimation_for_Single_Image_Blind_Deblurring_CVPR_2019_paper.html)[[Results]](https://github.com/panpanfei/Phase-only-Image-Based-Kernel-Estimation-for-Blind-Motion-Deblurring/tree/master/result)
 
 [-] 2019-CVPR - A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)
 
 
-
 # Single-Image-Blind-Deblurring (DL)
 
 [-] 2015-CVPR - Learning a convolutional neural network for non-uniform motion blur removal. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)[[Code 1]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip)[[Code 2]](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)
 
-
 [-] 2016-ECCV - A neural approach to blind motion deblurring. [[Paper]](https://arxiv.org/abs/1603.04771)[[Code]](https://github.com/ayanc/ndeblur)
-
 
 [-] 2016-PAMI - Learning to deblur. [[Paper]](https://arxiv.org/pdf/1406.7444.pdf)
 
@@ -74,36 +69,27 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Gong_From_Motion_Blur_CVPR_2017_paper.html)[[Code]]()
 
-
 [-] 2017-ICCV - Blur-Invariant Deep Learning for Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nimisha_Blur-Invariant_Deep_Learning_ICCV_2017_paper.pdf)
 
 [-] 2017-ICCV - Learning to Super-resolve Blurry Face and Text Images. [[Paper]](http://faculty.ucmerced.edu/mhyang/papers/iccv2017_gan_super_deblur.pdf)[[Code & Project page]](https://sites.google.com/view/xiangyuxu/deblursr_iccv17)
 
 [-] 2017-ICCV - Learning Discriminative Data Fitting Functions for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Pan_Learning_Discriminative_Data_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/oavk46q521fiowr/iccv17_learning_deblur_code.zip?dl=0)
 
-
 [-] 2018-TIP - Motion blur kernel estimation via deep learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8039224)[[Code & Project page]](https://sites.google.com/view/xiangyuxu/deepedge_tip)
 
 [-] 2018-CVPR - Deep Semantic Face Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Shen_Deep_Semantic_Face_CVPR_2018_paper.html)[[Code]](https://github.com/joanshen0508/Deep-Semantic-Face-Deblurring)
-
 
 [-] 2018-CVPR - Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Learning_a_Discriminative_CVPR_2018_paper.html)[[Code & Project page]](https://sites.google.com/view/lerenhanli/homepage/learn_prior_deblur)
 
 [-] 2018-CVPR - Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Dynamic_Scene_Deblurring_CVPR_2018_paper.html)[[Code]](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
 
-
 [-] 2018-CVPR - Scale-recurrent network for deep image deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tao_Scale-Recurrent_Network_for_CVPR_2018_paper.html)[[Code]](https://github.com/jiangsutx/SRN-Deblur)
 
-
 [-] 2018-CVPR - Deblurgan: Blind motion deblurring using conditional adversarial networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.html)[[Code-Pytorch]](https://github.com/KupynOrest/DeblurGAN)
-
 
 [-] 2018-ECCV - Unsupervised Class-Specific Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Nimisha_T_M_Unsupervised_Class-Specific_Deblurring_ECCV_2018_paper.html)
 
 [-] 2018-BMVC - Gated Fusion Network for Joint Image Deblurring and Super-Resolution. [[Paper]](https://arxiv.org/abs/1807.10806)[[Code]](https://github.com/jacquelinelala/GFN)[[Project page]](http://xinyizhang.tech/bmvc2018/)
-
-
-[-] 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
 [-] 2019-CVPR - Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)[[Code]](https://github.com/cszn/DPSR)
 
@@ -112,6 +98,8 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-CVPR - Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.html)[[Code]](https://github.com/HongguangZhang/DMPHN-cvpr19-master)
 
 [-] 2019-CVPR - Unsupervised Domain-Specific Deblurring via Disentangled Representations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Lu_Unsupervised_Domain-Specific_Deblurring_via_Disentangled_Representations_CVPR_2019_paper.html)
+
+[-] 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
 
 # Non-Blind-Deblurring
@@ -151,12 +139,9 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution. [[Paper]](https://arxiv.org/pdf/1611.06495)[[Code]](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)
 
-
-
 [-] 2017-ICCV - Learning to push the limits of efficient fft-based image deconvolution. [[Paper]](http://research.uweschmidt.org/pubs/iccv17kruse.pdf)[[Code]](https://github.com/uschmidt83/fourier-deconvolution-network)
 
 [-] 2017-NIPS - Deep Mean-Shift Priors for Image Restoration. [[Paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[Code]](https://github.com/siavashbigdeli/DMSP)
-
 
 [-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
