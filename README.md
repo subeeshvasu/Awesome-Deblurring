@@ -4,11 +4,11 @@ A curated list of resources for Image and Video Deblurring
 # Single-Image-Blind-Deblurring (non-DL)
 [-] 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
-[-] 2007-CVPR - Single image motion deblurring using transparency. [[Paper]]()[[Code]]()
+[-] 2007-CVPR - Single image motion deblurring using transparency. [[Paper]](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)
 
-[-] 2008-CVPR - Psf estimation using sharp edge prediction. [[Paper]]()[[Code]]()
+[-] 2008-CVPR - Psf estimation using sharp edge prediction. [[Paper]](http://vision.ucsd.edu/kriegman-grp/research/psf_estimation/psf_estimation.pdf)[[Project page]](http://vision.ucsd.edu/kriegman-grp/research/psf_estimation/)
 
-[-] 2008-TOG - High-quality motion deblurring from a single image. [[Paper]]()[[Code]]()
+[-] 2008-TOG - High-quality motion deblurring from a single image. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/motion_deblurring/deblur_siggraph08.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/motion_deblurring/index.html)
 
 [-] 2009-TOG - Fast motion deblurring. [[Paper]]()[[Code]]()
 
@@ -20,7 +20,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2010-ECCV - Single image deblurring using motion density functions. [[Paper]]()[[Code]]()
 
-[-] 2010-ECCV - Two-phase kernel estimation for robust motion deblurring. [[Paper]]()[[Code]]()
+[-] 2010-ECCV - Two-phase kernel estimation for robust motion deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/robust_motion_deblurring.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/index.html)
 
 [-] 2010-NIPS - Space-variant single-image blind deconvolution for removing camera shake. [[Paper]]()[[Code]]()
 
@@ -32,7 +32,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2012-ECCV - Blur-kernel estimation from spectral irregularities. [[Paper]]()[[Code]]()
 
-[-] 2013-CVPR - Unnatural L0 sparse representation for natural image deblurring. [[Paper]]()[[Code]]()
+[-] 2013-CVPR - Unnatural L0 sparse representation for natural image deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/l0deblur_cvpr13.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/)
 
 [-] 2013-ICCP - Edge-based blur kernel estimation using patch priors. [[Paper]]()[[Code]]()
 
