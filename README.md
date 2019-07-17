@@ -26,27 +26,30 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/blind-deconvolution/)
 
-[-] 2011-CVPR - Blur kernel estimation using the radon transform. [[Paper]]()[[Code]]()
+[-] 2011-CVPR - Blur kernel estimation using the radon transform. [[Paper]](http://people.csail.mit.edu/sparis/publi/2011/cvpr_radon/Cho_11_Blur_Kernel_Estimation.pdf)[[Code]](http://people.csail.mit.edu/taegsang/Thesis.html)
 
-[-] 2011-ICCV - Fast removal of non-uniform camera shake. [[Paper]]()[[Code]]()
+[-] 2011-ICCV - Fast removal of non-uniform camera shake. [[Paper]](http://pixel.kyb.tuebingen.mpg.de/fast_removal_of_camera_shake/files/Hirsch_ICCV2011_Fast%20removal%20of%20non-uniform%20camera%20shake.pdf)
 
-[-] 2012-ECCV - Blur-kernel estimation from spectral irregularities. [[Paper]]()[[Code]]()
+[-] 2012-ECCV - Blur-kernel estimation from spectral irregularities. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.4404&rep=rep1&type=pdf)
 
 [-] 2013-CVPR - Unnatural L0 sparse representation for natural image deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/l0deblur_cvpr13.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/)
 
-[-] 2013-ICCP - Edge-based blur kernel estimation using patch priors. [[Paper]]()[[Code]]()
+[-] 2013-ICCP - Edge-based blur kernel estimation using patch priors. [[Paper]](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)[[Project page]](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
 
-[-] 2014-CVPR - Deblurring Text Images via L0 -Regularized Intensity and Gradient Prior. [[Paper]]()[[Code]]()
+[-] 2014-CVPR - Deblurring Text Images via L0 -Regularized Intensity and Gradient Prior. [[Paper]](https://eng.ucmerced.edu/people/zhu/CVPR14_deblurtext.pdf)[[Code & Project page]](https://sites.google.com/site/jspanhomepage/l0rigdeblur)
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]]()[[Code]]()
 
-[-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]]()[[Code]]()
+[-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
 [-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]]()[[Code]]()
 
 [-] 2017-CVPR - From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
 
 [-] 2017-CVPR - Deblurring Natural Image Using Super-Gaussian Fields. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yuhang_Liu_Deblurring_Natural_Image_ECCV_2018_paper.html)[[Code]]()
+
+[-] 2017-ICCV - Blind Image Deblurring with Outlier Handling. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Blind_Image_Deblurring_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/qmxkkwgnmuwrfoj/code_iccv2017_outlier.zip?dl=0)
+
 
 
 [-] 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)[[Code]]()
@@ -75,12 +78,17 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-ICCV - Blur-Invariant Deep Learning for Blind Deblurring. [[Paper]]()[[Code]]()
 
-[-] 2018-TIP - Motion blur kernel estimation via deep learning. [[Paper]]()[[Code]]()
+[-] 2017-ICCV - Learning to Super-resolve Blurry Face and Text Images. [[Paper]](http://faculty.ucmerced.edu/mhyang/papers/iccv2017_gan_super_deblur.pdf)[[Code & Project page]](https://sites.google.com/view/xiangyuxu/deblursr_iccv17)
+
+[-] 2017-ICCV - Learning Discriminative Data Fitting Functions for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Pan_Learning_Discriminative_Data_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/oavk46q521fiowr/iccv17_learning_deblur_code.zip?dl=0)
+
+
+[-] 2018-TIP - Motion blur kernel estimation via deep learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8039224)[[Code & Project page]](https://sites.google.com/view/xiangyuxu/deepedge_tip)
 
 [-] 2018-CVPR - Deep Semantic Face Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Shen_Deep_Semantic_Face_CVPR_2018_paper.html)[[Code]]()
 
 
-[-] 2018-CVPR - Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Learning_a_Discriminative_CVPR_2018_paper.html)[[Code]]()
+[-] 2018-CVPR - Learning a Discriminative Prior for Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Learning_a_Discriminative_CVPR_2018_paper.html)[[Code & Project page]](https://sites.google.com/view/lerenhanli/homepage/learn_prior_deblur)
 
 [-] 2018-CVPR - Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Dynamic_Scene_Deblurring_CVPR_2018_paper.html)[[Code]](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
 
@@ -145,6 +153,9 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Learning Deep CNN Denoiser Prior for Image Restoration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)[[Code]](https://github.com/cszn/ircnn)
 
+[-] 2017-CVPR - Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution. [[Paper]](https://arxiv.org/pdf/1611.06495)[[Code]](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)
+
+
 
 [-] 2017-ICCV - Learning to push the limits of efficient fft-based image deconvolution. [[Paper]]()[[Code]]()
 
@@ -155,10 +166,12 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018- - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
 
-[-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)[[Code]]()
+[-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)
 
 
 # Multi-image/Video-Deblurring
+
+[-] 2017-ICCV - Video Deblurring via Semantic Segmentation and Pixel-Wise Non-Linear Kernel. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Video_Deblurring_via_ICCV_2017_paper.pdf)[[Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/pwnlk)
 
 [-] 2017-CVPR - Deep Video Deblurring for Hand-Held Cameras. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)[[Code]]()
 
