@@ -2,7 +2,7 @@
 A curated list of resources for Image and Video Deblurring
 
 # Single-Image-Blind-Deblurring (non-DL)
-[-] 2006-TOG - Removing camera shake from a single photograph. [[Paper]]()[[Code]]()
+[-] 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
 [-] 2007-CVPR - Single image motion deblurring using transparency. [[Paper]]()[[Code]]()
 
