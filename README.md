@@ -10,21 +10,21 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2008-TOG - High-quality motion deblurring from a single image. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/motion_deblurring/deblur_siggraph08.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/motion_deblurring/index.html)
 
-[-] 2009-TOG - Fast motion deblurring. [[Paper]]()[[Code]]()
+[-] 2009-TOG - Fast motion deblurring. [[Paper]](https://vclab.dgist.ac.kr/download/fast_motion_deblurring/paper.pdf)
 
-[-] 2009-CVPR - Image deblurring and denoising using color priors. [[Paper]]()[[Code]]()
+[-] 2009-CVPR - Image deblurring and denoising using color priors. [[Paper]](http://neelj.com/projects/twocolordeconvolution/two_color_deconvolution.pdf)[[Project page]](http://neelj.com/projects/twocolordeconvolution/)
 
-[-] 2010-CVPR - Efficient ̈filter flow for space-variant multiframe blind deconvolution. [[Paper]]()[[Code]]()
+[-] 2010-CVPR - Efficient ̈filter flow for space-variant multiframe blind deconvolution. [[Paper]](https://pure.mpg.de/rest/items/item_1789030/component/file_3009627/content)
 
-[-] 2010-CVPR - Non-uniform deblurring for shaken images. [[Paper]]()[[Code]]()
+[-] 2010-CVPR - Non-uniform deblurring for shaken images. [[Paper]](http://www.di.ens.fr/willow/pdfs/cvpr10d.pdf)[[Code & Project page]](https://www.di.ens.fr/willow/research/deblurring/)
 
-[-] 2010-ECCV - Single image deblurring using motion density functions. [[Paper]]()[[Code]]()
+[-] 2010-ECCV - Single image deblurring using motion density functions. [[Paper]](http://grail.cs.washington.edu/projects/mdf_deblurring/gupta_mdf_deblurring.pdf)[[Project page]](http://grail.cs.washington.edu/projects/mdf_deblurring/)
 
 [-] 2010-ECCV - Two-phase kernel estimation for robust motion deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/robust_motion_deblurring.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/index.html)
 
-[-] 2010-NIPS - Space-variant single-image blind deconvolution for removing camera shake. [[Paper]]()[[Code]]()
+[-] 2010-NIPS - Space-variant single-image blind deconvolution for removing camera shake. [[Paper]](https://papers.nips.cc/paper/4007-space-variant-single-image-blind-deconvolution-for-removing-camera-shake.pdf)
 
-[-] 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]]()[[Code]]()
+[-] 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/blind-deconvolution/)
 
 [-] 2011-CVPR - Blur kernel estimation using the radon transform. [[Paper]]()[[Code]]()
 
@@ -110,7 +110,7 @@ A curated list of resources for Image and Video Deblurring
 
 # Non-Blind-Deblurring
 
-[-] 2009-NIPS - Fast image deconvolution using hyper-laplacian priors. [[Paper]]()[[Code]]()
+[-] 2009-NIPS - Fast image deconvolution using hyper-laplacian priors. [[Paper]](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/fast-deconvolution/)
 
 
 [-] 2011-ICCV - Handling outliers in non-blind image deconvolution. [[Paper]]()[[Code]]()
