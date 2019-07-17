@@ -101,19 +101,42 @@ A curated list of resources for Image and Video Deblurring
 [-] 20- - . [[Paper]]()[[Code]]()
 
 
-# Single-Image-Non-Blind-Deblurring
+# Non-Blind-Deblurring
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2009-NIPS - D. Krishnan and R. Fergus. Fast image deconvolution using hyper-laplacian priors. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2011-ICCV - S. Cho, J. Wang, and S. Lee. Handling outliers in non-blind image deconvolution. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+[-] 2011-ICCV - D. Zoran and Y. Weiss. From learning models of natural image patches to whole image restoration. [[Paper]]()[[Code]]()
 
-[-] 20- - . [[Paper]]()[[Code]]()
+
+[-] 2012-TIP - A. Danielyan, V. Katkovnik, and K. Egiazarian. Bm3d frames and variational image deblurring. [[Paper]]()[[Code]]()
+
+
+[-] 2012-TIP - H. Ji and K. Wang. Robust image deblurring with an inaccurate blur kernel. [[Paper]]()[[Code]]()
+
+
+[-] 2014-TIP - A. Kheradmand and P. Milanfar. A general framework for regularized, similarity-based image restoration. [[Paper]]()[[Code]]()
+
+
+[-] 2013-CVPR - U. Schmidt, C. Rother, S. Nowozin, J. Jancsary, and S. Roth. Discriminative non-blind deblurring. [[Paper]]()[[Code]]()
+
+
+[-] 2014-NIPS - L. Xu, J. S. Ren, C. Liu, and J. Jia. Deep convolutional neural network for image deconvolution. [[Paper]]()[[Code]]()
+
+
+[-] 2014-CVPR - U. Schmidt and S. Roth. Shrinkage fields for effective image restoration. [[Paper]]()[[Code]]()
+
+
+[-] 2013-CVPR - C. J. Schuler, H. Christopher Burger, S. Harmeling, and B. Scholkopf. A machine learning approach for non-blind image deconvolution. [[Paper]]()[[Code]]()
+
+
+[-] 2017-ICCV - J. Kruse, C. Rother, and U. Schmidt. Learning to push the limits of efficient fft-based image deconvolution. [[Paper]]()[[Code]]()
+
+
+[-] 2018-CVPR - Subeesh Vasu, Venkatesh Maligireddy, and A.N. Rajagopalan, Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]]()[[Code]]()
 
 [-] 20- - . [[Paper]]()[[Code]]()
 
