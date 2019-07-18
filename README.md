@@ -168,5 +168,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-CVPR_W - NTIRE 2019 Challenge on Video Deblurring: Methods and Results [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)
 
+[-] 2019-CVPR_W - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)
+
 [-] 2019-CVPR_W - A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with
 Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)
