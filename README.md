@@ -46,6 +46,9 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
+[-] 2015-CVPR - Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation. [[Paper]](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)[[Project page]](http://iie.fing.edu.uy/~mdelbra/fba/)
+
+
 [-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
 [-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]](https://drive.google.com/file/d/0B7PPbXPJRQp3dDlIM1ctM2pMYjg/view)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
@@ -159,6 +162,9 @@ A curated list of resources for Image and Video Deblurring
 # Multi-image/Video-Deblurring
 
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
+
+[-] 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
+
 
 
 [-] 2015-CVPR - Generalized Video Deblurring for Dynamic Scenes. [[Paper]](http://cv.snu.ac.kr/publication/conf/2015/VD_CVPR2015.pdf)[[Code & Project page]](https://cv.snu.ac.kr/research/~VD/)
