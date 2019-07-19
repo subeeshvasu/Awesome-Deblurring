@@ -203,5 +203,16 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019 - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
 
+# Benchmark Datasets
+
+[-] 2012-ECCV - Recording and playback of camera shake: benchmarking blind deconvolution with a real-world database. [[Paper]](http://webdav.is.mpg.de/pixel/benchmark4camerashake/src_files/Pdf/Koehler_ECCV2012_Benchmark.pdf)[[Dataset]](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
+
+[-] 2013-ICCP - Edge-based blur kernel estimation using patch priors. [[Paper]](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)[[Dataset]](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
+
+[-] 2016-CVPR - A Comparative Study for Single Image Blind Deblurring. [[Paper]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/paper/cvpr16_deblur_study.pdf)[[Dataset]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
+
+[-] 2017-CVPR (GOPRO) - Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)[[Dataset]](https://github.com/SeungjunNah/DeepDeblur_release)
+
+[-] 2019-CVPR_W (REDS) - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)[[Dataset]](https://seungjunnah.github.io/Datasets/reds)
 
 
