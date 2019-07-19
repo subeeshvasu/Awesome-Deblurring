@@ -1,4 +1,3 @@
-# Awsome-Deblurring
 A curated list of resources for Image and Video Deblurring
 
 # Single-Image-Blind-Deblurring (non-DL)
