@@ -52,7 +52,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]](https://drive.google.com/file/d/0B7PPbXPJRQp3dDlIM1ctM2pMYjg/view)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
 
-[-] 2017-CVPR - From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
+[-] 2017-CVPR - From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page & Results-on-benchmark-datasets]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
 
 [-] 2017-CVPR - Deblurring Natural Image Using Super-Gaussian Fields. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yuhang_Liu_Deblurring_Natural_Image_ECCV_2018_paper.html)[[Code]]()
 
@@ -110,7 +110,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-CVPR - Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)
 
 
-[-] 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page]](https://github.com/anshulbshah/Blurred-Image-to-Video)
+[-] 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
 
 # Non-Blind-Deblurring
@@ -154,7 +154,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-NIPS - Deep Mean-Shift Priors for Image Restoration. [[Paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[Code]](https://github.com/siavashbigdeli/DMSP)
 
-[-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
+[-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 [-] 2018- - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
 
