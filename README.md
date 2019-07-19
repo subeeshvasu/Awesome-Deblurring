@@ -158,6 +158,9 @@ A curated list of resources for Image and Video Deblurring
 
 # Multi-image/Video-Deblurring
 
+[-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
+
+
 [-] 2015-CVPR - Generalized Video Deblurring for Dynamic Scenes. [[Paper]](http://cv.snu.ac.kr/publication/conf/2015/VD_CVPR2015.pdf)[[Code & Project page]](https://cv.snu.ac.kr/research/~VD/)
 
 [-] 2017-ICCV - Video Deblurring via Semantic Segmentation and Pixel-Wise Non-Linear Kernel. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Video_Deblurring_via_ICCV_2017_paper.pdf)[[Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/pwnlk)
