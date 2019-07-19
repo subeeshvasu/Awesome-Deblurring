@@ -158,6 +158,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)
 
+[-] 2018-NIPS - Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation. [[Paper]](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)[[Code]](https://github.com/rwenqi/NBD-GLRA)
+
 
 # Multi-image/Video-Deblurring
 
