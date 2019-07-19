@@ -129,7 +129,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2012-TIP - Robust image deblurring with an inaccurate blur kernel. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.1055&rep=rep1&type=pdf) [[Code]](https://blog.nus.edu.sg/matjh/download/)
 
-[-] 2013-CVPR - A machine learning approach for non-blind image deconvolution. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schuler_A_Machine_Learning_2013_CVPR_paper.pdf)[[Project page]](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
+[-] 2013-CVPR - A machine learning approach for non-blind image deconvolution. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schuler_A_Machine_Learning_2013_CVPR_paper.pdf)[[Code & Project page]](http://webdav.is.mpg.de/pixel/neural_deconvolution/)
 
 
 [-] 2013-CVPR - Discriminative non-blind deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/papers/Schmidt_Discriminative_Non-blind_Deblurring_2013_CVPR_paper.pdf)[[Code]](https://www.visinf.tu-darmstadt.de/vi_research/code/index.en.jsp#discriminative_deblurring)
@@ -165,9 +165,9 @@ A curated list of resources for Image and Video Deblurring
 
 # Multi-image/Video-Deblurring
 
-[-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
+[-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
-[-] 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
+[-] 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page & Results]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
 
 [-] 2015-CVPR - Generalized Video Deblurring for Dynamic Scenes. [[Paper]](http://cv.snu.ac.kr/publication/conf/2015/VD_CVPR2015.pdf)[[Code & Project page]](https://cv.snu.ac.kr/research/~VD/)
 
