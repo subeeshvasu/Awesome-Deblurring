@@ -190,6 +190,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-CVPR - EDVR: Video Restoration with Enhanced Deformable Convolutional Networks. [[Paper]](https://arxiv.org/abs/1905.02716)[[Code-Pytorch]](https://github.com/xinntao/EDVR)[[Project page]](https://xinntao.github.io/projects/EDVR)
 
+[-] 2019-CVPR - DAVANet: Stereo Deblurring With View Aggregation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.html)[[Code]](https://github.com/sczhou/DAVANet)
 
 [-] 2019-CVPR_W - NTIRE 2019 Challenge on Video Deblurring: Methods and Results [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)
 
