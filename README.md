@@ -216,6 +216,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2017-CVPR (GOPRO) - Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)[[Dataset]](https://github.com/SeungjunNah/DeepDeblur_release)
 
+[-] 2017-CVPR - Deep Video Deblurring for Hand-Held Cameras. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)[[Dataset]](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)
+
 [-] 2019-CVPR_W (REDS) - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)[[Dataset]](https://seungjunnah.github.io/Datasets/reds)
 
 
