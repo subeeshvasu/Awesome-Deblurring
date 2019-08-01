@@ -180,11 +180,15 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Deep Video Deblurring for Hand-Held Cameras. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)[[Code]](https://github.com/shuochsu/DeepVideoDeblurring)[[Project page]](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)
 
+[-] 2017-CVPR - Light Field Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Srinivasan_Light_Field_Blind_CVPR_2017_paper.html)[[code]](https://github.com/pratulsrinivasan/Light_Field_Blind_Motion_Deblurring)
+
 [-] 2017-ICCV - Video Deblurring via Semantic Segmentation and Pixel-Wise Non-Linear Kernel. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ren_Video_Deblurring_via_ICCV_2017_paper.pdf)[[Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/pwnlk)
 
 [-] 2017-ICCV - Online Video Deblurring via Dynamic Temporal Blending Network. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Kim_Online_Video_Deblurring_ICCV_2017_paper.pdf)
 
 [-] 2018-ECCV - Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)[[Project page]](http://people.csail.mit.edu/miika/eccv18_deblur/)
+
+[-] 2018-ECCV - Joint Blind Motion Deblurring and Depth Estimation of Light Field. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongwoo_Lee_Joint_Blind_Motion_ECCV_2018_paper.html)
 
 
 [-] 2019-TIP - Adversarial Spatio-Temporal Learning for Video Deblurring. [[Paper]](https://arxiv.org/abs/1804.00533)[[Code]](https://github.com/themathgeek13/STdeblur)[[Project page]](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)
