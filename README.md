@@ -204,6 +204,11 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019 - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
 
+# Other Closely Related Works
+
+[-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
+[[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
+
 # Benchmark Datasets
 
 [-] 2009-CVPR - Understanding and evaluating blind deconvolution algorithms. [[Paper]](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)[[Dataset]](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)
