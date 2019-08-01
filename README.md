@@ -206,6 +206,10 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 # Other Closely Related Works
 
+[-] 2019-CVPR - Learning to Extract Flawless Slow Motion From Blurry Videos. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.html)
+[[Code]](https://github.com/MeiguangJin/slow-motion)
+
+
 [-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
 [[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
 
