@@ -206,7 +206,9 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-CVPR_W - A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with
 Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)
 
-[-] 2019 - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
+[-] 2019-Arxiv - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
+
+[-] 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
 
 # Other Closely Related Works
 
@@ -219,8 +221,6 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
 [[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
-
-[-] 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
 
 # Benchmark Datasets
 
