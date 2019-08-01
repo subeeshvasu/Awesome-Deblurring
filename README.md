@@ -206,7 +206,6 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 # Other Closely Related Works
 
-
 [-] 2019-CVPR - Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)
 [[Code]](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
 
@@ -216,6 +215,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
 [[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
+
+[-] 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
 
 # Benchmark Datasets
 
