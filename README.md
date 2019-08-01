@@ -157,7 +157,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
-[-] 2018- - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
+[-] 2018-Arxiv - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
 
 [-] 2018-ECCV - Learning Data Terms for Non-blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)
 
