@@ -39,9 +39,9 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-CVPR - Deblurring Text Images via L0 -Regularized Intensity and Gradient Prior. [[Paper]](https://eng.ucmerced.edu/people/zhu/CVPR14_deblurtext.pdf)[[Code & Project page]](https://sites.google.com/site/jspanhomepage/l0rigdeblur)
 
-
 [-] 2014-CVPR - Segmentation-Free Dynamic Scene Deblurring. [[Paper]](https://cv.snu.ac.kr/publication/conf/2014/SFDSD_CVPR2014.pdf)
 
+[-] 2014-CVPR - Separable Kernel for Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/html/Fang_Separable_Kernel_for_2014_CVPR_paper.html)
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
