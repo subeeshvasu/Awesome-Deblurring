@@ -47,6 +47,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2015-CVPR - Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation. [[Paper]](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)[[Project page]](http://iie.fing.edu.uy/~mdelbra/fba/)
 
+[-] 2015-CVPR - Kernel Fusion for Better Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Mai_Kernel_Fusion_for_2015_CVPR_paper.html)[[Project page]](http://web.cecs.pdx.edu/~fliu/project/kernelfusion/)
 
 [-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
