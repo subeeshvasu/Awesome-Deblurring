@@ -116,6 +116,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-Arxiv - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
 
+[-] 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
+
 
 # Non-Blind-Deblurring
 
