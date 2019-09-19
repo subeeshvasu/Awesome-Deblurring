@@ -49,6 +49,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2015-CVPR - Kernel Fusion for Better Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Mai_Kernel_Fusion_for_2015_CVPR_paper.html)[[Project page]](http://web.cecs.pdx.edu/~fliu/project/kernelfusion/)
 
+[-] 2015-ICCV - Class-Specific Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_iccv_2015/html/Anwar_Class-Specific_Image_Deblurring_ICCV_2015_paper.html)[[Project page & Code]](https://github.com/saeed-anwar/Class_Specific_Deblurring)
+
 [-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
 [-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]](https://drive.google.com/file/d/0B7PPbXPJRQp3dDlIM1ctM2pMYjg/view)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
