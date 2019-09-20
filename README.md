@@ -102,6 +102,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2018-BMVC - Gated Fusion Network for Joint Image Deblurring and Super-Resolution. [[Paper]](https://arxiv.org/abs/1807.10806)[[Code]](https://github.com/jacquelinelala/GFN)[[Project page]](http://xinyizhang.tech/bmvc2018/)
 
+[-] 2019-WACV - Gyroscope-Aided Motion Deblurring with Deep Networks. [[Paper]](https://arxiv.org/abs/1810.00986)[[Code]](https://github.com/jannemus/DeepGyro)
+
 [-] 2019-CVPR - Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)[[Code]](https://github.com/cszn/DPSR)
 
 [-] 2019-CVPR - Dynamic Scene Deblurring With Parameter Selective Sharing and Nested Skip Connections. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Gao_Dynamic_Scene_Deblurring_With_Parameter_Selective_Sharing_and_Nested_Skip_CVPR_2019_paper.html)
@@ -117,8 +119,6 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-Arxiv - Spatially-Adaptive Residual Networks for Efficient Image and Video Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
 
 [-] 2019-Arxiv - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
-
-[-] 2019-WACV - Gyroscope-Aided Motion Deblurring with Deep Networks. [[Paper]](https://arxiv.org/abs/1810.00986)[[Code]](https://github.com/jannemus/DeepGyro)
 
 [-] 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
