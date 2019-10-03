@@ -217,6 +217,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-ICCV - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
 
+[-] 2019-ICCV - Face Video Deblurring using 3D Facial Priors. [[Project Page]](https://sites.google.com/site/renwenqi888/home/3dfacedeblurring)
+
 [-] 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
 
 # Other Closely Related Works
