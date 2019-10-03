@@ -248,7 +248,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-CVPR_W (REDS) - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)[[Dataset]](https://seungjunnah.github.io/Datasets/reds)
 
-[-] 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Dataset]](https://github.com/joanshen0508/HA_deblur)
+[-] 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)[[Dataset]](https://github.com/joanshen0508/HA_deblur)
 
 
 
