@@ -221,6 +221,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
 
+[-] 2019-Arxiv - Deep Video Deblurring: The Devil is in the Details. [[Paper]](https://arxiv.org/abs/1909.12196)
+
 # Other Closely Related Works
 
 [-] 2019-CVPR - Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)
