@@ -116,11 +116,11 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
-[-] 2019-Arxiv - Spatially-Adaptive Residual Networks for Efficient Image and Video Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
-
 [-] 2019-Arxiv - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
 
 [-] 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
+
+[-] 2020-AAAI - Region-Adaptive Dense Network for Efficient Motion Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
 
 
 # Non-Blind-Deblurring
