@@ -1,6 +1,6 @@
 A curated list of resources for Image and Video Deblurring
 
-# Single-Image-Blind-Deblurring (non-DL)
+# Single-Image-Blind-Motion-Deblurring (non-DL)
 [-] 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
 [-] 2007-CVPR - Single image motion deblurring using transparency. [[Paper]](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)
@@ -68,7 +68,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2019-CVPR - A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)
 
 
-# Single-Image-Blind-Deblurring (DL)
+# Single-Image-Blind-Motion-Deblurring (DL)
 
 [-] 2015-CVPR - Learning a convolutional neural network for non-uniform motion blur removal. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)[[Code 1]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip)[[Code 2]](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)
 
@@ -173,7 +173,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2018-NIPS - Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation. [[Paper]](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)[[Code]](https://github.com/rwenqi/NBD-GLRA)
 
 
-# Multi-image/Video-Deblurring
+# Multi-image/Video-Motion-Deblurring
 
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
