@@ -120,6 +120,10 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
+[-] 2019-IJCV - Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement. [[Paper]](https://arxiv.org/abs/1811.09019)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
+
+[-] 2020-AAAI - Learning to Deblur Face Images via Sketch Synthesis. [[Paper]]()
+
 [-] 2020-AAAI - Region-Adaptive Dense Network for Efficient Motion Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
 
 
