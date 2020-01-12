@@ -179,6 +179,8 @@ A curated list of resources for Image and Video Deblurring
 
 # Multi-image/Video-Motion-Deblurring
 
+[-] 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
+
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
 [-] 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page & Results]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
@@ -238,6 +240,14 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
 [[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
+
+# Defocus Deblurring
+
+[-] 2012-ICASSP - Spatially-varying out-of-focus image deblurring with L1-2 optimization and a guided blur map. [[Paper]](https://ieeexplore.ieee.org/document/6288071)
+
+[-] 2013-ICASSP - Removing out-of-focus blur from similar image pairs. [[Paper]](https://ieeexplore.ieee.org/document/6637925)
+
+
 
 # Benchmark Datasets
 
