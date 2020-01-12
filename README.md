@@ -257,6 +257,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2017-BMVC - Depth Estimation and Blur Removal from a Single Out-of-focus Image. [[Paper]](https://saeed-anwar.github.io/papers/BMVC17-depth.pdf)
 
+[-] 2017-CVPR - Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Golestaneh_Spatially-Varying_Blur_Detection_CVPR_2017_paper.html)[[Code]](https://github.com/isalirezag/HiFST)
+
 [-] 2017-ICCV - Learning to Synthesize a 4D RGBD Light Field from a Single Image. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Srinivasan_Learning_to_Synthesize_ICCV_2017_paper.html)[[Dataset and Project Page]](https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis)
 
 [-] 2018-ECCVW - Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?. [[Paper]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)[[Dataset and Code]](https://github.com/marcelampc/d3net_depth_estimation)
