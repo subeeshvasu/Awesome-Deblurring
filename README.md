@@ -243,6 +243,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 # Defocus Deblurring and Potential Datasets
 
+[-] 2009-ICCP - What are Good Apertures for Defocus Deblurring?. [[Paper]](https://ieeexplore.ieee.org/document/5559018)
+
 [-] 2012-ICASSP - Spatially-varying out-of-focus image deblurring with L1-2 optimization and a guided blur map. [[Paper]](https://ieeexplore.ieee.org/document/6288071)
 
 [-] 2013-ICASSP - Removing out-of-focus blur from similar image pairs. [[Paper]](https://ieeexplore.ieee.org/document/6637925)
