@@ -247,7 +247,9 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2013-ICASSP - Removing out-of-focus blur from similar image pairs. [[Paper]](https://ieeexplore.ieee.org/document/6637925)
 
+[-] 2017-BMVC - Depth Estimation and Blur Removal from a Single Out-of-focus Image. [[Paper]](https://saeed-anwar.github.io/papers/BMVC17-depth.pdf)
 
+[-] 2018-ECCVW - Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?. [[Paper]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)[[Dataset and Code]](https://github.com/marcelampc/d3net_depth_estimation)
 
 # Benchmark Datasets
 
