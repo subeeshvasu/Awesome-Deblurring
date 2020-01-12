@@ -251,6 +251,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2014-CVPR - Discriminative Blur Detection Features. [[Paper]](http://www.shijianping.me/blur_cvpr14.pdf)[[Project Page]](http://www.cse.cuhk.edu.hk/~leojia/projects/dblurdetect/index.html)
 
+[-] 2015-CVPR - Just Noticeable Defocus Blur Detection and Estimation. [[Paper]](http://shijianping.me/jnb/papers/jnbdetection_final.pdf)[[Project Page]](http://shijianping.me/jnb/index.html)
+
 [-] 2016 - Spatially Variant Defocus Blur Map Estimation and Deblurring from a Single Image. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1047320316000031)[[Code]](https://github.com/ZHANGXinxinPKU/defocus-deblurring)
 
 [-] 2017-BMVC - Depth Estimation and Blur Removal from a Single Out-of-focus Image. [[Paper]](https://saeed-anwar.github.io/papers/BMVC17-depth.pdf)
