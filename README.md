@@ -250,6 +250,9 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 # Other Closely Related Works
 
+[-] 2013-TOG - A No-Reference Metric for Evaluating The Quality of Motion Deblurring. [[Paper]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)
+[[Code & Project Page]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)
+
 [-] 2019-CVPR - Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)
 [[Code]](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
 
