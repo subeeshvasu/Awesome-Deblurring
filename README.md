@@ -189,7 +189,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2012-TOG - Video deblurring for hand-held cameras using patch-based synthesis. [[Paper]](https://www.juew.org/publication/video_deblur.pdf)[[Project page]](http://cg.postech.ac.kr/research/video_deblur/)
 
-[-] 2013-CVPR - Multi-image Blind Deblurring Using a Coupled Adaptive Sparse Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhang_Multi-image_Blind_Deblurring_2013_CVPR_paper.html)[[Project page]](https://sites.google.com/site/hczhang1/projects/sparse-blind-deblurring)
+[-] 2013-CVPR - Multi-image Blind Deblurring Using a Coupled Adaptive Sparse Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhang_Multi-image_Blind_Deblurring_2013_CVPR_paper.html)[[Code & Project page]](https://sites.google.com/site/hczhang1/projects/sparse-blind-deblurring)
 
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
