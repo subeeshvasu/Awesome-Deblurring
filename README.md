@@ -165,6 +165,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-CVPR - Shrinkage fields for effective image restoration. [[Paper]](http://research.uweschmidt.org/pubs/cvpr14schmidt.pdf)[[Code]](https://github.com/uschmidt83/shrinkage-fields)
 
+[-] 2014-ECCV - Good Image Priors for Non-blind Deconvolution: Generic vs Specific. [[Paper]](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors_eccv2014.pdf)[[Project page]](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors2014eccv.html)
+
 [-] 2017-CVPR - Noise-Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Jin_Noise-Blind_Image_Deblurring_CVPR_2017_paper.html)
 
 [-] 2017-CVPR - Image Deblurring via Extreme Channels Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
