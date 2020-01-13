@@ -295,6 +295,9 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2018-PG - Defocus and Motion Blur Detection with Deep Contextual Features. [[Paper]](http://cg.postech.ac.kr/papers/Kim2018Defocus.pdf)[[Dataset and Code]](https://github.com/HyeongseokSon1/deep_blur_detection_and_classification)
 
+[-] 2019-CVPR - 
+Deep Defocus Map Estimation using Domain Adaptation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Lee_Deep_Defocus_Map_Estimation_Using_Domain_Adaptation_CVPR_2019_paper.html)[[Dataset and Code]](https://github.com/codeslake/DMENet)
+
 # Benchmark Datasets on Motion Deblurring
 
 [-] 2009-CVPR - Understanding and evaluating blind deconvolution algorithms. [[Paper]](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)[[Dataset]](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)
