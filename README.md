@@ -51,9 +51,11 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-ECCV - Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information. [[Paper]](http://www.juew.org/publication/ECCV14-hybridDeblur.pdf)
 
-[-] 2014-NIPS - Scale Adaptive Blind Deblurring. [[Paper]](https://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring)[[Project page]](https://sites.google.com/site/hczhang1/projects/scale-adaptive-blind-deblurring)
+[-] 2014-ECCV - Deblurring Face Images with Exemplars. [[Paper]](https://faculty.ucmerced.edu/mhyang/papers/eccv14_deblur.pdf)
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
+
+[-] 2014-NIPS - Scale Adaptive Blind Deblurring. [[Paper]](https://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring)[[Project page]](https://sites.google.com/site/hczhang1/projects/scale-adaptive-blind-deblurring)
 
 [-] 2015-CVPR - Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation. [[Paper]](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)[[Project page]](http://iie.fing.edu.uy/~mdelbra/fba/)
 
