@@ -49,6 +49,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-CVPR - Deblurring Low-light Images with Light Streaks. [[Paper]](https://eng.ucmerced.edu/people/zhu/CVPR14_lightstreak.pdf)[[Code & Project page]](https://eng.ucmerced.edu/people/zhu/CVPR14_lightstreak.html)
 
+[-] 2014-ECCV - Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information. [[Paper]](http://www.juew.org/publication/ECCV14-hybridDeblur.pdf)
+
 [-] 2014-NIPS - Scale Adaptive Blind Deblurring. [[Paper]](https://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring)[[Project page]](https://sites.google.com/site/hczhang1/projects/scale-adaptive-blind-deblurring)
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
