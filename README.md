@@ -84,6 +84,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2015-CVPR - Learning a convolutional neural network for non-uniform motion blur removal. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)[[Code 1]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip)[[Code 2]](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)
 
+[-] 2015-CVPR - Convolutional neural networks for direct text deblurring. [[Paper]](http://www.bmva.org/bmvc/2015/papers/paper006/index.html)[[Code and Project Page]](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)
+
 [-] 2016-ECCV - A neural approach to blind motion deblurring. [[Paper]](https://arxiv.org/abs/1603.04771)[[Code]](https://github.com/ayanc/ndeblur)
 
 [-] 2016-PAMI - Learning to deblur. [[Paper]](https://arxiv.org/pdf/1406.7444.pdf)
