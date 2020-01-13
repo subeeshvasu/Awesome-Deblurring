@@ -47,6 +47,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-CVPR - Separable Kernel for Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/html/Fang_Separable_Kernel_for_2014_CVPR_paper.html)
 
+[-] 2014-NIPS - Scale Adaptive Blind Deblurring. [[Paper]](https://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring)[[Project page]](https://sites.google.com/site/hczhang1/projects/scale-adaptive-blind-deblurring)
+
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
 [-] 2015-CVPR - Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation. [[Paper]](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)[[Project page]](http://iie.fing.edu.uy/~mdelbra/fba/)
@@ -186,6 +188,8 @@ A curated list of resources for Image and Video Deblurring
 [-] 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
 
 [-] 2012-TOG - Video deblurring for hand-held cameras using patch-based synthesis. [[Paper]](https://www.juew.org/publication/video_deblur.pdf)[[Project page]](http://cg.postech.ac.kr/research/video_deblur/)
+
+[-] 2013-CVPR - Multi-image Blind Deblurring Using a Coupled Adaptive Sparse Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhang_Multi-image_Blind_Deblurring_2013_CVPR_paper.html)[[Project page]](https://sites.google.com/site/hczhang1/projects/sparse-blind-deblurring)
 
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
