@@ -51,7 +51,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2014-ECCV - Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information. [[Paper]](http://www.juew.org/publication/ECCV14-hybridDeblur.pdf)
 
-[-] 2014-ECCV - Deblurring Face Images with Exemplars. [[Paper]](https://faculty.ucmerced.edu/mhyang/papers/eccv14_deblur.pdf)
+[-] 2014-ECCV - Deblurring Face Images with Exemplars. [[Paper]](https://faculty.ucmerced.edu/mhyang/papers/eccv14_deblur.pdf)[[Code & Project page]](https://eng.ucmerced.edu/people/zhu/ECCV14_facedeblur.html)
 
 [-] 2014-ECCV - Blind deblurring using internal patch recurrence. [[Paper]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)[[Code & Project page]](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)
 
