@@ -98,7 +98,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-CVPR - Deep multi-scale convolutional neural network for dynamic scene deblurring. [[Paper]](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)[[Code]](https://github.com/SeungjunNah/DeepDeblur_release)
 
-[-] 2017-CVPR - From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Gong_From_Motion_Blur_CVPR_2017_paper.html)[[Code]]()
+[-] 2017-CVPR - From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_From_Motion_Blur_CVPR_2017_paper.pdf)[[Code & Project page]](https://donggong1.github.io/blur2mflow.html)
 
 [-] 2017-ICCV - Blur-Invariant Deep Learning for Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nimisha_Blur-Invariant_Deep_Learning_ICCV_2017_paper.pdf)
 
@@ -223,8 +223,6 @@ A curated list of resources for Image and Video Deblurring
 [-] 2015-CVPR - Intra-Frame Deblurring by Leveraging Inter-Frame Camera Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Zhang_Intra-Frame_Deblurring_by_2015_CVPR_paper.html)[[Project page]](https://sites.google.com/site/hczhang1/projects/video_deblur)
 
 [-] 2016-ECCV - Stereo video deblurring. [[Paper]](https://arxiv.org/abs/1607.08421)
-
-[-] 2017-CVPR - From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Heterogeneous Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gong_From_Motion_Blur_CVPR_2017_paper.pdf)[[Code & Project page]](https://donggong1.github.io/blur2mflow.html)
 
 [-] 2017-CVPR - Simultaneous stereo video deblurring and scene flow estimation. [[Paper]](https://arxiv.org/abs/1704.03273)
 
