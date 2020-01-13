@@ -183,11 +183,15 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
 
+[-] 2012-TOG - Video deblurring for hand-held cameras using patch-based synthesis. [[Paper]](https://www.juew.org/publication/video_deblur.pdf)[[Project page]](http://cg.postech.ac.kr/research/video_deblur/)
+
 [-] 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
 [-] 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page & Results]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
 
 [-] 2015-CVPR - Generalized Video Deblurring for Dynamic Scenes. [[Paper]](http://cv.snu.ac.kr/publication/conf/2015/VD_CVPR2015.pdf)[[Code & Project page]](https://cv.snu.ac.kr/research/~VD/)
+
+[-] 2015-CVPR - Intra-Frame Deblurring by Leveraging Inter-Frame Camera Motion. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2015/html/Zhang_Intra-Frame_Deblurring_by_2015_CVPR_paper.html)[[Project page]](https://sites.google.com/site/hczhang1/projects/video_deblur)
 
 [-] 2016-ECCV - Stereo video deblurring. [[Paper]](https://arxiv.org/abs/1607.08421)
 
