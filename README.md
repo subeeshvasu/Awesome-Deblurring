@@ -137,6 +137,7 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2009-NIPS - Fast image deconvolution using hyper-laplacian priors. [[Paper]](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/fast-deconvolution/)
 
+[-] 2011-PAMI - Richardson-Lucy Deblurring for Scenes under a Projective Motion Path. [[Paper]](https://ieeexplore.ieee.org/document/5674049)
 
 [-] 2011-ICCV - Handling outliers in non-blind image deconvolution. [[Paper]](http://cg.postech.ac.kr/papers/deconv_outliers.pdf)[[Code]](https://github.com/CoupeLibrary/handleoutlier)
 
@@ -186,6 +187,8 @@ A curated list of resources for Image and Video Deblurring
 # Multi-image/Video-Motion-Deblurring
 
 [-] 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
+
+[-] 2012-TIP - Robust multichannel blind deconvolution via fast alternating minimization. [[Paper]](https://users.soe.ucsc.edu/~milanfar/publications/journal/MCBD.pdf)
 
 [-] 2012-TOG - Video deblurring for hand-held cameras using patch-based synthesis. [[Paper]](https://www.juew.org/publication/video_deblur.pdf)[[Project page]](http://cg.postech.ac.kr/research/video_deblur/)
 
