@@ -35,8 +35,6 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2013-CVPR - Handling noise in single image deblurring using directional filters. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhong_Handling_Noise_in_2013_CVPR_paper.html)
 
-[-] 2013-ICCP - Edge-based Blur Kernel Estimation Using Patch Priors. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhong_Handling_Noise_in_2013_CVPR_paper.html)[[Project page]](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
-
 [-] 2013-NIPS - Non-Uniform Camera Shake Removal Using a Spatially-Adaptive Sparse Penalty. [[Paper]](https://papers.nips.cc/paper/4864-non-uniform-camera-shake-removal-using-a-spatially-adaptive-sparse-penalty)[[Project page]](https://sites.google.com/site/hczhang1/projects/non-uniform-camera-shake-removal)
 
 [-] 2013-ICCV - Dynamic Scene Deblurring. [[Paper]](https://cv.snu.ac.kr/publication/conf/2013/DSD_ICCV2013.pdf)
