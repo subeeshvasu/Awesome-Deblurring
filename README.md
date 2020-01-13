@@ -63,6 +63,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2016-CVPR - Blind image deblurring using dark channel prior. [[Paper]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)[[Code & Project page]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
+[-] 2016-CVPR - Robust Kernel Estimation with Outliers Handling for Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2016/html/Pan_Robust_Kernel_Estimation_CVPR_2016_paper.html)[[Code]](https://www.dropbox.com/s/hz9qmi8ar1k1zn0/pcode.zip?dl=0)
+
 [-] 2017-CVPR - Image deblurring via extreme channels prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
 
 [-] 2017-CVPR - From local to global: Edge profiles to camera motion in blurred images. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Vasu_From_Local_to_CVPR_2017_paper.html)[[Project page & Results-on-benchmark-datasets]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/)
