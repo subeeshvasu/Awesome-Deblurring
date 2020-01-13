@@ -293,6 +293,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 [-] 2018-ECCVW - Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?. [[Paper]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)[[Dataset and Code]](https://github.com/marcelampc/d3net_depth_estimation)
 
+[-] 2018-PG - Defocus and Motion Blur Detection with Deep Contextual Features. [[Paper]](http://cg.postech.ac.kr/papers/Kim2018Defocus.pdf)
+
 # Benchmark Datasets on Motion Deblurring
 
 [-] 2009-CVPR - Understanding and evaluating blind deconvolution algorithms. [[Paper]](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)[[Dataset]](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)
