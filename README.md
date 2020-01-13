@@ -71,6 +71,8 @@ A curated list of resources for Image and Video Deblurring
 
 [-] 2017-ICCV - Blind Image Deblurring with Outlier Handling. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Blind_Image_Deblurring_ICCV_2017_paper.pdf)[[Code]](https://www.dropbox.com/s/qmxkkwgnmuwrfoj/code_iccv2017_outlier.zip?dl=0)
 
+[-] 2017-ICCV - Convergence Analysis of MAP based Blur Kernel Estimation. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Cho_Convergence_Analysis_of_ICCV_2017_paper.html)
+
 [-] 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)
 
 [-] 2019-CVPR - Phase-Only Image Based Kernel Estimation for Single Image Blind Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Phase-Only_Image_Based_Kernel_Estimation_for_Single_Image_Blind_Deblurring_CVPR_2019_paper.html)[[Results-on-benchmark-datasets]](https://github.com/panpanfei/Phase-only-Image-Based-Kernel-Estimation-for-Blind-Motion-Deblurring/tree/master/result)
