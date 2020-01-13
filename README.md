@@ -184,7 +184,7 @@ A curated list of resources for Image and Video Deblurring
 [-] 2018-NIPS - Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation. [[Paper]](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)[[Code]](https://github.com/rwenqi/NBD-GLRA)
 
 
-# Multi-image/Video-Motion-Deblurring
+# (Multi-image/Video)-Motion-Deblurring
 
 [-] 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
 
