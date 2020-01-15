@@ -269,15 +269,19 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 [-] 2013-TOG - A No-Reference Metric for Evaluating The Quality of Motion Deblurring. [[Paper]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)
 [[Code & Project Page]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)
 
+[-] 2018-CVPR - Learning to extract a video sequence from a single motion-blurred image. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Jin_Learning_to_Extract_CVPR_2018_paper.html)
+[[Code]](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)
+
 [-] 2019-CVPR - Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)
 [[Code]](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
 
 [-] 2019-CVPR - Learning to Extract Flawless Slow Motion From Blurry Videos. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.html)
 [[Code]](https://github.com/MeiguangJin/slow-motion)
 
-
 [-] 2019-CVPR - Learning to Synthesize Motion Blur. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)[[Project page]](http://timothybrooks.com/tech/motion-blur/)
 [[Code]](https://github.com/google-research/google-research/tree/master/motion_blur)
+
+[-] 2019 - Photosequencing of Motion Blur using Short and Long Exposures. [[Paper]](https://arxiv.org/abs/1912.06102)
 
 # Defocus Deblurring and Potential Datasets
 
