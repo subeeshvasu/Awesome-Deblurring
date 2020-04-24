@@ -146,13 +146,13 @@ A curated list of resources for Image and Video Deblurring
 
 + 2019-IJCV - Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement. [[Paper]](https://arxiv.org/abs/1811.09019)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
-+ 2019-Arxiv - Neural Blind Deconvolution Using Deep Priors. [[Paper]](https://arxiv.org/abs/1908.02197)[[Code]](https://github.com/csdwren/SelfDeblur)
-
 + 2020-AAAI - Learning to Deblur Face Images via Sketch Synthesis. [[Paper]]()
 
 + 2020-AAAI - Region-Adaptive Dense Network for Efficient Motion Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
 
 + 2020-WACV - DAVID: Dual-Attentional Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Wu_DAVID_Dual-Attentional_Video_Deblurring_WACV_2020_paper.html)
+
++ 2019-CVPR - Neural Blind Deconvolution Using Deep Priors. [[Paper]](https://arxiv.org/abs/1908.02197)[[Code]](https://github.com/csdwren/SelfDeblur)
 
 + 2020-CVPR - Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring. [[Paper]](https://arxiv.org/pdf/2004.05343.pdf)
 
