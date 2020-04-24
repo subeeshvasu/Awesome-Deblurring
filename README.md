@@ -152,7 +152,9 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-AAAI - Region-Adaptive Dense Network for Efficient Motion Deblurring. [[Paper]](https://arxiv.org/abs/1903.11394)
 
-+ 2020-Arxiv - Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring. [[Paper]](https://arxiv.org/pdf/2004.05343.pdf)
++ 2020-WACV - DAVID: Dual-Attentional Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Wu_DAVID_Dual-Attentional_Video_Deblurring_WACV_2020_paper.html)
+
++ 2020-CVPR - Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring. [[Paper]](https://arxiv.org/pdf/2004.05343.pdf)
 
 # Non-Blind-Deblurring
 
