@@ -156,6 +156,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring. [[Paper]](https://arxiv.org/pdf/2004.05343.pdf)
 
++ 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
+
 # Non-Blind-Deblurring
 
 + 2009-NIPS - Fast image deconvolution using hyper-laplacian priors. [[Paper]](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/fast-deconvolution/)
