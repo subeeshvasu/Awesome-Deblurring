@@ -140,6 +140,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
++ 2019-CVPR - Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)
+
 + 2019-Arxiv - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
 
 + 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
