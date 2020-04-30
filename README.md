@@ -197,8 +197,6 @@ A curated list of resources for Image and Video Deblurring
 
 + 2017-CVPR - Noise-Blind Image Deblurring. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Jin_Noise-Blind_Image_Deblurring_CVPR_2017_paper.html)
 
-+ 2017-CVPR - Image Deblurring via Extreme Channels Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Image_Deblurring_via_CVPR_2017_paper.html)[[Code & Project page]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
-
 + 2017-CVPR - Learning Deep CNN Denoiser Prior for Image Restoration. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)[[Code]](https://github.com/cszn/ircnn)
 
 + 2017-CVPR - Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution. [[Paper]](https://arxiv.org/pdf/1611.06495)[[Code]](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)
