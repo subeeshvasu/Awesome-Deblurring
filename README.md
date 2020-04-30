@@ -3,6 +3,8 @@ A curated list of resources for Image and Video Deblurring
 # Single-Image-Blind-Motion-Deblurring (non-DL)
 + 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
++ 2006-IJCV - Image deblurring in the presence of impulsive noise. [[Paper]](https://link.springer.com/article/10.1007/s11263-006-6468-1)
+
 + 2007-CVPR - Single image motion deblurring using transparency. [[Paper]](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)
 
 + 2008-CVPR - Psf estimation using sharp edge prediction. [[Paper]](http://vision.ucsd.edu/kriegman-grp/research/psf_estimation/psf_estimation.pdf)[[Project page]](http://vision.ucsd.edu/kriegman-grp/research/psf_estimation/)
