@@ -136,8 +136,6 @@ A curated list of resources for Image and Video Deblurring
 
 + 2019-CVPR - Unsupervised Domain-Specific Deblurring via Disentangled Representations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Lu_Unsupervised_Domain-Specific_Deblurring_via_Disentangled_Representations_CVPR_2019_paper.html)[[Code]](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring)
 
-+ 2019-CVPR - Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)
-
 + 2019-CVPR - Bringing Alive Blurred Moments. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/anshulbshah/Blurred-Image-to-Video)
 
 + 2019-CVPR - Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)
