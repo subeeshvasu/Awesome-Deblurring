@@ -164,7 +164,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training.
 
-+ 2020-CVPR - https://arxiv.org/abs/2004.02956. [[Paper]](https://arxiv.org/abs/2004.02956)
++ 2020-CVPR - Deblurring using Analysis-Synthesis Networks Pair. [[Paper]](https://arxiv.org/abs/2004.02956)
 
 + 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
 
