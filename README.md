@@ -152,7 +152,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-WACV - DAVID: Dual-Attentional Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Wu_DAVID_Dual-Attentional_Video_Deblurring_WACV_2020_paper.html)
 
-+ 2019-CVPR - Neural Blind Deconvolution Using Deep Priors. [[Paper]](https://arxiv.org/abs/1908.02197)[[Code]](https://github.com/csdwren/SelfDeblur)
++ 2020-CVPR - Neural Blind Deconvolution Using Deep Priors. [[Paper]](https://arxiv.org/abs/1908.02197)[[Code]](https://github.com/csdwren/SelfDeblur)
 
 + 2020-TIP - Efficient and Interpretable Deep Blind Image Deblurring Via Algorithm Unrolling. [[Paper]](https://arxiv.org/pdf/1902.03493.pdf)
 
@@ -223,6 +223,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
 
++ 2020-CVPR - Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution
 
 # (Multi-image/Video)-Motion-Deblurring
 
@@ -261,7 +262,6 @@ A curated list of resources for Image and Video Deblurring
 + 2018-ECCV - Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)[[Project page]](http://people.csail.mit.edu/miika/eccv18_deblur/)
 
 + 2018-ECCV - Joint Blind Motion Deblurring and Depth Estimation of Light Field. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongwoo_Lee_Joint_Blind_Motion_ECCV_2018_paper.html)
-
 
 + 2019-TIP - Adversarial Spatio-Temporal Learning for Video Deblurring. [[Paper]](https://arxiv.org/abs/1804.00533)[[Code]](https://github.com/themathgeek13/STdeblur)[[Project page]](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)
 
