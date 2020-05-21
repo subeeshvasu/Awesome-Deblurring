@@ -158,6 +158,12 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring. [[Paper]](https://arxiv.org/pdf/2004.05343.pdf)
 
++ 2020-CVPR - Deblurring by Realistic Blurring. [[Paper]](https://arxiv.org/abs/2004.01860)
+
++ 2020-CVPR - Learning Event-Based Motion Deblurring. [[Paper]](https://arxiv.org/abs/2004.05794)
+
++ 2020-CVPR - Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training.
+
 + 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
 
 # Non-Blind-Deblurring
@@ -276,6 +282,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2019-Arxiv - Deep Video Deblurring: The Devil is in the Details. [[Paper]](https://arxiv.org/abs/1909.12196)
 
++ 2020-CVPR - Cascaded Deep Video Deblurring Using Temporal Sharpness Prior. [[Paper]](https://arxiv.org/abs/2004.02501)[[Code]](https://github.com/csbhr/CDVD-TSP)[[Project Page]](https://baihaoran.xyz/projects/cdvd-tsp/index.html)
+
 # Other Closely Related Works
 
 + 2013-TOG - A No-Reference Metric for Evaluating The Quality of Motion Deblurring. [[Paper]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)
@@ -340,3 +348,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 + 2019-CVPR_W (REDS) - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)[[Dataset]](https://seungjunnah.github.io/Datasets/reds)
 
 + 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)[[Dataset]](https://github.com/joanshen0508/HA_deblur)
+
++ 2020-CVPR - Deblurring by Realistic Blurring. [[Paper]](https://arxiv.org/abs/2004.01860)
+
++ 2020-CVPR - Learning Event-Based Motion Deblurring. [[Paper]](https://arxiv.org/abs/2004.05794)
