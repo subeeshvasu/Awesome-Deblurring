@@ -164,6 +164,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training.
 
++ 2020-CVPR - https://arxiv.org/abs/2004.02956. [[Paper]](https://arxiv.org/abs/2004.02956)
+
 + 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
 
 # Non-Blind-Deblurring
@@ -219,7 +221,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2018-NIPS - Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation. [[Paper]](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)[[Code]](https://github.com/rwenqi/NBD-GLRA)
 
-+ 2010-CVPR - Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
++ 2020-CVPR - Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
 
 
 # (Multi-image/Video)-Motion-Deblurring
@@ -285,6 +287,8 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 + 2019-Arxiv - Deep Video Deblurring: The Devil is in the Details. [[Paper]](https://arxiv.org/abs/1909.12196)
 
 + 2020-CVPR - Cascaded Deep Video Deblurring Using Temporal Sharpness Prior. [[Paper]](https://arxiv.org/abs/2004.02501)[[Code]](https://github.com/csbhr/CDVD-TSP)[[Project Page]](https://baihaoran.xyz/projects/cdvd-tsp/index.html)
+
++ 2020-CVPR - Blurry Video Frame Interpolation. [[Paper]](https://arxiv.org/abs/2002.12259)[[Code]](https://github.com/laomao0/BIN)
 
 # Other Closely Related Works
 
