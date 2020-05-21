@@ -219,6 +219,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2018-NIPS - Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation. [[Paper]](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)[[Code]](https://github.com/rwenqi/NBD-GLRA)
 
++ 2010-CVPR - Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
+
 
 # (Multi-image/Video)-Motion-Deblurring
 
