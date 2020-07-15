@@ -17,6 +17,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2010-CVPR - Non-uniform deblurring for shaken images. [[Paper]](http://www.di.ens.fr/willow/pdfs/cvpr10d.pdf)[[Code & Project page]](https://www.di.ens.fr/willow/research/deblurring/)
 
++ 2010-CVPR - Denoising vs. deblurring: HDR imaging techniques using moving cameras. [[Paper]](https://ieeexplore.ieee.org/document/5540171)
+
 + 2010-ECCV - Single image deblurring using motion density functions. [[Paper]](http://grail.cs.washington.edu/projects/mdf_deblurring/gupta_mdf_deblurring.pdf)[[Project page]](http://grail.cs.washington.edu/projects/mdf_deblurring/)
 
 + 2010-ECCV - Two-phase kernel estimation for robust motion deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/robust_motion_deblurring.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/robust_deblur/index.html)
@@ -26,6 +28,8 @@ A curated list of resources for Image and Video Deblurring
 + 2011-CVPR - Blind deconvolution using a normalized sparsity measure. [[Paper]](https://dilipkay.files.wordpress.com/2019/04/priors_cvpr11.pdf)[[Code & Project page]](https://dilipkay.wordpress.com/blind-deconvolution/)
 
 + 2011-CVPR - Blur kernel estimation using the radon transform. [[Paper]](http://people.csail.mit.edu/sparis/publi/2011/cvpr_radon/Cho_11_Blur_Kernel_Estimation.pdf)[[Code]](http://people.csail.mit.edu/taegsang/Thesis.html)
+
++ 2011-CVPR - Exploring aligned complementary image pair for blind motion deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5995351)
 
 + 2011-ICCV - Fast removal of non-uniform camera shake. [[Paper]](http://pixel.kyb.tuebingen.mpg.de/fast_removal_of_camera_shake/files/Hirsch_ICCV2011_Fast%20removal%20of%20non-uniform%20camera%20shake.pdf)
 
@@ -82,6 +86,8 @@ A curated list of resources for Image and Video Deblurring
 + 2017-ICCV - Convergence Analysis of MAP based Blur Kernel Estimation. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Cho_Convergence_Analysis_of_ICCV_2017_paper.html)
 
 + 2018-ECCV - Normalized Blind Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Meiguang_Jin_Normalized_Blind_Deconvolution_ECCV_2018_paper.html)[[Code]](https://github.com/MeiguangJin/NBD)
+
++ 2018-TIP - Graph-Based Blind Image Deblurring From a Single Photograph. [[Paper]](https://arxiv.org/abs/1802.07929)
 
 + 2019-CVPR - Blind Image Deblurring With Local Maximum Gradient Prior. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.html)
 
@@ -236,7 +242,17 @@ A curated list of resources for Image and Video Deblurring
 
 # (Multi-image/Video)-Motion-Deblurring
 
++ 2007-TOG - Image Deblurring with Blurred/Noisy Image Pairs. [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Deblurring_SIGGRAPH07.pdf)
+
++ 2008-CVPR - Robust dual motion deblurring. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.6370&rep=rep1&type=pdf)
+
++ 2009-JCP - Blind motion deblurring using multiple images. [[Paper]](ftp://ftp.math.ucla.edu/pub/camreport/cam09-59.pdf)
+
 + 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
+
++ 2010-CVPR - Efficient filter flow for space-variant multiframe blind deconvolution. [[Paper]](http://suvrit.de/papers/cvpr10.pdf)
+
++ 2012-ECCV - Deconvolving PSFs for A Better Motion Deblurring using Multiple Images. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.6526&rep=rep1&type=pdf)
 
 + 2012-TIP - Robust multichannel blind deconvolution via fast alternating minimization. [[Paper]](https://users.soe.ucsc.edu/~milanfar/publications/journal/MCBD.pdf)
 
@@ -247,6 +263,8 @@ A curated list of resources for Image and Video Deblurring
 + 2013-CVPR - Multi-image Blind Deblurring Using a Coupled Adaptive Sparse Prior. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhang_Multi-image_Blind_Deblurring_2013_CVPR_paper.html)[[Code & Project page]](https://sites.google.com/site/hczhang1/projects/sparse-blind-deblurring)
 
 + 2014-CVPR - Multi-Shot Imaging: Joint Alignment, Deblurring and Resolution Enhancement. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2014/html/Zhang_Multi-Shot_Imaging_Joint_2014_CVPR_paper.html)[[Project page]](https://sites.google.com/site/hczhang1/projects/multi-shot-imaging)
+
++ 2014-CVPR - Gyro-Based Multi-Image Deconvolution for Removing Handshake Blur. [[Paper]](http://graphics.stanford.edu/papers/gyrodeblur/gyrodeblur_park_cvpr14.pdf)[[Project Page]](http://graphics.stanford.edu/papers/gyrodeblur/)
 
 + 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
