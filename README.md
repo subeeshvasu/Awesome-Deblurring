@@ -246,7 +246,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2008-CVPR - Robust dual motion deblurring. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.6370&rep=rep1&type=pdf)
 
-+ 2009-JCP - Blind motion deblurring using multiple images. [[Paper]](ftp://ftp.math.ucla.edu/pub/camreport/cam09-59.pdf)
++ 2009-JCP - Blind motion deblurring using multiple images. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999109001867)
 
 + 2010-CVPR - Robust flash deblurring. [[Paper]](https://ieeexplore.ieee.org/document/5539941)
 
