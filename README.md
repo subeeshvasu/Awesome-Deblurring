@@ -33,6 +33,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2011-ICCV - Fast removal of non-uniform camera shake. [[Paper]](http://pixel.kyb.tuebingen.mpg.de/fast_removal_of_camera_shake/files/Hirsch_ICCV2011_Fast%20removal%20of%20non-uniform%20camera%20shake.pdf)
 
++ 2011-IJCV - The non-parametric sub-pixel local point spread function estimation is a well posed problem. [[Paper]](https://link.springer.com/article/10.1007/s11263-011-0460-0)
+
 + 2012-ECCV - Blur-kernel estimation from spectral irregularities. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.4404&rep=rep1&type=pdf)
 
 + 2013-CVPR - Unnatural L0 sparse representation for natural image deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/l0deblur_cvpr13.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/)
@@ -225,6 +227,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2017-NIPS - Deep Mean-Shift Priors for Image Restoration. [[Paper]](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)[[Code]](https://github.com/siavashbigdeli/DMSP)
 
++ 2018-ICIP - Modeling Realistic Degradations in Non-Blind Deconvolution. [[Paper]](https://arxiv.org/abs/1806.01097)
+
 + 2018-CVPR - Non-blind Deblurring: Handling Kernel Uncertainty with CNNs. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)[[Project page & Results-on-benchmark-datasets]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)
 
 + 2018-Arxiv - Learning an Optimizer for Image Deconvolution. [[Paper]](https://arxiv.org/abs/1804.03368)[[Code]](https://github.com/donggong1/learn-optimizer-rgdn)
@@ -268,7 +272,11 @@ A curated list of resources for Image and Video Deblurring
 
 + 2014-ECCV - Modeling Blurred Video with Layers. [[Paper]](http://files.is.tue.mpg.de/black/papers/WulffECCV2014.pdf)[[Project page, Results & Dataset]](http://ps.is.tuebingen.mpg.de/research_projects/motion-blur-in-layers)
 
++ 2015-CVPR - Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation. [[Paper]](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)
+
 + 2015-TCI - Hand-held video deblurring via efficient fourier aggregation. [[Paper]](http://arxiv.org/pdf/1509.05251)[[Project page & Results]](http://iie.fing.edu.uy/~mdelbra/videoFA/)
+
++ 2015-TIP - Removing camera shake via weighted fourier burst accumulation. [[Paper]](https://arxiv.org/abs/1505.02731)
 
 + 2015-CVPR - Generalized Video Deblurring for Dynamic Scenes. [[Paper]](http://cv.snu.ac.kr/publication/conf/2015/VD_CVPR2015.pdf)[[Code & Project page]](https://cv.snu.ac.kr/research/~VD/)
 
