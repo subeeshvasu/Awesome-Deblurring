@@ -378,7 +378,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2020-ECCV - Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model.
 
-+ 2020-ECCV - Defocus Blur Detection via Depth Distillation.
++ 2020-ECCV - Defocus Blur Detection via Depth Distillation. [[Paper]](https://arxiv.org/abs/2007.08113)[[Code]](https://github.com/vinthony/depth-distillation)
 
 # Benchmark Datasets on Motion Deblurring
 
