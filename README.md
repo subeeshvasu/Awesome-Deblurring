@@ -174,7 +174,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-CVPR - Learning Event-Based Motion Deblurring. [[Paper]](https://arxiv.org/abs/2004.05794)
 
-+ 2020-CVPR - Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training.
++ 2020-CVPR - Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.html)
 
 + 2020-CVPR - Deblurring using Analysis-Synthesis Networks Pair. [[Paper]](https://arxiv.org/abs/2004.02956)
 
