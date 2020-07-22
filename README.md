@@ -317,9 +317,9 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2019-ICCV - Face Video Deblurring using 3D Facial Priors. [[Project Page]](https://sites.google.com/site/renwenqi888/home/3dfacedeblurring)
 
-+ 2019-Arxiv - Fast and Full-Resolution Light Field Deblurring using a Deep Neural Network. [[Paper]](https://arxiv.org/abs/1904.00352)
++ 2019-SPL - Deep Recurrent Network for Fast and Full-Resolution Light Field Deblurring. [[Paper]](https://arxiv.org/abs/1904.00352)
 
-+ 2019-Arxiv - Deep Video Deblurring: The Devil is in the Details. [[Paper]](https://arxiv.org/abs/1909.12196)
++ 2019-ICCVW - Deep Video Deblurring: The Devil is in the Details. [[Paper]](https://arxiv.org/abs/1909.12196) [[Code]](https://github.com/visinf/deblur-devil)
 
 + 2020-CVPR - Cascaded Deep Video Deblurring Using Temporal Sharpness Prior. [[Paper]](https://arxiv.org/abs/2004.02501)[[Code]](https://github.com/csbhr/CDVD-TSP)[[Project Page]](https://baihaoran.xyz/projects/cdvd-tsp/index.html)
 
