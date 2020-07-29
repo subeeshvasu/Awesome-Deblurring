@@ -156,6 +156,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
++ 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)
+
 + 2019-IJCV - Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement. [[Paper]](https://arxiv.org/abs/1811.09019)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
 + 2020-AAAI - Learning to Deblur Face Images via Sketch Synthesis. [[Paper]]()
@@ -181,8 +183,6 @@ A curated list of resources for Image and Video Deblurring
 + 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
 
 + 2020-ECCV - Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training. [[Paper]](https://arxiv.org/abs/1911.07410)
-
-+ 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)
 
 # Non-Blind-Deblurring
 
