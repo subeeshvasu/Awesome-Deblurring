@@ -182,6 +182,8 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-ECCV - Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training. [[Paper]](https://arxiv.org/abs/1911.07410)
 
++ 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)
+
 # Non-Blind-Deblurring
 
 + 2006-IJCV - Image deblurring in the presence of impulsive noise. [[Paper]](https://link.springer.com/article/10.1007/s11263-006-6468-1)
