@@ -194,12 +194,9 @@ A curated list of resources for Image and Video Deblurring
 
 + 2011-ICCV - Handling outliers in non-blind image deconvolution. [[Paper]](http://cg.postech.ac.kr/papers/deconv_outliers.pdf)[[Code]](https://github.com/CoupeLibrary/handleoutlier)
 
-
 + 2011-ICCV - From learning models of natural image patches to whole image restoration. [[Paper]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)[[Code]](http://people.csail.mit.edu/danielzoran/)
 
-
 + 2012-TIP - Bm3d frames and variational image deblurring. [[Paper]](https://www.cs.tut.fi/~foi/GCF-BM3D/BM3DframesDeblur-Danielyan.pdf)
-
 
 + 2012-TIP - Robust image deblurring with an inaccurate blur kernel. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.1055&rep=rep1&type=pdf) [[Code]](https://blog.nus.edu.sg/matjh/download/)
 
@@ -209,13 +206,13 @@ A curated list of resources for Image and Video Deblurring
 
 + 2014-TIP - A general framework for regularized, similarity-based image restoration. [[Paper]](http://www.academia.edu/download/42621942/A_General_Framework_for_Regularized_Simi20160212-19526-i3txol.pdf) [[Code & Project page]](http://alumni.soe.ucsc.edu/~aminkh/KernelRestoration.html)
 
-
 + 2014-NIPS - Deep convolutional neural network for image deconvolution. [[Paper]](http://www.cse.cuhk.edu.hk/leojia/papers/deconv_nips14.pdf)[[Code & Project page]](http://lxu.me/projects/dcnn/)
-
 
 + 2014-CVPR - Shrinkage fields for effective image restoration. [[Paper]](http://research.uweschmidt.org/pubs/cvpr14schmidt.pdf)[[Code]](https://github.com/uschmidt83/shrinkage-fields)
 
 + 2014-ECCV - Good Image Priors for Non-blind Deconvolution: Generic vs Specific. [[Paper]](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors_eccv2014.pdf)[[Project page]](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors2014eccv.html)
+
++ 2016-CVIP - Fast Non-Blind Image De-blurring With Sparse Priors. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-2104-6_56)
 
 + 2017-TIP - Partial Deconvolution With Inaccurate Blur Kernel. [[Paper]](https://ieeexplore.ieee.org/document/8071032)
 
