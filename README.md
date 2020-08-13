@@ -14,13 +14,13 @@
 
 ## Table of contents
 
-- [Single-Image-Blind-Motion-Deblurring (non-DL)](#number-1)
-- [Single-Image-Blind-Motion-Deblurring (DL)](#number-2)
-- [Non-Blind-Deblurring](#number-3)
-- [(Multi-image/Video)-Motion-Deblurring](#number-4)
-- [Other Closely Related Works](#number-5)
-- [Defocus Deblurring and Potential Datasets](#number-6)
-- [Benchmark Datasets on Motion Deblurring](#number-7)
+- [Single-Image-Blind-Motion-Deblurring (non-DL)](#single-image-blind-motion-deblurring-non-dl)
+- [Single-Image-Blind-Motion-Deblurring (DL)](#single-image-blind-motion-deblurring-dl)
+- [Non-Blind-Deblurring](#non-blind-deblurring)
+- [(Multi-image/Video)-Motion-Deblurring](#multi-imagevideo-motion-deblurring)
+- [Other Closely Related Works](#other-closely-related-works)
+- [Defocus Deblurring and Potential Datasets](#defocus-deblurring-and-potential-datasets)
+- [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
 
 ## Single-Image-Blind-Motion-Deblurring (non-DL)
 + 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
