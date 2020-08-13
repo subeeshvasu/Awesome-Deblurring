@@ -1,6 +1,31 @@
-A curated list of resources for Image and Video Deblurring
+<!--A curated list of resources for Image and Video Deblurring-->
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="#">
+    <img src="" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Image and Video Deblurring</h3>
+  <p align="center">A curated list of resources for Image and Video Deblurring
+    <br />
+    <br />
+    <br />
+    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Suggest new item</a>
+    <br />
+    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Report Bug</a>
+  </p>
+</p>
 
-# Single-Image-Blind-Motion-Deblurring (non-DL)
+## Table of contents
+
+- [Single-Image-Blind-Motion-Deblurring (non-DL)](#number-1)
+- [Single-Image-Blind-Motion-Deblurring (DL)](#number-2)
+- [Non-Blind-Deblurring](#number-3)
+- [(Multi-image/Video)-Motion-Deblurring](#number-4)
+- [Other Closely Related Works](#number-5)
+- [Defocus Deblurring and Potential Datasets](#number-6)
+- [Benchmark Datasets on Motion Deblurring](#number-7)
+
+## Single-Image-Blind-Motion-Deblurring (non-DL)
 + 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
 + 2007-CVPR - Single image motion deblurring using transparency. [[Paper]](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)
@@ -102,7 +127,7 @@ A curated list of resources for Image and Video Deblurring
 + 2020-ECCV - Enhanced Sparse Model for Blind Deblurring.
 
 
-# Single-Image-Blind-Motion-Deblurring (DL)
+## Single-Image-Blind-Motion-Deblurring (DL)
 
 + 2015-CVPR - Learning a convolutional neural network for non-uniform motion blur removal. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)[[Code 1]](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip)[[Code 2]](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)
 
@@ -184,7 +209,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-ECCV - Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training. [[Paper]](https://arxiv.org/abs/1911.07410)
 
-# Non-Blind-Deblurring
+## Non-Blind-Deblurring
 
 + 2006-IJCV - Image deblurring in the presence of impulsive noise. [[Paper]](https://link.springer.com/article/10.1007/s11263-006-6468-1)
 
@@ -242,8 +267,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2020-ECCV - End-to-end interpretable learning of non-blind image deblurring. [[Paper]](https://arxiv.org/abs/2007.01769)
 
-
-# (Multi-image/Video)-Motion-Deblurring
+## (Multi-image/Video)-Motion-Deblurring
 
 + 2007-TOG - Image Deblurring with Blurred/Noisy Image Pairs. [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Deblurring_SIGGRAPH07.pdf)
 
@@ -309,8 +333,7 @@ A curated list of resources for Image and Video Deblurring
 
 + 2019-CVPR_W - NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)
 
-+ 2019-CVPR_W - A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with
-Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)
++ 2019-CVPR_W - A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)
 
 + 2019-ICCV - Spatio-Temporal Filter Adaptive Network for Video Deblurring. [[Paper]](https://arxiv.org/abs/1904.12257)[[Project page]](https://shangchenzhou.com/projects/stfan/)
 
@@ -328,7 +351,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2020-ECCV - Learning Event-Driven Video Deblurring and Interpolation.
 
-# Other Closely Related Works
+## Other Closely Related Works
 
 + 2013-TOG - A No-Reference Metric for Evaluating The Quality of Motion Deblurring. [[Paper]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)
 [[Code & Project Page]](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)
@@ -347,7 +370,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2019 - Photosequencing of Motion Blur using Short and Long Exposures. [[Paper]](https://arxiv.org/abs/1912.06102)
 
-# Defocus Deblurring and Potential Datasets
+## Defocus Deblurring and Potential Datasets
 
 + 2009-ICCP - What are Good Apertures for Defocus Deblurring?. [[Paper]](https://ieeexplore.ieee.org/document/5559018)
 
@@ -379,7 +402,7 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 
 + 2020-ECCV - Defocus Blur Detection via Depth Distillation. [[Paper]](https://arxiv.org/abs/2007.08113)[[Code]](https://github.com/vinthony/depth-distillation)
 
-# Benchmark Datasets on Motion Deblurring
+## Benchmark Datasets on Motion Deblurring
 
 + 2009-CVPR - Understanding and evaluating blind deconvolution algorithms. [[Paper]](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)[[Dataset]](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)
 
@@ -404,5 +427,3 @@ Residual Down-Up and Up-Down Modules. [[Paper]](http://openaccess.thecvf.com/con
 + 2020-CVPR - Learning Event-Based Motion Deblurring. [[Paper]](https://arxiv.org/abs/2004.05794)
 
 + 2020-ECCV - Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms.
-
-
