@@ -344,9 +344,9 @@
 
 + 2020-CVPR - Blurry Video Frame Interpolation. [[Paper]](https://arxiv.org/abs/2002.12259)[[Code]](https://github.com/laomao0/BIN)
 
-+ 2020-ECCV - Spatio-Temporal Efficient Recurrent Neural Network for Video Deblurring.
++ 2020-ECCV - Spatio-Temporal Efficient Recurrent Neural Network for Video Deblurring. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)
 
-+ 2020-ECCV - Learning Event-Driven Video Deblurring and Interpolation.
++ 2020-ECCV - Learning Event-Driven Video Deblurring and Interpolation. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)
 
 ## Other Closely Related Works
 
@@ -395,7 +395,7 @@
 
 + 2020-ECCV - Defocus Deblurring Using Dual-Pixel Data. [[Paper]](https://arxiv.org/abs/2005.00305)
 
-+ 2020-ECCV - Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model.
++ 2020-ECCV - Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)
 
 + 2020-ECCV - Defocus Blur Detection via Depth Distillation. [[Paper]](https://arxiv.org/abs/2007.08113)[[Code]](https://github.com/vinthony/depth-distillation)
 
