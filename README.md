@@ -399,6 +399,8 @@
 
 + 2017-ICCV - Learning to Synthesize a 4D RGBD Light Field from a Single Image. [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Srinivasan_Learning_to_Synthesize_ICCV_2017_paper.html)[[Dataset and Project Page]](https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis)
 
++ 2018-ECCV - Refocusgan: Scene refocusing using a single image. [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Parikshit_Sakurikar_Single_Image_Scene_ECCV_2018_paper.pdf)
+
 + 2018-ECCVW - Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?. [[Paper]](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)[[Dataset and Code]](https://github.com/marcelampc/d3net_depth_estimation)
 
 + 2018-PG - Defocus and Motion Blur Detection with Deep Contextual Features. [[Paper]](http://cg.postech.ac.kr/papers/Kim2018Defocus.pdf)[[Dataset and Code]](https://github.com/HyeongseokSon1/deep_blur_detection_and_classification)
