@@ -59,6 +59,8 @@
 
 + 2012-ECCV - Blur-kernel estimation from spectral irregularities. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.4404&rep=rep1&type=pdf)
 
++ 2012-ACCV - MRF-based Blind Image Deconvolution. [[Paper]](http://imagine.enpc.fr/~komodakn/publications/docs/accv2012.pdf)
+
 + 2013-CVPR - Unnatural L0 sparse representation for natural image deblurring. [[Paper]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/l0deblur_cvpr13.pdf)[[Code & Project page]](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/)
 
 + 2013-CVPR - Handling noise in single image deblurring using directional filters. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhong_Handling_Noise_in_2013_CVPR_paper.html)
@@ -263,6 +265,8 @@
 + 2020-CVPR - Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Deep_Learning_for_Handling_Kernelmodel_Uncertainty_in_Image_Deconvolution_CVPR_2020_paper.pdf)
 
 + 2020-ECCV - End-to-end interpretable learning of non-blind image deblurring. [[Paper]](https://arxiv.org/abs/2007.01769)
+
++ 2020-Arxiv - The Maximum Entropy on the Mean Method for Image Deblurring. [[Paper]](https://arxiv.org/pdf/2002.10434.pdf)
 
 ## (Multi-image/Video)-Motion-Deblurring
 
