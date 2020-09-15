@@ -178,8 +178,6 @@
 
 + 2019-CVPR - Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)
 
-+ 2019-Arxiv - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
-
 + 2019-ICCV - DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better. [[Paper]](https://arxiv.org/abs/1908.03826)[[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
 + 2019-ICCV (HIDE) - Human-Aware Motion Deblurring. [[Paper]](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)
@@ -209,6 +207,8 @@
 + 2020-IEEEAccess - Scale-Iterative Upscaling Network for Image Deblurring. [[Paper]](https://ieeexplore.ieee.org/document/8963625)[[Code]](https://github.com/minyuanye/SIUN)
 
 + 2020-ECCV - Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training. [[Paper]](https://arxiv.org/abs/1911.07410)
+
++ 2020-TIP - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks. [[Paper]](https://arxiv.org/abs/1907.13106)[[Code]](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)
 
 ## Non-Blind-Deblurring
 
