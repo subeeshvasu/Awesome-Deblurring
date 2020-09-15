@@ -322,6 +322,8 @@
 
 + 2018-ECCV - Joint Blind Motion Deblurring and Depth Estimation of Light Field. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongwoo_Lee_Joint_Blind_Motion_ECCV_2018_paper.html)
 
++ 2018-ICCP - Reblur2deblur: Deblurring videos via self-supervised learning. [[Paper]](https://arxiv.org/pdf/1801.05117.pdf)
+
 + 2019-TIP - Adversarial Spatio-Temporal Learning for Video Deblurring. [[Paper]](https://arxiv.org/abs/1804.00533)[[Code]](https://github.com/themathgeek13/STdeblur)[[Project page]](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)
 
 + 2019-CVPR - Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)
