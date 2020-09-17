@@ -80,7 +80,7 @@
 
 ## Single-Image-Blind-Motion-Deblurring (DL)
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2015|CVPR|[Learning a convolutional neural network for non-uniform motion blur removal](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)|[Code 1](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip),[Code 2](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)|
 |2015|CVPR|[Convolutional neural networks for direct text deblurring](http://www.bmva.org/bmvc/2015/papers/paper006/index.html)|[Code and Project Page](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)|
 |2016|ECCV|[A neural approach to blind motion deblurring](https://arxiv.org/abs/1603.04771)|[Code](https://github.com/ayanc/ndeblur)|
@@ -125,7 +125,7 @@
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2006|IJCV|[Image deblurring in the presence of impulsive noise](https://link.springer.com/article/10.1007/s11263-006-6468-1)||
 |2009|NIPS|[Fast image deconvolution using hyper-laplacian priors](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)|[Code & Project page](https://dilipkay.wordpress.com/fast-deconvolution/)|
 |2011|PAMI|[Richardson-Lucy Deblurring for Scenes under a Projective Motion Path](https://ieeexplore.ieee.org/document/5674049)||
@@ -158,7 +158,7 @@
 
 ## (Multi-image/Video)-Motion-Deblurring
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2007|TOG|[Image Deblurring with Blurred/Noisy Image Pairs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Deblurring_SIGGRAPH07.pdf)||
 |2008|CVPR|[Robust dual motion deblurring](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.6370&rep=rep1&type=pdf)||
 |2009|JCP|[Blind motion deblurring using multiple images](https://www.sciencedirect.com/science/article/pii/S0021999109001867)||
@@ -205,7 +205,7 @@
 
 ## Other Closely Related Works
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2013|TOG|[A No-Reference Metric for Evaluating The Quality of Motion Deblurring](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)|[Code & Project Page](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)|
 |2018|CVPR|[Learning to extract a video sequence from a single motion-blurred image](http://openaccess.thecvf.com/content_cvpr_2018/html/Jin_Learning_to_Extract_CVPR_2018_paper.html)||[Code](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)|
 |2019|CVPR|[Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)|[Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)|
@@ -216,7 +216,7 @@
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2009|ICCP|[What are Good Apertures for Defocus Deblurring?](https://ieeexplore.ieee.org/document/5559018)||
 |2012|ICASSP|[Spatially-varying out-of-focus image deblurring with L1-2 optimization and a guided blur map](https://ieeexplore.ieee.org/document/6288071)||
 |2013|ICASSP|[Removing out-of-focus blur from similar image pairs](https://ieeexplore.ieee.org/document/6637925)||
@@ -236,7 +236,7 @@
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
-|----|----|-----|----|
+|:---:|:---:|:---:|:---:|
 |2009|CVPR|[Understanding and evaluating blind deconvolution algorithms](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)|[Dataset](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)|
 |2012|ECCV|[Recording and playback of camera shake: benchmarking blind deconvolution with a real-world database](http://webdav.is.mpg.de/pixel/benchmark4camerashake/src_files/Pdf/Koehler_ECCV2012_Benchmark.pdf)|[Dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)|
 |2013|ICCP|[Edge-based blur kernel estimation using patch priors](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)|[Dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)|
