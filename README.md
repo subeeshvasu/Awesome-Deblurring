@@ -186,7 +186,7 @@
 |2018|ECCV|[Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)|[Project page](http://people.csail.mit.edu/miika/eccv18_deblur/)|
 |2018|ECCV|[Joint Blind Motion Deblurring and Depth Estimation of Light Field](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongwoo_Lee_Joint_Blind_Motion_ECCV_2018_paper.html)||
 |2018|ICCP|[Reblur2deblur: Deblurring videos via self-supervised learning](https://arxiv.org/pdf/1801.05117.pdf)||
-|2018|Arxiv|[LSD|[Joint Denoising and Deblurring of Short and Long Exposure Images with Convolutional Neural Networks](https://arxiv.org/abs/1811.09485)||
+|2018|Arxiv|[LSD-Joint Denoising and Deblurring of Short and Long Exposure Images with Convolutional Neural Networks](https://arxiv.org/abs/1811.09485)||
 |2019|TIP|[Adversarial Spatio-Temporal Learning for Video Deblurring](https://arxiv.org/abs/1804.00533)|[Code](https://github.com/themathgeek13/STdeblur)|[Project page](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)|
 |2019|CVPR|[Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)||
 |2019|CVPR|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
