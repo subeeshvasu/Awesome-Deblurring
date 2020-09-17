@@ -23,7 +23,9 @@
 - [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
 
 ## Single-Image-Blind-Motion-Deblurring (non-DL)
-+ 2006-TOG - Removing camera shake from a single photograph. [[Paper]](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)[[Code & Project page]](https://cs.nyu.edu/~fergus/research/deblur.html)
+|Year|Conf|Title|Repo|
+|----|----|-----|----|
+|2006|TOG|[Removing camera shake from a single photograph](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)|[Code & Project page](https://cs.nyu.edu/~fergus/research/deblur.html)|
 
 + 2007-CVPR - Single image motion deblurring using transparency. [[Paper]](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)
 
