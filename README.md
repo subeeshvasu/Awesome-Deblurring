@@ -126,7 +126,7 @@
 ## Non-Blind-Deblurring
 |Year|Conf|Title|Repo|
 |----|----|-----|----|
-|2006|IJCV|[Image deblurring in the presence of impulsive noise](https://link.springer.com/article/10.1007/s11263|006|6468|1)||
+|2006|IJCV|[Image deblurring in the presence of impulsive noise](https://link.springer.com/article/10.1007/s11263-006-6468-1)||
 |2009|NIPS|[Fast image deconvolution using hyper-laplacian priors](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)|[Code & Project page](https://dilipkay.wordpress.com/fast-deconvolution/)|
 |2011|PAMI|[Richardson-Lucy Deblurring for Scenes under a Projective Motion Path](https://ieeexplore.ieee.org/document/5674049)||
 |2011|ICCV|[Handling outliers in non-blind image deconvolution](http://cg.postech.ac.kr/papers/deconv_outliers.pdf)|[Code](https://github.com/CoupeLibrary/handleoutlier)|
@@ -135,22 +135,22 @@
 |2012|TIP|[Robust image deblurring with an inaccurate blur kernel](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.1055&rep=rep1&type=pdf) [Code](https://blog.nus.edu.sg/matjh/download/)|
 |2013|CVPR|[A machine learning approach for non-blind image deconvolution](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Schuler_A_Machine_Learning_2013_CVPR_paper.pdf)|[Code & Project page](http://webdav.is.mpg.de/pixel/neural_deconvolution/)|
 |2013|CVPR|[Discriminative non-blind deblurring](http://openaccess.thecvf.com/content_cvpr_2013/papers/Schmidt_Discriminative_Non-blind_Deblurring_2013_CVPR_paper.pdf)|[Code](https://www.visinf.tu-darmstadt.de/vi_research/code/index.en.jsp#discriminative_deblurring)|
-|2014|TIP|[A general framework for regularized, similarity-based image restoration](http://www.academia.edu/download/42621942/A_General_Framework_for_Regularized_Simi20160212|19526|i3txol.pdf) [Code & Project page](http://alumni.soe.ucsc.edu/~aminkh/KernelRestoration.html)|
+|2014|TIP|[A general framework for regularized, similarity-based image restoration](http://www.academia.edu/download/42621942/A_General_Framework_for_Regularized_Simi20160212|19526-i3txol.pdf) [Code & Project page](http://alumni.soe.ucsc.edu/~aminkh/KernelRestoration.html)|
 |2014|NIPS|[Deep convolutional neural network for image deconvolution](http://www.cse.cuhk.edu.hk/leojia/papers/deconv_nips14.pdf)|[Code & Project page](http://lxu.me/projects/dcnn/)|
 |2014|CVPR|[Shrinkage fields for effective image restoration](http://research.uweschmidt.org/pubs/cvpr14schmidt.pdf)|[Code](https://github.com/uschmidt83/shrinkage-fields)|
 |2014|ECCV|[Good Image Priors for Non-blind Deconvolution: Generic vs Specific](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors_eccv2014.pdf)|[Project page](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors2014eccv.html)|
-|2016|CVIP|[Fast Non-Blind Image De-blurring With Sparse Priors](https://link.springer.com/chapter/10.1007/978|981|10|2104|6_56)||
+|2016|CVIP|[Fast Non-Blind Image De-blurring With Sparse Priors](https://link.springer.com/chapter/10.1007/978-981-10-2104-6_56)||
 |2017|TIP|[Partial Deconvolution With Inaccurate Blur Kernel](https://ieeexplore.ieee.org/document/8071032)||
 |2017|CVPR|[Noise-Blind Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2017/html/Jin_Noise-Blind_Image_Deblurring_CVPR_2017_paper.html)||
 |2017|CVPR|[Learning Deep CNN Denoiser Prior for Image Restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)|[Code](https://github.com/cszn/ircnn)|
 |2017|CVPR|[Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution](https://arxiv.org/pdf/1611.06495)|[Code](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)|
 |2017|ICCV|[Learning to push the limits of efficient fft-based image deconvolution](http://research.uweschmidt.org/pubs/iccv17kruse.pdf)|[Code](https://github.com/uschmidt83/fourier-deconvolution-network)|
-|2017|NIPS|[Deep Mean-Shift Priors for Image Restoration](https://papers.nips.cc/paper/6678|deep-mean-shift-priors-for-image-restoration.pdf)|[Code](https://github.com/siavashbigdeli/DMSP)|
+|2017|NIPS|[Deep Mean-Shift Priors for Image Restoration](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf)|[Code](https://github.com/siavashbigdeli/DMSP)|
 |2018|ICIP|[Modeling Realistic Degradations in Non-Blind Deconvolution](https://arxiv.org/abs/1806.01097)||
 |2018|CVPR|[Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)|[Project page & Results-on-benchmark-datasets](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)|
 |2018|Arxiv|[Learning an Optimizer for Image Deconvolution](https://arxiv.org/abs/1804.03368)|[Code](https://github.com/donggong1/learn-optimizer-rgdn)|
 |2018|ECCV|[Learning Data Terms for Non-blind Deblurring](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)||
-|2018|NIPS|[Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation](https://papers.nips.cc/paper/7313|deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)|[Code](https://github.com/rwenqi/NBD-GLRA)|
+|2018|NIPS|[Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)|[Code](https://github.com/rwenqi/NBD-GLRA)|
 |2020|CVPR|[Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring](https://openaccess.thecvf.com/content_CVPR_2020/html/Nan_Variational-EM-Based_Deep_Learning_for_Noise-Blind_Image_Deblurring_CVPR_2020_paper.html)||
 |2020|CVPR|[Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Deep_Learning_for_Handling_Kernelmodel_Uncertainty_in_Image_Deconvolution_CVPR_2020_paper.pdf)||
 |2020|ECCV|[End-to-end interpretable learning of non-blind image deblurring](https://arxiv.org/abs/2007.01769)||
