@@ -23,7 +23,7 @@
 - [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
 
 ## Single-Image-Blind-Motion-Deblurring (non-DL)
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2006|TOG|[Removing camera shake from a single photograph](https://cs.nyu.edu/~fergus/papers/deblur_fergus.pdf)|[Code & Project page](https://cs.nyu.edu/~fergus/research/deblur.html)|
 |2007|CVPR|[Single image motion deblurring using transparency](http://jiaya.me/all_final_papers/motion_deblur_cvpr07.pdf)||
@@ -79,7 +79,7 @@
 
 
 ## Single-Image-Blind-Motion-Deblurring (DL)
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2015|CVPR|[Learning a convolutional neural network for non-uniform motion blur removal](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)|[Code 1](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip),[Code 2](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)|
 |2015|CVPR|[Convolutional neural networks for direct text deblurring](http://www.bmva.org/bmvc/2015/papers/paper006/index.html)|[Code and Project Page](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)|
@@ -124,7 +124,7 @@
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
 
 ## Non-Blind-Deblurring
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2006|IJCV|[Image deblurring in the presence of impulsive noise](https://link.springer.com/article/10.1007/s11263-006-6468-1)||
 |2009|NIPS|[Fast image deconvolution using hyper-laplacian priors](http://cs.nyu.edu/~dilip/research/papers/fid_nips09.pdf)|[Code & Project page](https://dilipkay.wordpress.com/fast-deconvolution/)|
@@ -157,7 +157,7 @@
 |2020|Arxiv|[The Maximum Entropy on the Mean Method for Image Deblurring](https://arxiv.org/pdf/2002.10434.pdf)||
 
 ## (Multi-image/Video)-Motion-Deblurring
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2007|TOG|[Image Deblurring with Blurred/Noisy Image Pairs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Deblurring_SIGGRAPH07.pdf)||
 |2008|CVPR|[Robust dual motion deblurring](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.443.6370&rep=rep1&type=pdf)||
@@ -204,7 +204,7 @@
 |2020|ECCV|[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)||
 
 ## Other Closely Related Works
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2013|TOG|[A No-Reference Metric for Evaluating The Quality of Motion Deblurring](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)|[Code & Project Page](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)|
 |2018|CVPR|[Learning to extract a video sequence from a single motion-blurred image](http://openaccess.thecvf.com/content_cvpr_2018/html/Jin_Learning_to_Extract_CVPR_2018_paper.html)||[Code](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)|
@@ -215,7 +215,7 @@
 |2019||[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)||
 
 ## Defocus Deblurring and Potential Datasets
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2009|ICCP|[What are Good Apertures for Defocus Deblurring?](https://ieeexplore.ieee.org/document/5559018)||
 |2012|ICASSP|[Spatially-varying out-of-focus image deblurring with L1-2 optimization and a guided blur map](https://ieeexplore.ieee.org/document/6288071)||
@@ -235,7 +235,7 @@
 |2020|ECCV|[Defocus Blur Detection via Depth Distillation](https://arxiv.org/abs/2007.08113)|[Code](https://github.com/vinthony/depth-distillation)|
 
 ## Benchmark Datasets on Motion Deblurring
-|Year|Pub|Title|Repo|
+|Year|Pub|Paper|Repo|
 |----|----|-----|----|
 |2009|CVPR|[Understanding and evaluating blind deconvolution algorithms](http://webee.technion.ac.il/people/anat.levin/papers/deconvLevinEtalCVPR09.pdf)|[Dataset](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)|
 |2012|ECCV|[Recording and playback of camera shake: benchmarking blind deconvolution with a real-world database](http://webdav.is.mpg.de/pixel/benchmark4camerashake/src_files/Pdf/Koehler_ECCV2012_Benchmark.pdf)|[Dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)|
