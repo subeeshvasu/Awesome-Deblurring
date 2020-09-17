@@ -48,7 +48,7 @@
 |2013|CVPR|[Handling noise in single image deblurring using directional filters](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhong_Handling_Noise_in_2013_CVPR_paper.html)|
 |2013|NIPS|[Non-Uniform Camera Shake Removal Using a Spatially-Adaptive Sparse Penalty](https://papers.nips.cc/paper/4864-non-uniform-camera-shake-removal-using-a-spatially-adaptive-sparse-penalty)|[Project page](https://sites.google.com/site/hczhang1/projects/non-uniform-camera-shake-removal)|
 |2013|ICCV|[Dynamic Scene Deblurring](https://cv.snu.ac.kr/publication/conf/2013/DSD_ICCV2013.pdf)||
-|2013|ICCP|[Edge-based blur kernel estimation using patch priors](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)|[Project page, Results & Dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)|
+|2013|ICCP|[Edge-based blur kernel estimation using patch priors](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)|[Project page & Results & Dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)|
 |2014|CVPR|[Deblurring Text Images via L0 -Regularized Intensity and Gradient Prior](https://eng.ucmerced.edu/people/zhu/CVPR14_deblurtext.pdf)|[Code & Project page](https://sites.google.com/site/jspanhomepage/l0rigdeblur)|
 |2014|CVPR|[Segmentation-Free Dynamic Scene Deblurring](https://cv.snu.ac.kr/publication/conf/2014/SFDSD_CVPR2014.pdf)||
 |2014|CVPR|[Separable Kernel for Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2014/html/Fang_Separable_Kernel_for_2014_CVPR_paper.html)|
