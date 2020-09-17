@@ -197,7 +197,7 @@
 |2019|ICCV|[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://arxiv.org/abs/1904.12257)|[Project page](https://shangchenzhou.com/projects/stfan/)|
 |2019|ICCV|[Face Video Deblurring using 3D Facial Priors](https://openaccess.thecvf.com/content_ICCV_2019/html/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.html)|[Code](https://github.com/rwenqi/3Dfacedeblurring)|
 |2019|SPL|[Deep Recurrent Network for Fast and Full-Resolution Light Field Deblurring](https://arxiv.org/abs/1904.00352)||
-|2019|ICCVW|[Deep Video Deblurring: The Devil is in the Details](https://arxiv.org/abs/1909.12196) [Code](https://github.com/visinf/deblur-devil)|
+|2019|ICCV_W|[Deep Video Deblurring: The Devil is in the Details](https://arxiv.org/abs/1909.12196) [Code](https://github.com/visinf/deblur-devil)|
 |2020|CVPR|[Cascaded Deep Video Deblurring Using Temporal Sharpness Prior](https://arxiv.org/abs/2004.02501)|[Code](https://github.com/csbhr/CDVD-TSP)|[Project Page](https://baihaoran.xyz/projects/cdvd-tsp/index.html)|
 |2020|CVPR|[Blurry Video Frame Interpolation](https://arxiv.org/abs/2002.12259)|[Code](https://github.com/laomao0/BIN)|
 |2020|ECCV|[Spatio-Temporal Efficient Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)||
@@ -227,7 +227,7 @@
 |2017|CVPR|[Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes](http://openaccess.thecvf.com/content_cvpr_2017/html/Golestaneh_Spatially-Varying_Blur_Detection_CVPR_2017_paper.html)|[Code](https://github.com/isalirezag/HiFST)|
 |2017|ICCV|[Learning to Synthesize a 4D RGBD Light Field from a Single Image](http://openaccess.thecvf.com/content_iccv_2017/html/Srinivasan_Learning_to_Synthesize_ICCV_2017_paper.html)|[Dataset and Project Page](https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis)|
 |2018|ECCV|[Refocusgan: Scene refocusing using a single image](https://openaccess.thecvf.com/content_ECCV_2018/papers/Parikshit_Sakurikar_Single_Image_Scene_ECCV_2018_paper.pdf)||
-|2018|ECCVW|[Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)|[Dataset and Code](https://github.com/marcelampc/d3net_depth_estimation)|
+|2018|ECCV_W|[Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)|[Dataset and Code](https://github.com/marcelampc/d3net_depth_estimation)|
 |2018|PG|[Defocus and Motion Blur Detection with Deep Contextual Features](http://cg.postech.ac.kr/papers/Kim2018Defocus.pdf)|[Dataset and Code](https://github.com/HyeongseokSon1/deep_blur_detection_and_classification)|
 |2019|CVPR|[Deep Defocus Map Estimation using Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/html/Lee_Deep_Defocus_Map_Estimation_Using_Domain_Adaptation_CVPR_2019_paper.html)|[Dataset and Code](https://github.com/codeslake/DMENet)|
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)||
