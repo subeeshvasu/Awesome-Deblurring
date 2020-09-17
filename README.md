@@ -109,7 +109,7 @@
 |2019|ICCV|[DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://arxiv.org/abs/1908.03826)|[Code](https://github.com/TAMU-VITA/DeblurGANv2)|
 |2019|ICCV (HIDE)|[Human-Aware Motion Deblurring](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)||
 |2019|IJCV|[Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement](https://arxiv.org/abs/1811.09019)|[Code](https://github.com/TAMU-VITA/DeblurGANv2)|
-|2020|AAAI|[Learning to Deblur Face Images via Sketch Synthesis]()||
+|2020|AAAI|[Learning to Deblur Face Images via Sketch Synthesis](https://aaai.org/ojs/index.php/AAAI/article/view/6818/6672)||
 |2020|AAAI|[Region-Adaptive Dense Network for Efficient Motion Deblurring](https://arxiv.org/abs/1903.11394)||
 |2020|WACV|[DAVID: Dual-Attentional Video Deblurring](http://openaccess.thecvf.com/content_WACV_2020/html/Wu_DAVID_Dual-Attentional_Video_Deblurring_WACV_2020_paper.html)||
 |2020|CVPR|[Neural Blind Deconvolution Using Deep Priors](https://arxiv.org/abs/1908.02197)|[Code](https://github.com/csdwren/SelfDeblur)|
