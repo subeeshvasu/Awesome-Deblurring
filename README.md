@@ -6,7 +6,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Suggest new item</a>
+    <a href="https://github.com/subeeshvasu/Awesome-Deblurring/pulls/new">Suggest new item</a>
     <br />
     <a href="https://github.com/subeeshvasu/Awesome-Deblurring/issues/new">Report Bug</a>
   </p>
