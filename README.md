@@ -213,6 +213,7 @@
 |2019|CVPR|[Learning to Synthesize Motion Blur](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)|[Project page](http://timothybrooks.com/tech/motion-blur/),[Code](https://github.com/google-research/google-research/tree/master/motion_blur)|
 |2019|CVPR|[World from blur](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_World_From_Blur_CVPR_2019_paper.pdf)||
 |2019||[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)||
+|2020|ACM-MM|[Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive]()||
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
