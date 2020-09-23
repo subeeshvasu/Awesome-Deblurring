@@ -198,7 +198,7 @@
 |2019|ICCV|[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://arxiv.org/abs/1904.12257)|[Project page](https://shangchenzhou.com/projects/stfan/)|
 |2019|ICCV|[Face Video Deblurring using 3D Facial Priors](https://openaccess.thecvf.com/content_ICCV_2019/html/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.html)|[Code](https://github.com/rwenqi/3Dfacedeblurring)|
 |2019|SPL|[Deep Recurrent Network for Fast and Full-Resolution Light Field Deblurring](https://arxiv.org/abs/1904.00352)||
-|2019|ICCV_W|[Deep Video Deblurring: The Devil is in the Details](https://arxiv.org/abs/1909.12196) [Code](https://github.com/visinf/deblur-devil)|
+|2019|ICCV_W|[Deep Video Deblurring: The Devil is in the Details](https://arxiv.org/abs/1909.12196)|[Code](https://github.com/visinf/deblur-devil)|
 |2020|CVPR|[Cascaded Deep Video Deblurring Using Temporal Sharpness Prior](https://arxiv.org/abs/2004.02501)|[Code](https://github.com/csbhr/CDVD-TSP)|[Project Page](https://baihaoran.xyz/projects/cdvd-tsp/index.html)|
 |2020|CVPR|[Blurry Video Frame Interpolation](https://arxiv.org/abs/2002.12259)|[Code](https://github.com/laomao0/BIN)|
 |2020|ECCV|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php)|[Code](https://github.com/zzh-tech/ESTRNN)|
