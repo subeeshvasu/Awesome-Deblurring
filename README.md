@@ -90,6 +90,7 @@
 |2017|ICCV|[Blur-Invariant Deep Learning for Blind Deblurring](http://openaccess.thecvf.com/content_ICCV_2017/papers/Nimisha_Blur-Invariant_Deep_Learning_ICCV_2017_paper.pdf)||
 |2017|ICCV|[Learning to Super-resolve Blurry Face and Text Images](http://faculty.ucmerced.edu/mhyang/papers/iccv2017_gan_super_deblur.pdf)|[Code & Project page](https://sites.google.com/view/xiangyuxu/deblursr_iccv17)|
 |2017|ICCV|[Learning Discriminative Data Fitting Functions for Blind Image Deblurring](http://openaccess.thecvf.com/content_ICCV_2017/papers/Pan_Learning_Discriminative_Data_ICCV_2017_paper.pdf)|[Code](https://www.dropbox.com/s/oavk46q521fiowr/iccv17_learning_deblur_code.zip?dl=0)|
+|2018|ICIP|[Semi-supervised Learning of Camera Motion from a Blurred Image](https://apvijay.github.io/pdf/2018_icip.pdf)||
 |2018|TIP|[Motion blur kernel estimation via deep learning](https://ieeexplore.ieee.org/abstract/document/8039224)|[Code & Project page](https://sites.google.com/view/xiangyuxu/deepedge_tip)|
 |2018|CVPR|[Deep Semantic Face Deblurring](http://openaccess.thecvf.com/content_cvpr_2018/html/Shen_Deep_Semantic_Face_CVPR_2018_paper.html)|[Code](https://github.com/joanshen0508/Deep-Semantic-Face-Deblurring)|
 |2018|CVPR|[Learning a Discriminative Prior for Blind Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Learning_a_Discriminative_CVPR_2018_paper.html)|[Code & Project page](https://sites.google.com/view/lerenhanli/homepage/learn_prior_deblur)|
