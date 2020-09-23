@@ -123,6 +123,7 @@
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
 |2020|ECCV|[Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training](https://arxiv.org/abs/1911.07410)||
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
+|2020|ACCV|[Human Motion Deblurring using Localized Body Prior]()||
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
