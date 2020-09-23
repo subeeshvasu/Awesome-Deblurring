@@ -123,7 +123,7 @@
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
 |2020|ECCV|[Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training](https://arxiv.org/abs/1911.07410)||
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
-|2020|ACCV|[Human Motion Deblurring using Localized Body Prior]()||
+|2020|ACCV|[Human Motion Deblurring using Localized Body Prior]||
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
@@ -215,7 +215,7 @@
 |2019|CVPR|[Learning to Synthesize Motion Blur](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)|[Project page](http://timothybrooks.com/tech/motion-blur/),[Code](https://github.com/google-research/google-research/tree/master/motion_blur)|
 |2019|CVPR|[World from blur](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_World_From_Blur_CVPR_2019_paper.pdf)||
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
-|2020|ACM-MM|[Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive]()||
+|2020|ACM-MM|[Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive]||
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
