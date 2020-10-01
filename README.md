@@ -76,7 +76,8 @@
 |2019|CVPR|[A Variational EM Framework With Adaptive Edge Selection for Blind Motion Deblurring](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_A_Variational_EM_Framework_With_Adaptive_Edge_Selection_for_Blind_CVPR_2019_paper.html)||
 |2020|ECCV|[OID: Outlier Identifying and Discarding in Blind Image Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)||
 |2020|ECCV|[Enhanced Sparse Model for Blind Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf)||
-
+|2019|TCSVT|[Single Image Blind Deblurring Using Multi-Scale Latent Structure Prior](https://arxiv.org/abs/1906.04442)||
+|2020|Arxiv|[Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://128.84.21.199/abs/1906.06642v3)|[Code](https://github.com/FWen/deblur-pmp)|
 
 ## Single-Image-Blind-Motion-Deblurring (DL)
 |Year|Pub|Paper|Repo|
