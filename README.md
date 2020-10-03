@@ -239,6 +239,7 @@
 |2018|ECCV_W|[Deep Depth from Defocus: how can defocus blur improve 3D estimation using dense neural networks?](http://openaccess.thecvf.com/content_eccv_2018_workshops/w3/html/Carvalho_Deep_Depth_from_Defocus_how_can_defocus_blur_improve_3D_ECCVW_2018_paper.html)|[Code & Dataset](https://github.com/marcelampc/d3net_depth_estimation)|
 |2018|PG|[Defocus and Motion Blur Detection with Deep Contextual Features](http://cg.postech.ac.kr/papers/Kim2018Defocus.pdf)|[Code & Dataset](https://github.com/HyeongseokSon1/deep_blur_detection_and_classification)|
 |2019|CVPR|[Deep Defocus Map Estimation using Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/html/Lee_Deep_Defocus_Map_Estimation_Using_Domain_Adaptation_CVPR_2019_paper.html)|[Code & Dataset](https://github.com/codeslake/DMENet)|
+|2019|CVPR|[DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-Scale Deep Features](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf)||
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)||
 |2020|ECCV|[Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)||
 |2020|ECCV|[Defocus Blur Detection via Depth Distillation](https://arxiv.org/abs/2007.08113)|[Code](https://github.com/vinthony/depth-distillation)|
