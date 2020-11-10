@@ -159,6 +159,7 @@
 |2020|CVPR|[Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring](https://openaccess.thecvf.com/content_CVPR_2020/html/Nan_Variational-EM-Based_Deep_Learning_for_Noise-Blind_Image_Deblurring_CVPR_2020_paper.html)||
 |2020|CVPR|[Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Deep_Learning_for_Handling_Kernelmodel_Uncertainty_in_Image_Deconvolution_CVPR_2020_paper.pdf)||
 |2020|ECCV|[End-to-end interpretable learning of non-blind image deblurring](https://arxiv.org/abs/2007.01769)||
+|2020|NIPS|[Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring](https://papers.nips.cc/paper/2020/file/0b8aff0438617c055eb55f0ba5d226fa-Paper.pdf)||
 |2020|Arxiv|[The Maximum Entropy on the Mean Method for Image Deblurring](https://arxiv.org/pdf/2002.10434.pdf)||
 
 ## (Multi-image/Video)-Motion-Deblurring
