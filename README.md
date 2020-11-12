@@ -260,3 +260,9 @@
 |2020|CVPR|[Deblurring by Realistic Blurring](https://arxiv.org/abs/2004.01860)|[Dataset](https://sites.google.com/view/kaihaozhang/publications)|
 |2020|CVPR|[Learning Event-Based Motion Deblurring](https://arxiv.org/abs/2004.05794)||
 |2020|ECCV|[Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)|[Code & Dataset](http://cg.postech.ac.kr/research/realblur/)|
+
+
+Abbreviations:
+
++ DL -> Deep Learning
++ non-DL -> non-Deep Learning
