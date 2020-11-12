@@ -197,8 +197,6 @@
 |2019|CVPR|[Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)||
 |2019|CVPR|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
 |2019|CVPR|[DAVANet: Stereo Deblurring With View Aggregation](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.html)|[Code](https://github.com/sczhou/DAVANet)|
-|2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring: Methods and Results](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)||
-|2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)||
 |2019|CVPR_W|[A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with Residual Down-Up and Up-Down Modules](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)||
 |2019|ICCV|[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://arxiv.org/abs/1904.12257)|[Project page](https://shangchenzhou.com/projects/stfan/)|
 |2019|ICCV|[Face Video Deblurring using 3D Facial Priors](https://openaccess.thecvf.com/content_ICCV_2019/html/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.html)|[Code](https://github.com/rwenqi/3Dfacedeblurring)|
@@ -209,6 +207,14 @@
 |2020|ECCV|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php)|[Code](https://github.com/zzh-tech/ESTRNN)|
 |2020|ECCV|[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)||
 |2020|Arxiv|[Kernel-Free Image Deblurring with a Pair of Blurred/Noisy Images](https://arxiv.org/abs/1903.10667)||
+
+## Challenges on Motion Deblurring
+
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring: Methods and Results](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)||
+|2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)||
+|2020|CVPR-W|[Ntire 2020 challenge on image and video deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)||
 
 
 ## Other Closely Related Works
