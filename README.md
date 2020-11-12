@@ -195,7 +195,6 @@
 |2018|Arxiv|[LSD-Joint Denoising and Deblurring of Short and Long Exposure Images with Convolutional Neural Networks](https://arxiv.org/abs/1811.09485)||
 |2019|TIP|[Adversarial Spatio-Temporal Learning for Video Deblurring](https://arxiv.org/abs/1804.00533)|[Code](https://github.com/themathgeek13/STdeblur)|[Project page](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)|
 |2019|CVPR|[Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring](http://openaccess.thecvf.com/content_CVPR_2019/html/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.html)||
-|2019|CVPR|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
 |2019|CVPR|[DAVANet: Stereo Deblurring With View Aggregation](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.html)|[Code](https://github.com/sczhou/DAVANet)|
 |2019|CVPR_W|[A Deep Motion Deblurring Network based on Per-Pixel Adaptive Kernels with Residual Down-Up and Up-Down Modules](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Sim_A_Deep_Motion_Deblurring_Network_Based_on_Per-Pixel_Adaptive_Kernels_CVPRW_2019_paper.html)||
 |2019|ICCV|[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://arxiv.org/abs/1904.12257)|[Project page](https://shangchenzhou.com/projects/stfan/)|
@@ -213,6 +212,7 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring: Methods and Results](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)||
+|2019|CVPR_W|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
 |2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)||
 |2020|CVPR_W|[Ntire 2020 challenge on image and video deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)||
 |2020|CVPR_W|[Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Chiang_Deploying_Image_Deblurring_Across_Mobile_Devices_A_Perspective_of_Quality_CVPRW_2020_paper.pdf)||
