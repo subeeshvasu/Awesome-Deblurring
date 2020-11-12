@@ -122,6 +122,10 @@
 |2020|CVPR|[Learning Event-Based Motion Deblurring](https://arxiv.org/abs/2004.05794)||
 |2020|CVPR|[Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.html)||
 |2020|CVPR|[Deblurring using Analysis-Synthesis Networks Pair](https://arxiv.org/abs/2004.02956)||
+|2020|CVPR-W|[Deploying Image Deblurring across Mobile Devices: A Perspective of Quality
+and Latency](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Chiang_Deploying_Image_Deblurring_Across_Mobile_Devices_A_Perspective_of_Quality_CVPRW_2020_paper.pdf)||
+|2020|CVPR-W|[High-Resolution Dual-Stage Multi-Level Feature Aggregation for Single Image
+and Video Deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Brehm_High-Resolution_Dual-Stage_Multi-Level_Feature_Aggregation_for_Single_Image_and_Video_CVPRW_2020_paper.pdf)||
 |2020|ECCV|[Multi-Temporal Recurrent Neural Networks For Progressive Non-Uniform Single Image Deblurring With Incremental Temporal Training](https://arxiv.org/abs/1911.07410)||
 |2020|TIP|[Efficient and Interpretable Deep Blind Image Deblurring Via Algorithm Unrolling](https://arxiv.org/pdf/1902.03493.pdf)||
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
@@ -229,6 +233,7 @@
 |2019|ICC|[FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos](https://arxiv.org/abs/1910.12100)|[Code](https://github.com/KeqiangSun/FAB)|
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
 |2020|ACM-MM|Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive||
+|2020|NIPS|[Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0a73de68f10e15626eb98701ecf03adb-Paper.pdf)|[Code](https://github.com/tsingqguo/ABBA)|
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
