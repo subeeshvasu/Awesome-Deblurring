@@ -212,8 +212,8 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring: Methods and Results](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_Methods_and_Results_CVPRW_2019_paper.html)||
-|2019|CVPR_W|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
 |2019|CVPR_W|[NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)||
+|2019|CVPR_W|[EDVR: Video Restoration with Enhanced Deformable Convolutional Networks](https://arxiv.org/abs/1905.02716)|[Code-Pytorch](https://github.com/xinntao/EDVR)|[Project page](https://xinntao.github.io/projects/EDVR)|
 |2020|CVPR_W|[Ntire 2020 challenge on image and video deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Nah_NTIRE_2020_Challenge_on_Image_and_Video_Deblurring_CVPRW_2020_paper.pdf)||
 |2020|CVPR_W|[Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Chiang_Deploying_Image_Deblurring_Across_Mobile_Devices_A_Perspective_of_Quality_CVPRW_2020_paper.pdf)||
 |2020|CVPR_W|[High-Resolution Dual-Stage Multi-Level Feature Aggregation for Single Image and Video Deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Brehm_High-Resolution_Dual-Stage_Multi-Level_Feature_Aggregation_for_Single_Image_and_Video_CVPRW_2020_paper.pdf)||
