@@ -146,6 +146,7 @@
 |2014|ECCV|[Good Image Priors for Non-blind Deconvolution: Generic vs Specific](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors_eccv2014.pdf)|[Project page](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors2014eccv.html)|
 |2016|CVIP|[Fast Non-Blind Image De-blurring With Sparse Priors](https://link.springer.com/chapter/10.1007/978-981-10-2104-6_56)||
 |2017|TIP|[Partial Deconvolution With Inaccurate Blur Kernel](https://ieeexplore.ieee.org/document/8071032)||
+|2017|ICCP|[Fast non-blind deconvolution via regularized residual networks with long/short skip-connections](http://cg.postech.ac.kr/papers/skipConnect.pdf)|[Project Page](http://cg.postech.ac.kr/research/resnet_deconvolution/)|
 |2017|CVPR|[Noise-Blind Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2017/html/Jin_Noise-Blind_Image_Deblurring_CVPR_2017_paper.html)||
 |2017|CVPR|[Learning Deep CNN Denoiser Prior for Image Restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)|[Code](https://github.com/cszn/ircnn)|
 |2017|CVPR|[Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution](https://arxiv.org/pdf/1611.06495)|[Code](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)|
