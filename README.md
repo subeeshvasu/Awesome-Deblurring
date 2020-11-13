@@ -146,7 +146,7 @@
 |2014|ECCV|[Good Image Priors for Non-blind Deconvolution: Generic vs Specific](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors_eccv2014.pdf)|[Project page](http://cs.brown.edu/~lbsun/GoodPriors2014/goodpriors2014eccv.html)|
 |2016|CVIP|[Fast Non-Blind Image De-blurring With Sparse Priors](https://link.springer.com/chapter/10.1007/978-981-10-2104-6_56)||
 |2017|TIP|[Partial Deconvolution With Inaccurate Blur Kernel](https://ieeexplore.ieee.org/document/8071032)||
-|2017|ICCP|[Fast non-blind deconvolution via regularized residual networks with long/short skip-connections](http://cg.postech.ac.kr/papers/skipConnect.pdf)|[Code & Project Page](http://cg.postech.ac.kr/research/resnet_deconvolution/)|
+|2017|ICCP|[Fast non-blind deconvolution via regularized residual networks with long/short skip-connections](http://cg.postech.ac.kr/papers/skipConnect.pdf)|[Code](https://github.com/HyeongseokSon1/CNN_deconvolution), [Project Page](http://cg.postech.ac.kr/research/resnet_deconvolution/)|
 |2017|CVPR|[Noise-Blind Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2017/html/Jin_Noise-Blind_Image_Deblurring_CVPR_2017_paper.html)||
 |2017|CVPR|[Learning Deep CNN Denoiser Prior for Image Restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)|[Code](https://github.com/cszn/ircnn)|
 |2017|CVPR|[Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution](https://arxiv.org/pdf/1611.06495)|[Code](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)|
@@ -227,7 +227,7 @@
 |2018|CVPR|[Learning to extract a video sequence from a single motion-blurred image](http://openaccess.thecvf.com/content_cvpr_2018/html/Jin_Learning_to_Extract_CVPR_2018_paper.html)||[Code](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)|
 |2019|CVPR|[Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)|[Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)|
 |2019|CVPR|[Learning to Extract Flawless Slow Motion From Blurry Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Jin_Learning_to_Extract_Flawless_Slow_Motion_From_Blurry_Videos_CVPR_2019_paper.html)|[Code](https://github.com/MeiguangJin/slow-motion)|
-|2019|CVPR|[Learning to Synthesize Motion Blur](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)|[Project page](http://timothybrooks.com/tech/motion-blur/),[Code](https://github.com/google-research/google-research/tree/master/motion_blur)|
+|2019|CVPR|[Learning to Synthesize Motion Blur](http://openaccess.thecvf.com/content_CVPR_2019/html/Brooks_Learning_to_Synthesize_Motion_Blur_CVPR_2019_paper.html)|[Code](https://github.com/google-research/google-research/tree/master/motion_blur), [Project page](http://timothybrooks.com/tech/motion-blur/)|
 |2019|CVPR|[World from blur](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_World_From_Blur_CVPR_2019_paper.pdf)||
 |2019|ICC|[FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos](https://arxiv.org/abs/1910.12100)|[Code](https://github.com/KeqiangSun/FAB)|
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
