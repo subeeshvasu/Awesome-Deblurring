@@ -59,7 +59,7 @@
 |2014|NIPS|[Scale Adaptive Blind Deblurring](https://papers.nips.cc/paper/5566-scale-adaptive-blind-deblurring)|[Project page](https://sites.google.com/site/hczhang1/projects/scale-adaptive-blind-deblurring)|
 |2015|CVPR|[Burst Deblurring: Removing Camera Shake Through Fourier Burst Accumulation](http://dev.ipol.im/~mdelbra/fba/FBA_cvpr2015_preprint.pdf)|[Project page](http://iie.fing.edu.uy/~mdelbra/fba/)|
 |2015|CVPR|[Kernel Fusion for Better Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2015/html/Mai_Kernel_Fusion_for_2015_CVPR_paper.html)|[Project page](http://web.cecs.pdx.edu/~fliu/project/kernelfusion/)|
-|2015|ICCV|[Class-Specific Image Deblurring](http://openaccess.thecvf.com/content_iccv_2015/html/Anwar_Class-Specific_Image_Deblurring_ICCV_2015_paper.html)|[Project page & Code](https://github.com/saeed-anwar/Class_Specific_Deblurring)|
+|2015|ICCV|[Class-Specific Image Deblurring](http://openaccess.thecvf.com/content_iccv_2015/html/Anwar_Class-Specific_Image_Deblurring_ICCV_2015_paper.html)|[Code & Project page](https://github.com/saeed-anwar/Class_Specific_Deblurring)|
 |2015|TIP|[Coupled Learning for Facial Deblur](https://arxiv.org/pdf/1904.08671.pdf)||
 |2016|CVPR|[Blind image deblurring using dark channel prior](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/dark-channel-deblur/cvpr16-dark-channel-deblur.pdf)|[Code & Project page](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)|
 |2016|CVPR|[Robust Kernel Estimation with Outliers Handling for Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2016/html/Pan_Robust_Kernel_Estimation_CVPR_2016_paper.html)|[Code](https://www.dropbox.com/s/hz9qmi8ar1k1zn0/pcode.zip?dl=0)|
