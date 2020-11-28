@@ -85,7 +85,7 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2015|CVPR|[Learning a convolutional neural network for non-uniform motion blur removal](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)|[Code 1](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip),[Code 2](https://github.com/Sibozhu/MotionBlur-detection-by-CNN)|
-|2015|CVPR|[Convolutional neural networks for direct text deblurring](http://www.bmva.org/bmvc/2015/papers/paper006/index.html)|[Code and Project Page](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)|
+|2015|BMVC|[Convolutional neural networks for direct text deblurring](http://www.bmva.org/bmvc/2015/papers/paper006/index.html)|[Code and Project Page](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)|
 |2016|ECCV|[A neural approach to blind motion deblurring](https://arxiv.org/abs/1603.04771)|[Code](https://github.com/ayanc/ndeblur)|
 |2016|PAMI|[Learning to deblur](https://arxiv.org/pdf/1406.7444.pdf)||
 |2017|CVPR|[Deep multi-scale convolutional neural network for dynamic scene deblurring](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)|[Code](https://github.com/SeungjunNah/DeepDeblur_release)|
@@ -102,7 +102,6 @@
 |2018|CVPR|[Deblurgan: Blind motion deblurring using conditional adversarial networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.html)|[Code-Pytorch](https://github.com/KupynOrest/DeblurGAN)|
 |2018|ECCV|[Unsupervised Class-Specific Deblurring](http://openaccess.thecvf.com/content_ECCV_2018/html/Nimisha_T_M_Unsupervised_Class-Specific_Deblurring_ECCV_2018_paper.html)||
 |2018|BMVC|[Gated Fusion Network for Joint Image Deblurring and Super-Resolution](https://arxiv.org/abs/1807.10806)|[Code](https://github.com/jacquelinelala/GFN)|[Project page](http://xinyizhang.tech/bmvc2018/)|
-|2018|Arxiv|[Blind image deconvolution using deep generative priors](https://arxiv.org/abs/1802.04073)||
 |2019|WACV|[Gyroscope-Aided Motion Deblurring with Deep Networks](https://arxiv.org/abs/1810.00986)|[Code](https://github.com/jannemus/DeepGyro)|
 |2019|CVPR|[Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)|[Code](https://github.com/cszn/DPSR)|
 |2019|CVPR|[Dynamic Scene Deblurring With Parameter Selective Sharing and Nested Skip Connections](http://openaccess.thecvf.com/content_CVPR_2019/html/Gao_Dynamic_Scene_Deblurring_With_Parameter_Selective_Sharing_and_Nested_Skip_CVPR_2019_paper.html)||
@@ -112,6 +111,7 @@
 |2019|CVPR|[Douglas-Rachford Networks: Learning Both the Image Prior and Data Fidelity Terms for Blind Image Deconvolution](http://openaccess.thecvf.com/content_CVPR_2019/html/Aljadaany_Douglas-Rachford_Networks_Learning_Both_the_Image_Prior_and_Data_Fidelity_CVPR_2019_paper.html)||
 |2019|ICCV|[DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://arxiv.org/abs/1908.03826)|[Code](https://github.com/TAMU-VITA/DeblurGANv2)|
 |2019|ICCV (HIDE)|[Human-Aware Motion Deblurring](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)||
+|2019|BMVC|[Blind image deconvolution using deep generative priors](https://arxiv.org/abs/1802.04073)||
 |2019|ACMMM|[Tell Me Where It is Still Blurry: Adversarial Blurred Region Mining and Refining](https://www.iis.sinica.edu.tw/papers/liutyng/22871-F.pdf)||
 |2019|IJCV|[Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement](https://arxiv.org/abs/1811.09019)|[Code](https://github.com/TAMU-VITA/DeblurGANv2)|
 |2020|AAAI|[Learning to Deblur Face Images via Sketch Synthesis](https://aaai.org/ojs/index.php/AAAI/article/view/6818/6672)||
@@ -208,7 +208,7 @@
 |2020|CVPR|[Blurry Video Frame Interpolation](https://arxiv.org/abs/2002.12259)|[Code](https://github.com/laomao0/BIN)|
 |2020|ECCV|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php)|[Code](https://github.com/zzh-tech/ESTRNN)|
 |2020|ECCV|[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)||
-|2020|Arxiv|[Kernel-Free Image Deblurring with a Pair of Blurred/Noisy Images](https://arxiv.org/abs/1903.10667)||
+|2020|TIP|[Blur Removal Via Blurred-Noisy Image Pair](https://arxiv.org/abs/1903.10667)||
 
 ## Challenges on Motion Deblurring
 
