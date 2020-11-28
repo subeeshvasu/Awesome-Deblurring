@@ -209,6 +209,7 @@
 |2020|ECCV|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php)|[Code](https://github.com/zzh-tech/ESTRNN)|
 |2020|ECCV|[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)||
 |2020|TIP|[Blur Removal Via Blurred-Noisy Image Pair](https://arxiv.org/abs/1903.10667)||
+|2020|TCSVT|[Recursive Neural Network for Video Deblurring](https://ieeexplore.ieee.org/abstract/document/9247314)||
 
 ## Challenges on Motion Deblurring
 
