@@ -158,7 +158,6 @@
 |2018|ICIP|[Modeling Realistic Degradations in Non-Blind Deconvolution](https://arxiv.org/abs/1806.01097)||
 |2018|CVPR|[Non-blind Deblurring: Handling Kernel Uncertainty with CNNs](http://openaccess.thecvf.com/content_cvpr_2018/html/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.html)|[Project page & Results-on-benchmark-datasets](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr)|
 |2018|CVPR|[Deep image prior](https://arxiv.org/abs/1711.10925)|[Code](https://github.com/DmitryUlyanov/deep-image-prior)|
-|2018|Arxiv|[Learning an Optimizer for Image Deconvolution](https://arxiv.org/abs/1804.03368)|[Code](https://github.com/donggong1/learn-optimizer-rgdn)|
 |2018|ECCV|[Learning Data Terms for Non-blind Deblurring](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)||
 |2018|NIPS|[Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)|[Code](https://github.com/rwenqi/NBD-GLRA)|
 |2019|ICLR|[Deep decoder: Concise image representations from untrained non-convolutional networks](https://arxiv.org/abs/1810.03982)||
