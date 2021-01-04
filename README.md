@@ -164,7 +164,7 @@
 |2019|ICCVW|[Image deconvolution with deep image and kernel priors](https://arxiv.org/abs/1910.08386)||
 |2019|TPAMI|[Denoising prior driven deep neural network for image restoration](https://arxiv.org/abs/1801.06756)||
 |2020|CVPR|[Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring](https://github.com/ysnan/VEM-NBD/blob/master/paper/vem_deconv.pdf)|[Project page & Results-on-benchmark-datasets](https://github.com/ysnan/VEM-NBD)|
-|2020|CVPR|[Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Deep_Learning_for_Handling_Kernelmodel_Uncertainty_in_Image_Deconvolution_CVPR_2020_paper.pdf)||
+|2020|CVPR|[Deep Learning for Handling Kernel/model Uncertainty in Image Deconvolution](https://github.com/ysnan/NBD_KerUnc/blob/master/paper/kn.pdf)|[Project page & Results-on-benchmark-datasets](https://github.com/ysnan/NBD_KerUnc)|
 |2020|ECCV|[End-to-end interpretable learning of non-blind image deblurring](https://arxiv.org/abs/2007.01769)||
 |2020|EUSIPCO|[Bp-dip: A backprojection based deep image prior](https://arxiv.org/abs/2003.05417)|[Code](https://github.com/jennyzu/BP-DIP-deblurring)|
 |2020|NIPS|[Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring](https://papers.nips.cc/paper/2020/file/0b8aff0438617c055eb55f0ba5d226fa-Paper.pdf)||
