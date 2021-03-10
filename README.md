@@ -132,6 +132,7 @@
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
 |2021|Arxiv|[BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring](https://arxiv.org/abs/2101.07518)||
 |2021|CVPR|[Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808.pdf)|[Code](https://github.com/swz30/MPRNet)|
+|2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
