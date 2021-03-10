@@ -220,6 +220,7 @@
 |2020|ECCV|[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/671_ECCV_2020_paper.php)||
 |2020|TIP|[Blur Removal Via Blurred-Noisy Image Pair](https://arxiv.org/abs/1903.10667)||
 |2020|TCSVT|[Recursive Neural Network for Video Deblurring](https://ieeexplore.ieee.org/abstract/document/9247314)||
+|2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
 
 ## Challenges on Motion Deblurring
 
