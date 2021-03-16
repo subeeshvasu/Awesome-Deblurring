@@ -132,6 +132,7 @@
 |2020|ACCV|[Human Motion Deblurring using Localized Body Prior](https://openaccess.thecvf.com/content/ACCV2020/html/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.html)||
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
 |2020|Arxiv|[Blur Invariant Kernel-Adaptive Network for Single Image Blind deblurring](https://arxiv.org/abs/2007.04543)||
+|2021|Arxiv|[Self-supervised Exposure Trajectory Recovery for Dynamic Blur Estimation](https://arxiv.org/abs/2010.02484)||
 |2021|Arxiv|[BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring](https://arxiv.org/abs/2101.07518)||
 |2021|CVPR|[Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808.pdf)|[Code](https://github.com/swz30/MPRNet)|
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
@@ -252,6 +253,7 @@
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
 |2020|ACM-MM|Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive||
 |2020|NIPS|[Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0a73de68f10e15626eb98701ecf03adb-Paper.pdf)|[Code](https://github.com/tsingqguo/ABBA)|
+|2020|Arxiv|[Improved Handling of Motion Blur in Online Object Detection](https://arxiv.org/abs/2011.14448)||
 |2021|Arxiv|[Geometric Moment Invariants to Motion Blur](https://arxiv.org/abs/2101.08647v2)||
 
 ## Defocus Deblurring and Potential Datasets
@@ -274,6 +276,9 @@
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)||
 |2020|ECCV|[Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)||
 |2020|ECCV|[Defocus Blur Detection via Depth Distillation](https://arxiv.org/abs/2007.08113)|[Code](https://github.com/vinthony/depth-distillation)|
+|2020|Arxiv|[CycleGAN with a Blur Kernel for Deconvolution Microscopy: Optimal Transport Geometry](https://arxiv.org/abs/1908.09414)||
+|2020|Arxiv|[Deep Multi-Scale Feature Learning for Defocus Blur Estimation](https://arxiv.org/abs/2009.11939)||
+|2021|Arxiv|[Defocus Blur Detection via Salient Region Detection Prior](https://arxiv.org/abs/2011.09677)||
 |2021|Arxiv|[Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture](https://arxiv.org/abs/2103.05843)||
 
 ## Benchmark Datasets on Motion Deblurring
