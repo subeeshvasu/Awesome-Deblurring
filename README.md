@@ -81,6 +81,8 @@
 |2020|ECCV|[Enhanced Sparse Model for Blind Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf)||
 |2020|Arxiv|[Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://128.84.21.199/abs/1906.06642v3)|[Code](https://github.com/FWen/deblur-pmp)|
 |2020|Arxiv|[Polyblur: Removing mild blur by polynomial reblurring](https://arxiv.org/abs/2012.09322)||
+|2021|SPIC|[Fast blind deconvolution using a deeper sparse patch-wise maximum gradient prior](https://www.sciencedirect.com/science/article/pii/S0923596520301910)||
+
 
 ## Single-Image-Blind-Motion-Deblurring (DL)
 |Year|Pub|Paper|Repo|
