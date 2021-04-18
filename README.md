@@ -131,6 +131,7 @@
 |2020|TIP|[Efficient and Interpretable Deep Blind Image Deblurring Via Algorithm Unrolling](https://arxiv.org/pdf/1902.03493.pdf)||
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
 |2020|TIP|[Dark and bright channel prior embedded network for dynamic scene deblurring](https://www4.comp.polyu.edu.hk/~cslzhang/paper/DBCPeNet_TIP.pdf)|[Code](https://github.com/csjcai/DBCPeNet)|
+|2020|TIP|[Dynamic Scene Deblurring by Depth Guided Model](https://ieeexplore.ieee.org/abstract/document/9043904)||
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
 |2020|ACCV|[Human Motion Deblurring using Localized Body Prior](https://openaccess.thecvf.com/content/ACCV2020/html/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.html)||
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
