@@ -53,6 +53,7 @@
 |2014|CVPR|[Segmentation-Free Dynamic Scene Deblurring](https://cv.snu.ac.kr/publication/conf/2014/SFDSD_CVPR2014.pdf)||
 |2014|CVPR|[Separable Kernel for Image Deblurring](http://openaccess.thecvf.com/content_cvpr_2014/html/Fang_Separable_Kernel_for_2014_CVPR_paper.html)|
 |2014|CVPR|[Deblurring Low-light Images with Light Streaks](https://eng.ucmerced.edu/people/zhu/CVPR14_lightstreak.pdf)|[Code & Project page](https://eng.ucmerced.edu/people/zhu/CVPR14_lightstreak.html)|
+|2014|CVPR|[Joint depth estimation and camera shake removal from single blurry image](https://eng.ucmerced.edu/people/zhu/CVPR14_deblurdepth.pdf)||
 |2014|ECCV|[Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information](http://www.juew.org/publication/ECCV14-hybridDeblur.pdf)||
 |2014|ECCV|[Deblurring Face Images with Exemplars](https://faculty.ucmerced.edu/mhyang/papers/eccv14_deblur.pdf)|[Code & Project page](https://eng.ucmerced.edu/people/zhu/ECCV14_facedeblur.html)|
 |2014|ECCV|[Blind deblurring using internal patch recurrence](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur/Michaeli_Irani_ECCV2014.pdf)|[Code & Project page](http://www.wisdom.weizmann.ac.il/~vision/BlindDeblur.html)|
