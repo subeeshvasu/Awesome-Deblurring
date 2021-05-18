@@ -185,6 +185,7 @@
 |2020|TNLS|[Learning deep gradient descent optimization for image deconvolution](https://arxiv.org/abs/1804.03368)|[Code](https://github.com/donggong1/learn-optimizer-rgdn)|
 |2020|TCI|[Neumann networks for linear inverse problems in imaging](https://arxiv.org/abs/1901.03707)|[Code](https://github.com/dgilton/neumann_networks_code)|
 |2020|Arxiv|[The Maximum Entropy on the Mean Method for Image Deblurring](https://arxiv.org/pdf/2002.10434.pdf)||
+|2021|CVPR|Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring||
 |2021|TNNLS|[Nonblind Image Deblurring via Deep Learning in Complex Field](https://ieeexplore.ieee.org/abstract/document/9404870)||
 
 ## (Multi-image/Video)-Motion-Deblurring
