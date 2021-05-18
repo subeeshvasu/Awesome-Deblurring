@@ -266,6 +266,7 @@
 |2021|Arxiv|[Geometric Moment Invariants to Motion Blur](https://arxiv.org/abs/2101.08647v2)||
 |2021|AAAI|[Optical Flow Estimation from a Single Motion-blurred Image](https://arxiv.org/pdf/2103.02996.pdf)||
 |2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)||
+|2021|CVPR|[Improved Handling of Motion Blur in Online Object Detection](https://arxiv.org/abs/2011.14448)||
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
