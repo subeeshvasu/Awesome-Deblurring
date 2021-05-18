@@ -139,11 +139,15 @@
 |2021|Arxiv|[Self-supervised Exposure Trajectory Recovery for Dynamic Blur Estimation](https://arxiv.org/abs/2010.02484)||
 |2021|Arxiv|[BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring](https://arxiv.org/abs/2101.07518)||
 |2021|CVPR|[Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808.pdf)|[Code](https://github.com/swz30/MPRNet)|
+|2021|CVPR|[DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)|[Code](https://github.com/rozumden/DeFMO)|
+|2021|CVPR|Blind Deblurring for Saturated Images||
+|2021|CVPR|Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning||
+|2021|CVPR|[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/abs/2104.00317)||
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
 |2021|Arxiv|[Single Image Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition](https://arxiv.org/abs/2102.01026)||
 |2021|Arxiv|[Clean Images are Hard to Reblur: A New Clue for Deblurring](https://arxiv.org/pdf/2104.12665.pdf)||
 |2021|CVIU|[Single-image deblurring with neural networks: A comparative survey](https://www.sciencedirect.com/science/article/abs/pii/S1077314220301533?dgcid=rss_sd_all)||
-|2021|CVPR|[DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)|[Code](https://github.com/rozumden/DeFMO)|
+
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
@@ -187,6 +191,7 @@
 |2020|TCI|[Neumann networks for linear inverse problems in imaging](https://arxiv.org/abs/1901.03707)|[Code](https://github.com/dgilton/neumann_networks_code)|
 |2020|Arxiv|[The Maximum Entropy on the Mean Method for Image Deblurring](https://arxiv.org/pdf/2002.10434.pdf)||
 |2021|CVPR|Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring||
+|2021|CVPR|Learning a Non-Blind Deblurring Network for Night Blurry Images||
 |2021|TNNLS|[Nonblind Image Deblurring via Deep Learning in Complex Field](https://ieeexplore.ieee.org/abstract/document/9404870)||
 
 ## (Multi-image/Video)-Motion-Deblurring
@@ -236,6 +241,8 @@
 |2020|TCSVT|[Recursive Neural Network for Video Deblurring](https://ieeexplore.ieee.org/abstract/document/9247314)||
 |2021|AAAI|[Motion-blurred Video Interpolation and Extrapolation](https://arxiv.org/pdf/2103.02984.pdf)||
 |2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
+|2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
+
 
 
 ## Challenges on Motion Deblurring
@@ -269,6 +276,7 @@
 |2021|AAAI|[Optical Flow Estimation from a Single Motion-blurred Image](https://arxiv.org/pdf/2103.02996.pdf)||
 |2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)||
 |2021|CVPR|[Improved Handling of Motion Blur in Online Object Detection](https://arxiv.org/abs/2011.14448)||
+|2021|CVPR|[Blur, Noise, and Compression Robust Generative Adversarial Networks](https://arxiv.org/abs/2003.07849)||
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
@@ -296,6 +304,7 @@
 |2021|Arxiv|[Defocus Blur Detection via Salient Region Detection Prior](https://arxiv.org/abs/2011.09677)||
 |2021|Arxiv|[Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture](https://arxiv.org/abs/2103.05843)||
 |2021|CVPR|Iterative Filter Adaptive Network for Single Image Defocus Deblurring||
+|2021|CVPR|Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators||
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
