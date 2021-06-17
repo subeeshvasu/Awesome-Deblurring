@@ -305,7 +305,7 @@
 |2021|Arxiv|[Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture](https://arxiv.org/abs/2103.05843)||
 |2021|CVPR|Iterative Filter Adaptive Network for Single Image Defocus Deblurring||
 |2021|CVPR|Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators||
-|2021|CVPRW|NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results(https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.pdf)||
+|2021|CVPRW|[NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.pdf)||
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
