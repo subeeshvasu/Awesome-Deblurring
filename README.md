@@ -242,7 +242,7 @@
 |2021|AAAI|[Motion-blurred Video Interpolation and Extrapolation](https://arxiv.org/pdf/2103.02984.pdf)||
 |2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
 |2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
-|2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes]|[Code](https://github.com/codeslake/PVDNet)|
+|2021|TOG|Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes|[Code](https://github.com/codeslake/PVDNet)|
 
 
 ## Challenges on Motion Deblurring
