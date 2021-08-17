@@ -142,7 +142,7 @@
 |2021|CVPR|[DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)|[Code](https://github.com/rozumden/DeFMO)|
 |2021|CVPR|Blind Deblurring for Saturated Images||
 |2021|CVPR|Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning||
-|2021|CVPR|[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/abs/2104.00317)||
+|2021|CVPR|[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/abs/2104.00317)|[Code](https://github.com/VinAIResearch/blur-kernel-space-exploring)|
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
 |2021|Arxiv|[Single Image Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition](https://arxiv.org/abs/2102.01026)||
 |2021|Arxiv|[Clean Images are Hard to Reblur: A New Clue for Deblurring](https://arxiv.org/pdf/2104.12665.pdf)||
