@@ -19,7 +19,7 @@
 - [Non-Blind-Deblurring](#non-blind-deblurring)
 - [(Multi-image/Video)-Motion-Deblurring](#multi-imagevideo-motion-deblurring)
 - [Other Closely Related Works](#other-closely-related-works)
-- [Deblurring and Potential Datasets](#defocus-deblurring-and-potential-datasets)
+- [Defocus Deblurring and Potential Datasets](#defocus-deblurring-and-potential-datasets)
 - [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
 
 ## Single-Image-Blind-Motion-Deblurring (non-DL)
