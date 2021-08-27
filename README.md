@@ -243,7 +243,7 @@
 |2021|AAAI|[Motion-blurred Video Interpolation and Extrapolation](https://arxiv.org/pdf/2103.02984.pdf)||
 |2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
 |2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
-|2021|TOG|Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes|[Code](https://github.com/codeslake/PVDNet)|
+|2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
 
 
 ## Challenges on Motion Deblurring
@@ -307,6 +307,7 @@
 |2021|CVPR|[Iterative Filter Adaptive Network for Single Image Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Iterative_Filter_Adaptive_Network_for_Single_Image_Defocus_Deblurring_CVPR_2021_paper.pdf)|[Code & Dataset](https://github.com/codeslake/IFAN)|
 |2021|CVPR|Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators||
 |2021|CVPRW|[NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images: Methods and Results](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Abuolaim_NTIRE_2021_Challenge_for_Defocus_Deblurring_Using_Dual-Pixel_Images_Methods_CVPRW_2021_paper.pdf)||
+|2021|ICCV|[Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions](https://arxiv.org/pdf/2108.09108.pdf)||
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
