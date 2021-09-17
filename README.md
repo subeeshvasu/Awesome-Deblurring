@@ -141,7 +141,7 @@
 |2021|CVPR|[Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808.pdf)|[Code](https://github.com/swz30/MPRNet)|
 |2021|CVPR|[DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)|[Code](https://github.com/rozumden/DeFMO)|
 |2021|CVPR|[Blind Deblurring for Saturated Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.html)||
-|2021|CVPR|Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning||
+|2021|CVPR|[Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Test-Time_Fast_Adaptation_for_Dynamic_Scene_Deblurring_via_Meta-Auxiliary_Learning_CVPR_2021_paper.html)||
 |2021|CVPR|[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/abs/2104.00317)|[Code](https://github.com/VinAIResearch/blur-kernel-space-exploring)|
 |2021|ICCV|[Spatially-Adaptive Image Restoration using Distortion-Guided Networks](https://arxiv.org/abs/2108.08617)||
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
