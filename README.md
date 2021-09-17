@@ -272,7 +272,6 @@
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
 |2020|ACM-MM|Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive||
 |2020|NIPS|[Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0a73de68f10e15626eb98701ecf03adb-Paper.pdf)|[Code](https://github.com/tsingqguo/ABBA)|
-|2020|Arxiv|[Improved Handling of Motion Blur in Online Object Detection](https://arxiv.org/abs/2011.14448)||
 |2021|Arxiv|[Geometric Moment Invariants to Motion Blur](https://arxiv.org/abs/2101.08647v2)||
 |2021|AAAI|[Optical Flow Estimation from a Single Motion-blurred Image](https://arxiv.org/pdf/2103.02996.pdf)||
 |2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Code](https://github.com/zzh-tech/RSCD)||
