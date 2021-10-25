@@ -147,6 +147,7 @@
 |2021|ICCV|[Spatially-Adaptive Image Restoration using Distortion-Guided Networks](https://arxiv.org/abs/2108.08617)|[Code](https://github.com/human-analysis/spatially-adaptive-image-restoration/)|
 |2021|ICCV|[Rethinking Coarse-To-Fine Approach in Single Image Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.html)|[Code](https://github.com/chosj95/mimo-unet)|
 |2021|ICCV|[Perceptual Variousness Motion Deblurring With Light Global Context Refinement](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Perceptual_Variousness_Motion_Deblurring_With_Light_Global_Context_Refinement_ICCV_2021_paper.html)||
+|2021|ICCV|[Pyramid Architecture Search for Real-Time Image Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.html)||
 |2021|TIP|[Structure-Aware Motion Deblurring Using Multi-Adversarial Optimized CycleGAN](http://graphics.csie.ncku.edu.tw/TIP_cycle_2021/TIP2021.pdf)|
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
 |2021|Arxiv|[Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition](https://arxiv.org/abs/2102.01026)|[Code](https://github.com/GuillermoCarbajal/NonUniformBlurKernelEstimation)|
@@ -251,7 +252,7 @@
 |2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
 |2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
 |2021|CVIU|[Video Deblurring via Spatiotemporal Pyramid Network and Adversarial Gradient Prior](https://whluo.github.io/papers/cviu103135_final.pdf)|
-
+|2021|ICCV|[Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html)||
 
 ## Challenges on Motion Deblurring
 
