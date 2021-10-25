@@ -227,6 +227,7 @@
 |2017|ICCV|[Online Video Deblurring via Dynamic Temporal Blending Network](http://openaccess.thecvf.com/content_ICCV_2017/papers/Kim_Online_Video_Deblurring_ICCV_2017_paper.pdf)|[Code](https://sites.google.com/site/lliger9/publications)|
 |2018|ECCV|[Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Miika_Aittala_Burst_Image_Deblurring_ECCV_2018_paper.html)|[Project page](http://people.csail.mit.edu/miika/eccv18_deblur/)|
 |2018|ECCV|[Joint Blind Motion Deblurring and Depth Estimation of Light Field](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongwoo_Lee_Joint_Blind_Motion_ECCV_2018_paper.html)||
+|2018|TPAMI|[Dynamic Video Deblurring using a Locally Adaptive Linear Blur Model](https://cv.snu.ac.kr/publication/jour/2018/thkim_pami2018_dynamic.pdf)||
 |2018|ICCP|[Reblur2deblur: Deblurring videos via self-supervised learning](https://arxiv.org/pdf/1801.05117.pdf)||
 |2018|Arxiv|[LSD-Joint Denoising and Deblurring of Short and Long Exposure Images with Convolutional Neural Networks](https://arxiv.org/abs/1811.09485)||
 |2019|TIP|[Adversarial Spatio-Temporal Learning for Video Deblurring](https://arxiv.org/abs/1804.00533)|[Code](https://github.com/themathgeek13/STdeblur)|[Project page](https://github.com/JLtwoP/Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring)|
@@ -273,7 +274,7 @@
 |2019|ICCV|[FAB: A Robust Facial Landmark Detection Framework for Motion-Blurred Videos](https://arxiv.org/abs/1910.12100)|[Code](https://github.com/KeqiangSun/FAB)|
 |2019|ICCV|[Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions](https://arxiv.org/abs/1909.00475)||
 |2020|CVPR-W|[Photosequencing of Motion Blur using Short and Long Exposures](https://arxiv.org/abs/1912.06102)|[Project Page](https://apvijay.github.io/photoseq_blur.html)|
-|2020|ACM-MM|Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive||
+|2020|ACM-MM|[Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive](https://dl.acm.org/doi/abs/10.1145/3394171.3413929)||
 |2020|NIPS|[Watch out! Motion is Blurring Blurring the Vision of Your Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0a73de68f10e15626eb98701ecf03adb-Paper.pdf)|[Code](https://github.com/tsingqguo/ABBA)|
 |2021|Arxiv|[Geometric Moment Invariants to Motion Blur](https://arxiv.org/abs/2101.08647v2)||
 |2021|AAAI|[Optical Flow Estimation from a Single Motion-blurred Image](https://arxiv.org/pdf/2103.02996.pdf)||
