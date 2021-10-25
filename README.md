@@ -137,7 +137,7 @@
 |2020|TPAMI|[Physics-Based Generative Adversarial Models for Image Restoration and Beyond](https://arxiv.org/abs/1808.00605)|[[Code]](https://jspan.github.io/projects/physicsgan/)|
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
 |2020|Arxiv|[Blur Invariant Kernel-Adaptive Network for Single Image Blind deblurring](https://arxiv.org/abs/2007.04543)||
-|2021|Arxiv|[Self-supervised Exposure Trajectory Recovery for Dynamic Blur Estimation](https://arxiv.org/abs/2010.02484)||
+|2021|TPAMI|[Exposure Trajectory Recovery from Motion Blur](https://arxiv.org/abs/2010.02484)|[Code](https://github.com/yjzhang96/Motion-ETR)|
 |2021|Arxiv|[BANet: Blur-aware Attention Networks for Dynamic Scene Deblurring](https://arxiv.org/abs/2101.07518)||
 |2021|CVPR|[Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808.pdf)|[Code](https://github.com/swz30/MPRNet)|
 |2021|CVPR|[DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)|[Code](https://github.com/rozumden/DeFMO)|
