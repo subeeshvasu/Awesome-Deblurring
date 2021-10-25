@@ -248,6 +248,7 @@
 |2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
 |2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
 |2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
+|2021|CVIU|[Video Deblurring via Spatiotemporal Pyramid Network and Adversarial Gradient Prior](https://whluo.github.io/papers/cviu103135_final.pdf)|
 
 
 ## Challenges on Motion Deblurring
