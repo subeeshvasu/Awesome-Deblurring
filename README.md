@@ -150,7 +150,8 @@
 |2021|Arxiv|[Single Image Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition](https://arxiv.org/abs/2102.01026)||
 |2021|Arxiv|[Clean Images are Hard to Reblur: A New Clue for Deblurring](https://arxiv.org/pdf/2104.12665.pdf)||
 |2021|CVIU|[Single-image deblurring with neural networks: A comparative survey](https://www.sciencedirect.com/science/article/abs/pii/S1077314220301533?dgcid=rss_sd_all)||
-|2021|arxiv|[Blind Motion Deblurring Super-Resolution: When Dynamic Spatio-Temporal Learning Meets Static Image Understanding](https://arxiv.org/pdf/2105.13077.pdf)||
+|2021|TIP|[Blind Motion Deblurring Super-Resolution: When Dynamic Spatio-Temporal Learning Meets Static Image Understanding](https://arxiv.org/pdf/2105.13077.pdf)||
+|2021|NC|[Deep Robust Image Deblurring via Blur Distilling and Information Comparison in Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013771)||
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
