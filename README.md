@@ -307,7 +307,7 @@
 |2018|TIP|[Edge-based defocus blur estimation with adaptive scale selection](https://ieeexplore.ieee.org/document/8101511)|[Code](https://github.com/alikaraali/TIP2018-Edge-Based-Defocus-Blur-Estimation-With-Adaptive-Scale-Selection)|
 |2019|CVPR|[Deep Defocus Map Estimation using Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/html/Lee_Deep_Defocus_Map_Estimation_Using_Domain_Adaptation_CVPR_2019_paper.html)|[Code & Dataset](https://github.com/codeslake/DMENet)|
 |2019|CVPR|[DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-Scale Deep Features](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf)||
-|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)|[Codev& Dataset](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|
+|2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)|[Code & Dataset](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|
 |2020|ECCV|[Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)||
 |2020|ECCV|[Defocus Blur Detection via Depth Distillation](https://arxiv.org/abs/2007.08113)|[Code](https://github.com/vinthony/depth-distillation)|
 |2020|Arxiv|[CycleGAN with a Blur Kernel for Deconvolution Microscopy: Optimal Transport Geometry](https://arxiv.org/abs/1908.09414)||
