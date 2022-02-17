@@ -271,6 +271,7 @@
 ## Other Closely Related Works
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2000||[Multiframe Restoration Methods for Image Synthesis and Recovery, Joseph J. Green, Univ. of Arizona, PhD thesis](https://repository.arizona.edu/handle/10150/284110)|[Code](https://github.com/nasa-jpl/pmapper)|
 |2013|TOG|[A No-Reference Metric for Evaluating The Quality of Motion Deblurring](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf)|[Code & Project Page](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/index.php)|
 |2018|CVPR|[Learning to extract a video sequence from a single motion-blurred image](http://openaccess.thecvf.com/content_cvpr_2018/html/Jin_Learning_to_Extract_CVPR_2018_paper.html)||[Code](https://github.com/MeiguangJin/Learning-to-Extract-a-Video-Sequence-from-a-Single-Motion-Blurred-Image)|
 |2019|CVPR|[Bringing a Blurry Frame Alive at High Frame-Rate With an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/html/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.html)|[Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)|
