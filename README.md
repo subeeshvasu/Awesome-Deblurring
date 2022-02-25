@@ -250,7 +250,7 @@
 |2020|TIP|[Blur Removal Via Blurred-Noisy Image Pair](https://arxiv.org/abs/1903.10667)||
 |2020|TCSVT|[Recursive Neural Network for Video Deblurring](https://ieeexplore.ieee.org/abstract/document/9247314)||
 |2021|AAAI|[Motion-blurred Video Interpolation and Extrapolation](https://arxiv.org/pdf/2103.02984.pdf)||
-|2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring]()||
+|2021|CVPR|[Gated Spatio-Temporal Attention-Guided Video Deblurring](https://openaccess.thecvf.com/content/CVPR2021/papers/Suin_Gated_Spatio-Temporal_Attention-Guided_Video_Deblurring_CVPR_2021_paper.pdf)||
 |2021|CVPR|[ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)||
 |2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
 |2021|CVIU|[Video Deblurring via Spatiotemporal Pyramid Network and Adversarial Gradient Prior](https://whluo.github.io/papers/cviu103135_final.pdf)|
