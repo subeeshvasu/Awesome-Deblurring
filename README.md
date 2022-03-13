@@ -107,7 +107,6 @@
 |2018|ECCV|[Unsupervised Class-Specific Deblurring](http://openaccess.thecvf.com/content_ECCV_2018/html/Nimisha_T_M_Unsupervised_Class-Specific_Deblurring_ECCV_2018_paper.html)||
 |2018|BMVC|[Gated Fusion Network for Joint Image Deblurring and Super-Resolution](https://arxiv.org/abs/1807.10806)|[Code](https://github.com/jacquelinelala/GFN)|[Project page](http://xinyizhang.tech/bmvc2018/)|
 |2019|WACV|[Gyroscope-Aided Motion Deblurring with Deep Networks](https://arxiv.org/abs/1810.00986)|[Code](https://github.com/jannemus/DeepGyro)|
-|2019|CVPR|[Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)|[Code](https://github.com/cszn/DPSR)|
 |2019|CVPR|[Dynamic Scene Deblurring With Parameter Selective Sharing and Nested Skip Connections](http://openaccess.thecvf.com/content_CVPR_2019/html/Gao_Dynamic_Scene_Deblurring_With_Parameter_Selective_Sharing_and_Nested_Skip_CVPR_2019_paper.html)||
 |2019|CVPR|[Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.html)|[Code](https://github.com/HongguangZhang/DMPHN-cvpr19-master)|
 |2019|CVPR|[Unsupervised Domain-Specific Deblurring via Disentangled Representations](http://openaccess.thecvf.com/content_CVPR_2019/html/Lu_Unsupervised_Domain-Specific_Deblurring_via_Disentangled_Representations_CVPR_2019_paper.html)|[Code](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring)|
@@ -189,6 +188,7 @@
 |2018|ECCV|[Learning Data Terms for Non-blind Deblurring](http://openaccess.thecvf.com/content_ECCV_2018/html/Jiangxin_Dong_Learning_Data_Terms_ECCV_2018_paper.html)||
 |2018|NIPS|[Deep Non-Blind Deconvolution via Generalized Low-Rank Approximation](https://papers.nips.cc/paper/7313-deep-non-blind-deconvolution-via-generalized-low-rank-approximation.pdf)|[Code](https://github.com/rwenqi/NBD-GLRA)|
 |2019|ICLR|[Deep decoder: Concise image representations from untrained non-convolutional networks](https://arxiv.org/abs/1810.03982)|[Code](https://github.com/reinhardh/supplement_deep_decoder)|
+|2019|CVPR|[Deep Plug-And-Play Super-Resolution for Arbitrary Blur Kernels](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.html)|[Code](https://github.com/cszn/DPSR)|
 |2019|ICCVW|[Image deconvolution with deep image and kernel priors](https://arxiv.org/abs/1910.08386)||
 |2019|TPAMI|[Denoising prior driven deep neural network for image restoration](https://arxiv.org/abs/1801.06756)||
 |2020|CVPR|[Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring](https://github.com/ysnan/VEM-NBD/blob/master/paper/vem_deconv.pdf)|[Project page & Results-on-benchmark-datasets](https://github.com/ysnan/VEM-NBD)|
