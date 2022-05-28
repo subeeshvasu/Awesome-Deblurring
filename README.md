@@ -155,7 +155,7 @@
 |2021|CVIU|[Single-image deblurring with neural networks: A comparative survey](https://www.sciencedirect.com/science/article/abs/pii/S1077314220301533?dgcid=rss_sd_all)||
 |2021|TIP|[Blind Motion Deblurring Super-Resolution: When Dynamic Spatio-Temporal Learning Meets Static Image Understanding](https://arxiv.org/pdf/2105.13077.pdf)||
 |2021|NC|[Deep Robust Image Deblurring via Blur Distilling and Information Comparison in Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013771)||
-|2022|Arxiv|[Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)||
+|2022|IJCV|[Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)||
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
