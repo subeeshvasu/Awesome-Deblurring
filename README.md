@@ -297,6 +297,7 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2009|ICCP|[What are Good Apertures for Defocus Deblurring?](https://ieeexplore.ieee.org/document/5559018)||
+|2009|ICIP|[Single image defocus map estimation using local contrast prior](https://www.eecs.yorku.ca/~mbrown/pdf/icip09_defocus.pdf)||
 |2012|ICASSP|[Spatially-varying out-of-focus image deblurring with L1-2 optimization and a guided blur map](https://ieeexplore.ieee.org/document/6288071)||
 |2013|ICASSP|[Removing out-of-focus blur from similar image pairs](https://ieeexplore.ieee.org/document/6637925)||
 |2014|CVPR|[Discriminative Blur Detection Features](http://www.shijianping.me/blur_cvpr14.pdf)|[Project Page](http://www.cse.cuhk.edu.hk/~leojia/projects/dblurdetect/index.html)|
