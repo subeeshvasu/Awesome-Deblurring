@@ -314,6 +314,7 @@
 |2020|ECCV|[Defocus Deblurring Using Dual-Pixel Data](https://arxiv.org/abs/2005.00305)|[Code & Dataset](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)|
 |2020|ECCV|[Rethinking the Defocus Blur Detection Problem and A Real-Time Deep DBD Model](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1182_ECCV_2020_paper.php)||
 |2020|ECCV|[Defocus Blur Detection via Depth Distillation](https://arxiv.org/abs/2007.08113)|[Code](https://github.com/vinthony/depth-distillation)|
+|2020|TCI|[AIFNet: All-in-focus Image Restoration Network using a Light Field-based Dataset](https://sweb.cityu.edu.hk/miullam/AIFNET/)|[Code](https://github.com/binorchen/AIFNET)|
 |2020|Arxiv|[CycleGAN with a Blur Kernel for Deconvolution Microscopy: Optimal Transport Geometry](https://arxiv.org/abs/1908.09414)||
 |2020|Arxiv|[Deep Multi-Scale Feature Learning for Defocus Blur Estimation](https://arxiv.org/abs/2009.11939)||
 |2021|Arxiv|[Defocus Blur Detection via Salient Region Detection Prior](https://arxiv.org/abs/2011.09677)||
@@ -324,7 +325,7 @@
 |2021|ICCV|[Single Image Defocus Deblurring Using Kernel-Sharing Parallel Atrous Convolutions](https://arxiv.org/pdf/2108.09108.pdf)|[Code](https://github.com/HyeongseokSon1/KPAC)|
 |2021|ICCV|[Learning To Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://openaccess.thecvf.com/content/ICCV2021/html/Abuolaim_Learning_To_Reduce_Defocus_Blur_by_Realistically_Modeling_Dual-Pixel_Data_ICCV_2021_paper.html)|[Code](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)|
 |2022|WACV|[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://openaccess.thecvf.com/content/WACV2022/html/Abuolaim_Improving_Single-Image_Defocus_Deblurring_How_Dual-Pixel_Images_Help_Through_Multi-Task_WACV_2022_paper.html)|[Code](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)|
-|2022|CVPR|[Learning to Deblur Using Light Field Generated and Real Defocus Images](https://openaccess.thecvf.com/content/CVPR2022/html/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.html)||
+|2022|CVPR|[Learning to Deblur Using Light Field Generated and Real Defocus Images](https://openaccess.thecvf.com/content/CVPR2022/html/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.html)|[Code](https://github.com/lingyanruan/DRBNet)[Dataset](https://sweb.cityu.edu.hk/miullam/AIFNET/dataset/LFDOF.zip)|
 |2022|CVPR|[AR-NeRF: Unsupervised Learning of Depth and Defocus Effects From Natural Images With Aperture Rendering Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/html/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.html)||
 
 ## Benchmark Datasets on Motion Deblurring
