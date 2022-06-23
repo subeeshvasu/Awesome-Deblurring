@@ -83,6 +83,7 @@
 |2021|TCI|[Polyblur: Removing mild blur by polynomial reblurring](https://arxiv.org/abs/2012.09322)||
 |2021|SPIC|[Fast blind deconvolution using a deeper sparse patch-wise maximum gradient prior](https://www.sciencedirect.com/science/article/pii/S0923596520301910)||
 |2021|TCSVT|[Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://128.84.21.199/abs/1906.06642v3)|[Code](https://github.com/FWen/deblur-pmp)|
+|2022|CVPR|[Pixel Screening Based Intermediate Correction for Blind Deblurring](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html)||
 
 
 ## Single-Image-Blind-Motion-Deblurring (DL)
