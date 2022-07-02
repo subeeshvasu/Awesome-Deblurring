@@ -339,7 +339,7 @@
 |2020|ECCV (BSD)|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
 |2020|ECCV|[Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)|[Code & Dataset](http://cg.postech.ac.kr/research/realblur/)|
 |2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Dataset](https://github.com/zzh-tech/RSCD)||
-|2021|Arxiv|[Benchmarking Deep Deblurring Algorithms: A Large-Scale Multi-Cause Dataset and A New Baseline Model](https://arxiv.org/pdf/2112.00234.pdf)|[Dataset](https://github.com/HDCVLab/MC-Blur-Dataset)||
+|2021|Arxiv|[MC-Blur: A Comprehensive Benchmark for Image Deblurring](https://arxiv.org/pdf/2112.00234.pdf)|[Dataset](https://github.com/HDCVLab/MC-Blur-Dataset)||
 
 
 Abbreviations:
