@@ -158,6 +158,7 @@
 |2021|NC|[Deep Robust Image Deblurring via Blur Distilling and Information Comparison in Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013771)||
 |2022|IJCV|[Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)||
 |2022|WACV|[Deep Feature Prior Guided Face Deblurring](https://openaccess.thecvf.com/content/WACV2022/html/Jung_Deep_Feature_Prior_Guided_Face_Deblurring_WACV_2022_paper.html)||
+|2022|CVPR|[Restormer: Efficient transformer for high-resolution image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/swz30/Restormer)|
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
@@ -205,7 +206,7 @@
 |2021|CVPR|[Learning a Non-Blind Deblurring Network for Night Blurry Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.html)||
 |2021|TNNLS|[Nonblind Image Deblurring via Deep Learning in Complex Field](https://ieeexplore.ieee.org/abstract/document/9404870)||
 |2022|WACV|[Non-Blind Deblurring for Fluorescence: A Deformable Latent Space Approach With Kernel Parameterization](https://openaccess.thecvf.com/content/WACV2022/papers/Guan_Non-Blind_Deblurring_for_Fluorescence_A_Deformable_Latent_Space_Approach_With_WACV_2022_paper.pdf)|
-|2022|CVPR|[Restormer: Efficient transformer for high-resolution image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/swz30/Restormer)|
+
 
 ## (Multi-image/Video)-Motion-Deblurring
 |Year|Pub|Paper|Repo|
