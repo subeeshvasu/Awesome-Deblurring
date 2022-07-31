@@ -166,6 +166,9 @@
 |2022|CVPR|[Restormer: Efficient transformer for high-resolution image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/swz30/Restormer)|
 |2022|CVPR|[Maxim: Multi-axis mlp for image processing](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf)|[Code](https://github.com/google-research/maxim)|
 |2022|CVPR|[Uformer: A general u-shaped transformer for image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/ZhendongWang6/Uformer)|
+|2022|CVPR|[Deblurring via Stochastic Refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf)||
+|2022|CVPR|[XYDeblur: Divide and Conquer for Single Image Deblurring](https://openaccess.thecvf.com/content/CVPR2022/papers/Ji_XYDeblur_Divide_and_Conquer_for_Single_Image_Deblurring_CVPR_2022_paper.pdf)||
+|2022|CVPR|[Deblur-NeRF: Neural Radiance Fields From Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)|[Code](https://github.com/limacv/Deblur-NeRF)|
 |2022|CVPRW|[Blind Non-Uniform Motion Deblurring Using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Huo_Blind_Non-Uniform_Motion_Deblurring_Using_Atrous_Spatial_Pyramid_Deformable_Convolution_CVPRW_2022_paper.html)||
 |2022|CVPRW|[Motion Aware Double Attention Network for Dynamic Scene Deblurring](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_Motion_Aware_Double_Attention_Network_for_Dynamic_Scene_Deblurring_CVPRW_2022_paper.html)||
 |2022|ECCV|[Stripformer: Strip Transformer for Fast Image Deblurring](https://arxiv.org/abs/2204.04627)|[Code](https://github.com/pp00704831/Stripformer)|
@@ -348,6 +351,7 @@
 |2022|WACV|[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://openaccess.thecvf.com/content/WACV2022/html/Abuolaim_Improving_Single-Image_Defocus_Deblurring_How_Dual-Pixel_Images_Help_Through_Multi-Task_WACV_2022_paper.html)|[Code](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)|
 |2022|CVPR|[Learning to Deblur Using Light Field Generated and Real Defocus Images](https://openaccess.thecvf.com/content/CVPR2022/html/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.html)|[Code](https://github.com/lingyanruan/DRBNet)|
 |2022|CVPR|[AR-NeRF: Unsupervised Learning of Depth and Defocus Effects From Natural Images With Aperture Rendering Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/html/Kaneko_AR-NeRF_Unsupervised_Learning_of_Depth_and_Defocus_Effects_From_Natural_CVPR_2022_paper.html)||
+
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
