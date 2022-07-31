@@ -157,14 +157,19 @@
 |2021|JSTS|[Degradation Aware Approach to Image Restoration Using Knowledge Distillation](https://ieeexplore.ieee.org/document/9288928)||
 |2021|Arxiv|[Non-uniform Blur Kernel Estimation via Adaptive Basis Decomposition](https://arxiv.org/abs/2102.01026)|[Code](https://github.com/GuillermoCarbajal/NonUniformBlurKernelEstimation)|
 |2021|Arxiv|[Clean Images are Hard to Reblur: A New Clue for Deblurring](https://arxiv.org/pdf/2104.12665.pdf)||
+|2021|Arxiv|[Deep residual fourier transformation for single image deblurring](https://arxiv.org/abs/2111.11745)|[Code](https://github.com/INVOKERer/DeepRFT)|
 |2021|CVIU|[Single-image deblurring with neural networks: A comparative survey](https://www.sciencedirect.com/science/article/abs/pii/S1077314220301533?dgcid=rss_sd_all)||
 |2021|TIP|[Blind Motion Deblurring Super-Resolution: When Dynamic Spatio-Temporal Learning Meets Static Image Understanding](https://arxiv.org/pdf/2105.13077.pdf)||
 |2021|NC|[Deep Robust Image Deblurring via Blur Distilling and Information Comparison in Latent Space](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013771)||
 |2022|IJCV|[Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)||
 |2022|WACV|[Deep Feature Prior Guided Face Deblurring](https://openaccess.thecvf.com/content/WACV2022/html/Jung_Deep_Feature_Prior_Guided_Face_Deblurring_WACV_2022_paper.html)||
 |2022|CVPR|[Restormer: Efficient transformer for high-resolution image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/swz30/Restormer)|
+|2022|CVPR|[Maxim: Multi-axis mlp for image processing](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf)|[Code](https://github.com/google-research/maxim)|
 |2022|CVPR|[Uformer: A general u-shaped transformer for image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/ZhendongWang6/Uformer)|
 |2022|ECCV|[Stripformer: Strip Transformer for Fast Image Deblurring](https://arxiv.org/abs/2204.04627)|[Code](https://github.com/pp00704831/Stripformer)|
+|2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
+|2022|Arxiv|[Simple baselines for image restoration](https://arxiv.org/abs/2204.04676)||
+
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
