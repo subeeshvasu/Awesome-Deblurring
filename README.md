@@ -144,6 +144,7 @@
 |2021|CVPR|[Blind Deblurring for Saturated Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.html)||
 |2021|CVPR|[Test-Time Fast Adaptation for Dynamic Scene Deblurring via Meta-Auxiliary Learning](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Test-Time_Fast_Adaptation_for_Dynamic_Scene_Deblurring_via_Meta-Auxiliary_Learning_CVPR_2021_paper.html)||
 |2021|CVPR|[Explore Image Deblurring via Encoded Blur Kernel Space](https://arxiv.org/abs/2104.00317)|[Code](https://github.com/VinAIResearch/blur-kernel-space-exploring)|
+|2021|CVPR|[Pre-trained image processing transformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)|[Code](https://github.com/huawei-noah/Pretrained-IPT)|
 |2021|ICCV|[Spatially-Adaptive Image Restoration using Distortion-Guided Networks](https://arxiv.org/abs/2108.08617)|[Code](https://github.com/human-analysis/spatially-adaptive-image-restoration/)|
 |2021|ICCV|[Rethinking Coarse-To-Fine Approach in Single Image Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.html)|[Code](https://github.com/chosj95/mimo-unet)|
 |2021|ICCV|[Perceptual Variousness Motion Deblurring With Light Global Context Refinement](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Perceptual_Variousness_Motion_Deblurring_With_Light_Global_Context_Refinement_ICCV_2021_paper.html)||
@@ -159,6 +160,8 @@
 |2022|IJCV|[Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)||
 |2022|WACV|[Deep Feature Prior Guided Face Deblurring](https://openaccess.thecvf.com/content/WACV2022/html/Jung_Deep_Feature_Prior_Guided_Face_Deblurring_WACV_2022_paper.html)||
 |2022|CVPR|[Restormer: Efficient transformer for high-resolution image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/swz30/Restormer)|
+|2022|CVPR|[Uformer: A general u-shaped transformer for image restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf)|[Code](https://github.com/ZhendongWang6/Uformer)|
+|2022|ECCV|[Stripformer: Strip Transformer for Fast Image Deblurring](https://arxiv.org/abs/2204.04627)|[Code](https://github.com/pp00704831/Stripformer)|
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
