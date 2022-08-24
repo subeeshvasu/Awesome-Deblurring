@@ -175,7 +175,9 @@
 |2022|ECCV|[Simple baselines for image restoration](https://arxiv.org/abs/2204.04676)|[Code](https://github.com/megvii-research/NAFNet)|
 |2022|ECCV|[D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration](https://arxiv.org/abs/2207.03294)|[Code](https://github.com/zhaoyuzhi/d2hnet)|
 |2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
+|2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
+
 
 
 ## Non-Blind-Deblurring
@@ -278,8 +280,10 @@
 |2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
 |2021|CVIU|[Video Deblurring via Spatiotemporal Pyramid Network and Adversarial Gradient Prior](https://whluo.github.io/papers/cviu103135_final.pdf)|
 |2021|ICCV|[Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html)||
-|2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
-|2022|CVPR|[All-In-One Image Restoration for Unknown Corruption](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)|[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)|
+|2022|CVPR|[All-In-One Image Restoration for Unknown Corruption](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)|
+|2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)|
+|2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
+|2022|ECCV|[Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)|[Code](https://github.com/sollynoay/MMP-RNN)|
 
 ## Challenges on Motion Deblurring
 
@@ -315,6 +319,7 @@
 |2021|CVPR|[Blur, Noise, and Compression Robust Generative Adversarial Networks](https://arxiv.org/abs/2003.07849)||
 |2021|ICCV|[Motion Deblurring With Real Events](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.html)|[Code](https://github.com/xufangchn/Motion-Deblurring-with-Real-Events)|
 |2021|ICCV|[Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames](https://openaccess.thecvf.com/content/ICCV2021/html/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.html)|[Code](https://github.com/shangwei5/D2Net)|
+|2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
