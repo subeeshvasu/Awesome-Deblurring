@@ -280,6 +280,7 @@
 |2021|ICCV|[Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html)||
 |2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
 |2022|CVPR|[All-In-One Image Restoration for Unknown Corruption](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)|[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)|
+|2022|CGF|[Real-Time Video Deblurring via Lightweight Motion Compensation](https://diglib.eg.org/bitstream/handle/10.1111/cgf14667/v41i7pp177-188.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/codeslake/RealTime_VDBLR)|
 
 ## Challenges on Motion Deblurring
 
