@@ -182,9 +182,10 @@
 |2022|ECCV|[D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration](https://arxiv.org/abs/2207.03294)|[Code](https://github.com/zhaoyuzhi/d2hnet)|
 |2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
+|2022|ECCV|[Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244)|[Code](https://github.com/dasongli1/Learning_degradation)|
+|2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6325_ECCV_2022_paper.php)||
+|2022|ECCV|[Event-based Fusion for Motion Deblurring with Cross-modal Attention](https://arxiv.org/abs/2112.00167)|[Code](https://github.com/AHupuJR/EFNet)|
 |2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
-
-
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
@@ -290,6 +291,10 @@
 |2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|ECCV|[Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)|[Code](https://github.com/sollynoay/MMP-RNN)|
+|2022|ECCV|[Spatio-Temporal Deformable Attention Network for Video Deblurring](https://arxiv.org/abs/2207.10852)|[Code](https://github.com/huicongzhang/STDAN)|
+|2022|ECCV|[ERDN: Equivalent Receptive Field Deformable Network for Video Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4085_ECCV_2022_paper.php)|[Code](https://github.com/TencentCloud/ERDN)|
+|2022|ECCV|[DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting](https://arxiv.org/abs/2111.09985)|[Code](https://github.com/JihyongOh/DeMFI)|
+|2022|ECCVW|[Towards Real-World Video Deblurring by Exploring Blur Formation Process](https://arxiv.org/abs/2208.13184)||
 |2022|CGF|[Real-Time Video Deblurring via Lightweight Motion Compensation](https://diglib.eg.org/bitstream/handle/10.1111/cgf14667/v41i7pp177-188.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/codeslake/RealTime_VDBLR)|
 
 ## Challenges on Motion Deblurring
@@ -328,6 +333,7 @@
 |2021|ICCV|[Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames](https://openaccess.thecvf.com/content/ICCV2021/html/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.html)|[Code](https://github.com/shangwei5/D2Net)|
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)|[Code & Dataset](https://github.com/rimchang/RSBlur)||
+|2022|ECCV|[Event-Guided Deblurring of Unknown Exposure Time Videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3601_ECCV_2022_paper.php)||
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
@@ -368,7 +374,7 @@
 |2022|WACV|[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://openaccess.thecvf.com/content/WACV2022/html/Abuolaim_Improving_Single-Image_Defocus_Deblurring_How_Dual-Pixel_Images_Help_Through_Multi-Task_WACV_2022_paper.html)|[Code](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)|
 |2022|CVPR|[Learning to Deblur Using Light Field Generated and Real Defocus Images](https://openaccess.thecvf.com/content/CVPR2022/html/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.html)|[Code](https://github.com/lingyanruan/DRBNet)|
 |2022|CVPR|[AR-NeRF: Unsupervised Learning of Depth and Defocus Effects From Natural Images With Aperture Rendering Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/html/Kaneko_AR-NeRF_Unsupervised_Learning_of_Depth_and_Defocus_Effects_From_Natural_CVPR_2022_paper.html)||
-
+|2022|ECCV|[United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3308_ECCV_2022_paper.php)|[Code](https://github.com/wdzhao123/APL)|
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
