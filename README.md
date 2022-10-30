@@ -44,6 +44,7 @@
 |2011|IJCV|[The non-parametric sub-pixel local point spread function estimation is a well posed problem](https://link.springer.com/article/10.1007/s11263-011-0460-0)||
 |2012|ECCV|[Blur-kernel estimation from spectral irregularities](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.4404&rep=rep1&type=pdf)||
 |2012|ACCV|[MRF-based Blind Image Deconvolution](http://imagine.enpc.fr/~komodakn/publications/docs/accv2012.pdf)||
+|2012|TIP|[Framelet-based Blind Motion deblurring from a single Image](https://www.math.hkust.edu.hk/~jfcai/paper/CJLS_TIP_11.pdf)||
 |2013|CVPR|[Unnatural L0 sparse representation for natural image deblurring](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/l0deblur_cvpr13.pdf)|[Code & Project page](http://www.cse.cuhk.edu.hk/~leojia/projects/l0deblur/)|
 |2013|CVPR|[Handling noise in single image deblurring using directional filters](http://openaccess.thecvf.com/content_cvpr_2013/html/Zhong_Handling_Noise_in_2013_CVPR_paper.html)|
 |2013|NIPS|[Non-Uniform Camera Shake Removal Using a Spatially-Adaptive Sparse Penalty](https://papers.nips.cc/paper/4864-non-uniform-camera-shake-removal-using-a-spatially-adaptive-sparse-penalty)|[Project page](https://sites.google.com/site/hczhang1/projects/non-uniform-camera-shake-removal)|
