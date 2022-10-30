@@ -286,6 +286,7 @@
 |2021|TOG|[Recurrent Video Deblurring with Blur-Invariant Motion Estimation and Pixel Volumes](https://dl.acm.org/doi/pdf/10.1145/3453720)|[Code](https://github.com/codeslake/PVDNet)|
 |2021|CVIU|[Video Deblurring via Spatiotemporal Pyramid Network and Adversarial Gradient Prior](https://whluo.github.io/papers/cviu103135_final.pdf)|
 |2021|ICCV|[Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring](https://openaccess.thecvf.com/content/ICCV2021/html/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.html)||
+|2022|AAAI|[Deep Recurrent Neural Network with Multi-Scale Bi-Directional Propagation for Video Deblurring](https://aaai-2022.virtualchair.net/poster_aaai3124)||
 |2022|ECCV|[Improving Image Restoration by Revisiting Global Information Aggregation](https://arxiv.org/abs/2112.04491)|[Code](https://github.com/megvii-research/TLC)|
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|ECCV|[Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)|[Code](https://github.com/sollynoay/MMP-RNN)|
