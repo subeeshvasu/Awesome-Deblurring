@@ -172,6 +172,8 @@
 |2022|CVPR|[XYDeblur: Divide and Conquer for Single Image Deblurring](https://openaccess.thecvf.com/content/CVPR2022/papers/Ji_XYDeblur_Divide_and_Conquer_for_Single_Image_Deblurring_CVPR_2022_paper.pdf)||
 |2022|CVPR|[Deblur-NeRF: Neural Radiance Fields From Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)|[Code](https://github.com/limacv/Deblur-NeRF)|
 |2022|CVPR|[All-In-One Image Restoration for Unknown Corruption](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf)|[Code](https://github.com/XLearning-SCU/2022-CVPR-AirNet)|
+|2022|CVPR|[Exploring and Evaluating Image Restoration Potential in Dynamic Scenes](https://arxiv.org/pdf/2203.11754.pdf)||
+|2022|CVPR|[Deep Generalized Unfolding Networks for Image Restoration](https://arxiv.org/abs/2204.13348)|[Code](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration)|
 |2022|CVPRW|[Blind Non-Uniform Motion Deblurring Using Atrous Spatial Pyramid Deformable Convolution and Deblurring-Reblurring Consistency](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Huo_Blind_Non-Uniform_Motion_Deblurring_Using_Atrous_Spatial_Pyramid_Deformable_Convolution_CVPRW_2022_paper.html)||
 |2022|CVPRW|[Motion Aware Double Attention Network for Dynamic Scene Deblurring](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_Motion_Aware_Double_Attention_Network_for_Dynamic_Scene_Deblurring_CVPRW_2022_paper.html)||
 |2022|ECCV|[Stripformer: Strip Transformer for Fast Image Deblurring](https://arxiv.org/abs/2204.04627)|[Code](https://github.com/pp00704831/Stripformer)|
