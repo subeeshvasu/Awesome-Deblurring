@@ -78,8 +78,9 @@
 |2019|TIP|[Graph-Based Blind Image Deblurring From a Single Photograph](https://arxiv.org/abs/1802.07929)|[Code](https://github.com/BYchao100/Graph-Based-Blind-Image-Deblurring)|
 |2019|TPAMI|[Surface-aware Blind Image Deblurring](https://ieeexplore.ieee.org/document/8839600)||
 |2019|TCSVT|[Single Image Blind Deblurring Using Multi-Scale Latent Structure Prior](https://arxiv.org/abs/1906.04442)||
-|2020|ECCV|[OID: Outlier Identifying and Discarding in Blind Image Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)||
-|2020|ECCV|[Enhanced Sparse Model for Blind Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf)||
+|2020|ECCV|[OID: Outlier Identifying and Discarding in Blind Image Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5134_ECCV_2020_paper.php)|[Code&Data](https://liangchen527.github.io/)|
+|2020|ECCV|[Enhanced Sparse Model for Blind Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf)|[Code](https://liangchen527.github.io/)|
+|2021|CVPR|[Blind Deblurring for Saturated Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.pdf)|[Code&Data](https://liangchen527.github.io/)|
 |2021|TCI|[Polyblur: Removing mild blur by polynomial reblurring](https://arxiv.org/abs/2012.09322)||
 |2021|SPIC|[Fast blind deconvolution using a deeper sparse patch-wise maximum gradient prior](https://www.sciencedirect.com/science/article/pii/S0923596520301910)||
 |2021|TCSVT|[Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://128.84.21.199/abs/1906.06642v3)|[Code](https://github.com/FWen/deblur-pmp)|
@@ -224,7 +225,7 @@
 |2020|TCI|[Neumann networks for linear inverse problems in imaging](https://arxiv.org/abs/1901.03707)|[Code](https://github.com/dgilton/neumann_networks_code)|
 |2020|Arxiv|[The Maximum Entropy on the Mean Method for Image Deblurring](https://arxiv.org/pdf/2002.10434.pdf)||
 |2021|CVPR|[Learning Spatially-Variant MAP Models for Non-Blind Image Deblurring](https://openaccess.thecvf.com/content/CVPR2021/html/Dong_Learning_Spatially-Variant_MAP_Models_for_Non-Blind_Image_Deblurring_CVPR_2021_paper.html)||
-|2021|CVPR|[Learning a Non-Blind Deblurring Network for Night Blurry Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.html)||
+|2021|CVPR|[Learning a Non-Blind Deblurring Network for Night Blurry Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.html)|[Code&Data](https://liangchen527.github.io/)|
 |2021|TNNLS|[Nonblind Image Deblurring via Deep Learning in Complex Field](https://ieeexplore.ieee.org/abstract/document/9404870)||
 |2022|WACV|[Non-Blind Deblurring for Fluorescence: A Deformable Latent Space Approach With Kernel Parameterization](https://openaccess.thecvf.com/content/WACV2022/papers/Guan_Non-Blind_Deblurring_for_Fluorescence_A_Deformable_Latent_Space_Approach_With_WACV_2022_paper.pdf)|
 |2022|CVPRW|[A Robust Non-Blind Deblurring Method Using Deep Denoiser Prior](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Fang_A_Robust_Non-Blind_Deblurring_Method_Using_Deep_Denoiser_Prior_CVPRW_2022_paper.html)||
