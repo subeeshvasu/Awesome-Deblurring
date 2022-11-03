@@ -136,7 +136,7 @@
 |2020|TIP|[Dynamic Scene Deblurring by Depth Guided Model](https://faculty.ucmerced.edu/mhyang/papers/tip2020_dynamic_scene_deblurring.pdf)||
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
 |2020|ACCV|[Human Motion Deblurring using Localized Body Prior](https://openaccess.thecvf.com/content/ACCV2020/html/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.html)||
-|2020|TPAMI|[Physics-Based Generative Adversarial Models for Image Restoration and Beyond](https://arxiv.org/abs/1808.00605)|[[Code]](https://jspan.github.io/projects/physicsgan/)|
+|2020|TPAMI|[Physics-Based Generative Adversarial Models for Image Restoration and Beyond](https://arxiv.org/abs/1808.00605)|[Code](https://jspan.github.io/projects/physicsgan/)|
 |2020|TCI|[Blind Image Deconvolution using Deep Generative Priors](https://arxiv.org/abs/1802.04073)||
 |2020|TMM|[Raw Image Deblurring](https://arxiv.org/abs/2012.04264)|[Dataset](https://github.com/bob831009/raw_image_deblurring)|
 |2020|Arxiv|[Blur Invariant Kernel-Adaptive Network for Single Image Blind deblurring](https://arxiv.org/abs/2007.04543)||
