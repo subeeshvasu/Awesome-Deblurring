@@ -296,6 +296,7 @@
 |2022|ECCV|[DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting](https://arxiv.org/abs/2111.09985)|[Code](https://github.com/JihyongOh/DeMFI)|
 |2022|ECCVW|[Towards Real-World Video Deblurring by Exploring Blur Formation Process](https://arxiv.org/abs/2208.13184)||
 |2022|CGF|[Real-Time Video Deblurring via Lightweight Motion Compensation](https://diglib.eg.org/bitstream/handle/10.1111/cgf14667/v41i7pp177-188.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/codeslake/RealTime_VDBLR)|
+|2022|IJCV|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Code](https://github.com/zzh-tech/ESTRNN)|
 
 ## Challenges on Motion Deblurring
 
@@ -396,7 +397,7 @@
 |2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Dataset](https://github.com/zzh-tech/RSCD)||
 |2021|Arxiv|[MC-Blur: A Comprehensive Benchmark for Image Deblurring](https://arxiv.org/pdf/2112.00234.pdf)|[Dataset](https://github.com/HDCVLab/MC-Blur-Dataset)||
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)|[Code & Dataset](https://github.com/rimchang/RSBlur)||
-
+|2022|IJCV|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
 
 Abbreviations:
 
