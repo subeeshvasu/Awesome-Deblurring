@@ -364,6 +364,7 @@
 |2020|TCI|[AIFNet: All-in-focus Image Restoration Network using a Light Field-based Dataset](https://sweb.cityu.edu.hk/miullam/AIFNET/)|[Code](https://github.com/binorchen/AIFNET),[Dataset](https://sweb.cityu.edu.hk/miullam/AIFNET/dataset/LFDOF.zip)|
 |2020|Arxiv|[CycleGAN with a Blur Kernel for Deconvolution Microscopy: Optimal Transport Geometry](https://arxiv.org/abs/1908.09414)||
 |2020|Arxiv|[Deep Multi-Scale Feature Learning for Defocus Blur Estimation](https://arxiv.org/abs/2009.11939)||
+|2020|TCSVT|[Estimating Generalized Gaussian Blur Kernels for Out-of-Focus Image Deblurring](http://ivlab.org/publications/TCSVT2021-GGdeblurring.pdf)||
 |2021|Arxiv|[Defocus Blur Detection via Salient Region Detection Prior](https://arxiv.org/abs/2011.09677)||
 |2021|Arxiv|[Learning to Estimate Kernel Scale and Orientation of Defocus Blur with Asymmetric Coded Aperture](https://arxiv.org/abs/2103.05843)||
 |2021|CVPR|[Iterative Filter Adaptive Network for Single Image Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Iterative_Filter_Adaptive_Network_for_Single_Image_Defocus_Deblurring_CVPR_2021_paper.pdf)|[Code & Dataset](https://github.com/codeslake/IFAN)|
