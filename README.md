@@ -298,6 +298,7 @@
 |2022|ECCVW|[Towards Real-World Video Deblurring by Exploring Blur Formation Process](https://arxiv.org/abs/2208.13184)||
 |2022|CGF|[Real-Time Video Deblurring via Lightweight Motion Compensation](https://diglib.eg.org/bitstream/handle/10.1111/cgf14667/v41i7pp177-188.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/codeslake/RealTime_VDBLR)|
 |2022|IJCV|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Code](https://github.com/zzh-tech/ESTRNN)|
+|2023|CVPR|[Blur Interpolation Transformer for Real-World Motion from Blur](https://arxiv.org/abs/2211.11423)|[Code](https://github.com/zzh-tech/BiT)|
 
 ## Challenges on Motion Deblurring
 
@@ -336,6 +337,7 @@
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)|[Code & Dataset](https://github.com/rimchang/RSBlur)||
 |2022|ECCV|[Event-Guided Deblurring of Unknown Exposure Time Videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3601_ECCV_2022_paper.php)||
+|2023|CVPR|[Blur Interpolation Transformer for Real-World Motion from Blur](https://arxiv.org/abs/2211.11423)|[Code](https://github.com/zzh-tech/BiT)|
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
@@ -386,7 +388,7 @@
 |2013|ICCP|[Edge-based blur kernel estimation using patch priors](http://cs.brown.edu/~lbsun/deblur2013/patchdeblur_iccp2013.pdf)|[Dataset](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)|
 |2016|CVPR|[A Comparative Study for Single Image Blind Deblurring](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/paper/cvpr16_deblur_study.pdf)|[Dataset](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)|
 |2017|CVPR (GOPRO)|[Deep multi-scale convolutional neural network for dynamic scene deblurring](http://zpascal.net/cvpr2017/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)|[Dataset](https://github.com/SeungjunNah/DeepDeblur_release)|
-|2017|CVPR|[Deep Video Deblurring for Hand-Held Cameras](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)|[Dataset](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)|
+|2017|CVPR (DVD)|[Deep Video Deblurring for Hand-Held Cameras](http://openaccess.thecvf.com/content_cvpr_2017/html/Su_Deep_Video_Deblurring_CVPR_2017_paper.html)|[Dataset](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)|
 |2017|GCPR|[Motion deblurring in the wild](https://arxiv.org/abs/1701.01486)||
 |2019|CVPR (Stereo Blur Dataset)|[Stereo Deblurring With View Aggregation](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.html)|[Dataset](https://stereoblur.shangchenzhou.com/)|
 |2019|CVPR_W (REDS)|[NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study](http://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.html)|[Dataset](https://seungjunnah.github.io/Datasets/reds)|
@@ -395,10 +397,11 @@
 |2020|CVPR|[Learning Event-Based Motion Deblurring](https://arxiv.org/abs/2004.05794)||
 |2020|ECCV (BSD)|[Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
 |2020|ECCV|[Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)|[Code & Dataset](http://cg.postech.ac.kr/research/realblur/)|
-|2021|CVPR|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Dataset](https://github.com/zzh-tech/RSCD)||
+|2021|CVPR (BS-RSCD)|[Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)|[Dataset](https://github.com/zzh-tech/RSCD)||
 |2021|Arxiv|[MC-Blur: A Comprehensive Benchmark for Image Deblurring](https://arxiv.org/pdf/2112.00234.pdf)|[Dataset](https://github.com/HDCVLab/MC-Blur-Dataset)||
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)|[Code & Dataset](https://github.com/rimchang/RSBlur)||
-|2022|IJCV|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
+|2022|IJCV (BSD)|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
+|2023|CVPR (RBI)|[Blur Interpolation Transformer for Real-World Motion from Blur](https://arxiv.org/abs/2211.11423)|[Code & Dataset](https://github.com/zzh-tech/BiT)|
 
 Abbreviations:
 
