@@ -187,6 +187,7 @@
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6325_ECCV_2022_paper.php)||
 |2022|ECCV|[Event-based Fusion for Motion Deblurring with Cross-modal Attention](https://arxiv.org/abs/2112.00167)|[Code](https://github.com/AHupuJR/EFNet)|
 |2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
+|2023|Arxiv|[Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
