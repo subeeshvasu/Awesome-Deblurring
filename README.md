@@ -415,3 +415,7 @@ Abbreviations:
 
 + DL -> Deep Learning
 + non-DL -> non-Deep Learning
+
+## AI Photo Enhancer Apps
++ [HitPaw Photo Enhancer](https://www.hitpaw.com/photo-enhancer.html)
+
