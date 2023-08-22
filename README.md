@@ -21,6 +21,7 @@
 - [Other Closely Related Works](#other-closely-related-works)
 - [Defocus Deblurring and Potential Datasets](#defocus-deblurring-and-potential-datasets)
 - [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
+- [AI Photo Enhancer Apps](#AI-Photo-Enhancer-Apps)
 
 ## Single-Image-Blind-Motion-Deblurring (non-DL)
 |Year|Pub|Paper|Repo|
@@ -416,6 +417,6 @@ Abbreviations:
 + DL -> Deep Learning
 + non-DL -> non-Deep Learning
 
-## AI Photo Enhancer Apps
+## AI-Photo-Enhancer-Apps
 + [HitPaw Photo Enhancer](https://www.hitpaw.com/photo-enhancer.html)
 
