@@ -190,6 +190,8 @@
 |2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
 |2023|Arxiv|[LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|[Code](https://github.com/lingyanruan/LaKDNet)|
 |2023|AAAI|[Real-world deep local motion deblurring](https://arxiv.org/abs/2204.08179)|[Code&Dataset](https://github.com/LeiaLi/ReLoBlur)|
+|2023|CVPR|[DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_DP-NeRF_Deblurred_Neural_Radiance_Field_With_Physical_Scene_Priors_CVPR_2023_paper.pdf)|[Code](https://github.com/dogyoonlee/DP-NeRF)|
+|2023|CVPR|[BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_BAD-NeRF_Bundle_Adjusted_Deblur_Neural_Radiance_Fields_CVPR_2023_paper.pdf)|[Code&Dataset](https://github.com/WU-CVGL/BAD-NeRF)|
 
 
 ## Non-Blind-Deblurring
