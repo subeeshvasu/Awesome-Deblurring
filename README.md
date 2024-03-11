@@ -189,7 +189,7 @@
 |2022|Arxiv|[Multi-scale-stage network for single image deblurring](https://arxiv.org/abs/2202.09652)||
 |2023|Arxiv|[LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|[Code](https://github.com/lingyanruan/LaKDNet)|
 |2023|AAAI|[Real-world deep local motion deblurring](https://arxiv.org/abs/2204.08179)|[Code&Dataset](https://github.com/LeiaLi/ReLoBlur)|
-
+|2024|IJCV|[Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/pdf/2208.09483.pdf)|[Project Page](https://github.com/sun-umn/Blind-Image-Deblurring)|
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
