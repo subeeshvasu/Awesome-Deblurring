@@ -239,6 +239,7 @@
 |2022|WACV|[Non-Blind Deblurring for Fluorescence: A Deformable Latent Space Approach With Kernel Parameterization](https://openaccess.thecvf.com/content/WACV2022/papers/Guan_Non-Blind_Deblurring_for_Fluorescence_A_Deformable_Latent_Space_Approach_With_WACV_2022_paper.pdf)|
 |2022|CVPRW|[A Robust Non-Blind Deblurring Method Using Deep Denoiser Prior](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Fang_A_Robust_Non-Blind_Deblurring_Method_Using_Deep_Denoiser_Prior_CVPRW_2022_paper.html)||
 |2022|SPIC|[Black-box image deblurring and defiltering](https://www.sciencedirect.com/science/article/pii/S0923596522001242)|[CodeMatlab](https://github.com/fayolle/bbDeblur), [CodePy](https://github.com/fayolle/bbDeblur_py)|
+|2022|ACCV|[Learning to Predict Decomposed Dynamic Filters for Single Image Motion Deblurring](https://openaccess.thecvf.com/content/ACCV2022/papers/Hu_Learning_to_Predict_Decomposed_Dynamic_Filters_for_Single_Image_Motion_ACCV_2022_paper.pdf)|[Code](https://github.com/ZHIQIANGHU2021/DecomposedDynamicFilters)|
 |2023|SIVP|[Reverse image filtering with clean and noisy filters](https://link.springer.com/article/10.1007/s11760-022-02236-w)|[Code](https://github.com/fayolle/clean_noisy_defilter)|
 
 ## (Multi-image/Video)-Motion-Deblurring
