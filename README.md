@@ -241,10 +241,19 @@
 |2021|CVPR|[Learning a Non-Blind Deblurring Network for Night Blurry Images](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.html)|[Code&Data](https://liangchen527.github.io/)|
 |2021|TNNLS|[Nonblind Image Deblurring via Deep Learning in Complex Field](https://ieeexplore.ieee.org/abstract/document/9404870)||
 |2022|WACV|[Non-Blind Deblurring for Fluorescence: A Deformable Latent Space Approach With Kernel Parameterization](https://openaccess.thecvf.com/content/WACV2022/papers/Guan_Non-Blind_Deblurring_for_Fluorescence_A_Deformable_Latent_Space_Approach_With_WACV_2022_paper.pdf)|
+|2022|CVPR|[Deep Constrained Least Squares for Blind Image Super-Resolution](https://arxiv.org/abs/2202.07508)|[Project Page](https://github.com/Algolzw/DCLS)|
 |2022|CVPRW|[A Robust Non-Blind Deblurring Method Using Deep Denoiser Prior](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Fang_A_Robust_Non-Blind_Deblurring_Method_Using_Deep_Denoiser_Prior_CVPRW_2022_paper.html)||
 |2022|SPIC|[Black-box image deblurring and defiltering](https://www.sciencedirect.com/science/article/pii/S0923596522001242)|[CodeMatlab](https://github.com/fayolle/bbDeblur), [CodePy](https://github.com/fayolle/bbDeblur_py)|
+|2022|TPAMI|[DWDN: Deep Wiener Deconvolution Network for Non-Blind Image Deblurring](https://ieeexplore.ieee.org/document/9664009)||
+|2022|TCI|[Photon Limited Non-Blind Deblurring Using Algorithm Unrolling](https://arxiv.org/abs/2110.15314)|[Code](https://github.com/sanghviyashiitb/poisson-deblurring)|
+|2023|WACV|[Wiener Guided DIP for Unsupervised Blind Image Deconvolution](https://arxiv.org/abs/2112.10271)|[Code](https://github.com/gbredell/W_DIP)|
 |[2023]|CVPR|[Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)|[Code](https://github.com/xl-tang3/UAUDeblur)|
+|2023|ICCV|[Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration](https://arxiv.org/abs/2310.02097)||
 |2023|SIVP|[Reverse image filtering with clean and noisy filters](https://link.springer.com/article/10.1007/s11760-022-02236-w)|[Code](https://github.com/fayolle/clean_noisy_defilter)|
+|2023|TIP|[INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions](https://arxiv.org/abs/2207.08201)|[Code](https://github.com/zhihongz/INFWIDE)|
+|2023|TPAMI|[Blind Image Deconvolution Using Variational Deep Image Prior](https://arxiv.org/abs/2202.00179)|[Code](https://github.com/Dong-Huo/VDIP-Deconvolution)|
+|2024|TCI|[The Secrets of Non-Blind Poisson Deconvolution](https://arxiv.org/abs/2309.03105)||
+|2024|IJCV|[Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring](https://arxiv.org/abs/2308.05543)||
 
 ## (Multi-image/Video)-Motion-Deblurring
 |Year|Pub|Paper|Repo|
@@ -409,6 +418,7 @@
 |2023|CVPR|[Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Better_CMOS_Produces_Clearer_Images_Learning_Space-Variant_Blur_Estimation_for_CVPR_2023_paper.html)|[Code](https://github.com/ByChelsea/CMOS)|
 |2023|CVPR|[Neumann Network With Recursive Kernels for Single Image Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2023/html/Quan_Neumann_Network_With_Recursive_Kernels_for_Single_Image_Defocus_Deblurring_CVPR_2023_paper.html)|[Code](https://github.com/csZcWu/NRKNet)|
 |2023|CVPR|[DP-NeRF: Deblurred Neural Radiance Field With Physical Scene Priors](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_DP-NeRF_Deblurred_Neural_Radiance_Field_With_Physical_Scene_Priors_CVPR_2023_paper.html)|[Code](https://dogyoonlee.github.io/dpnerf/)|
+|2023|IJCV|[End-to-end Alternating Optimization for Real-World Blind Super Resolution](https://arxiv.org/abs/2308.08816)|[Code](https://github.com/greatlog/RealDAN.git)|
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
