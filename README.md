@@ -343,6 +343,7 @@
 |2021|CVPR|[Blur, Noise, and Compression Robust Generative Adversarial Networks](https://arxiv.org/abs/2003.07849)||
 |2021|ICCV|[Motion Deblurring With Real Events](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.html)|[Code](https://github.com/xufangchn/Motion-Deblurring-with-Real-Events)|
 |2021|ICCV|[Bringing Events Into Video Deblurring With Non-Consecutively Blurry Frames](https://openaccess.thecvf.com/content/ICCV2021/html/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.html)|[Code](https://github.com/shangwei5/D2Net)|
+|2021|IEEEAccess|[Robust Single Image Deblurring Using Gyroscope Sensor](https://ieeexplore.ieee.org/document/9444479)||
 |2022|ECCV|[Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)|[Code](https://github.com/zzh-tech/Animation-from-Blur)|
 |2022|ECCV|[Realistic Blur Synthesis for Learning Image Deblurring](https://arxiv.org/abs/2202.08771)|[Code & Dataset](https://github.com/rimchang/RSBlur)||
 |2022|ECCV|[Event-Guided Deblurring of Unknown Exposure Time Videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3601_ECCV_2022_paper.php)||
