@@ -251,7 +251,7 @@
 |2022|TPAMI|[DWDN: Deep Wiener Deconvolution Network for Non-Blind Image Deblurring](https://ieeexplore.ieee.org/document/9664009)||
 |2022|TCI|[Photon Limited Non-Blind Deblurring Using Algorithm Unrolling](https://arxiv.org/abs/2110.15314)|[Code](https://github.com/sanghviyashiitb/poisson-deblurring)|
 |2023|WACV|[Wiener Guided DIP for Unsupervised Blind Image Deconvolution](https://arxiv.org/abs/2112.10271)|[Code](https://github.com/gbredell/W_DIP)|
-|[2023]|CVPR|[Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)|[Code](https://github.com/xl-tang3/UAUDeblur)|
+|2023|CVPR|[Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Uncertainty-Aware_Unsupervised_Image_Deblurring_With_Deep_Residual_Prior_CVPR_2023_paper.html)|[Code](https://github.com/xl-tang3/UAUDeblur)|
 |2023|ICCV|[Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration](https://arxiv.org/abs/2310.02097)||
 |2023|SIVP|[Reverse image filtering with clean and noisy filters](https://link.springer.com/article/10.1007/s11760-022-02236-w)|[Code](https://github.com/fayolle/clean_noisy_defilter)|
 |2023|TIP|[INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions](https://arxiv.org/abs/2207.08201)|[Code](https://github.com/zhihongz/INFWIDE)|
