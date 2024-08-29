@@ -198,7 +198,7 @@
 |2023|ICCV|[Multi-Scale Residual Low-Pass Filter Network for Image Deblurring](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Multi-Scale_Residual_Low-Pass_Filter_Network_for_Image_Deblurring_ICCV_2023_paper.pdf)||
 |2023|Arxiv|[LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|[Code](https://github.com/lingyanruan/LaKDNet)|
 |2024|IJCV|[Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/pdf/2208.09483.pdf)|[Project Page](https://github.com/sun-umn/Blind-Image-Deblurring)|
-|2022|ECCV|[Event-based Fusion for Motion Deblurring with Cross-modal Attention]([https://arxiv.org/abs/2112.00167](https://github.com/ZhijingS/DA_event_deblur)|[Code]([https://github.com/AHupuJR/EFNet](https://github.com/ZhijingS/DA_event_deblur)|
+|2024|ECCV|[Motion Aware Event Representation-driven Image Deblurring](https://github.com/ZhijingS/DA_event_deblur)|[Code](https://github.com/ZhijingS/DA_event_deblur)|
 
 ## Non-Blind-Deblurring
 |Year|Pub|Paper|Repo|
