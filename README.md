@@ -332,7 +332,7 @@
 |2023|ICCV|[E2NeRF: Event Enhanced Neural Radiance Fields from Blurry Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Qi_E2NeRF_Event_Enhanced_Neural_Radiance_Fields_from_Blurry_Images_ICCV_2023_paper.pdf)|[Code](https://github.com/iCVTEAM/E2NeRF)|
 |2024|WACV|[Sharp-NeRF: Grid-Based Fast Deblurring Neural Radiance Fields Using Sharpness Prior](https://github.com/radimspetlik/SI-DDPM-FMO)|[Code](https://github.com/benhenryL/SharpNeRF)|
 |2024|WACV|[Deblur-NSFF: Neural Scene Flow Fields for Blurry Dynamic Scenes](https://openaccess.thecvf.com/content/WACV2024/papers/Luthra_Deblur-NSFF_Neural_Scene_Flow_Fields_for_Blurry_Dynamic_Scenes_WACV_2024_paper.pdf)||
-
+|2024|NeurIPS|[Learning Truncated Causal History Model for Video Restoration](https://arxiv.org/abs/2410.03936)|[Code](https://github.com/Ascend-Research/Turtle)|
 ## Challenges on Motion Deblurring
 
 |Year|Pub|Paper|Repo|
