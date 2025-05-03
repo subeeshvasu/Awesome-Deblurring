@@ -200,7 +200,7 @@
 |2024|IJCV|[Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/pdf/2208.09483.pdf)|[Project Page](https://github.com/sun-umn/Blind-Image-Deblurring)|
 |2024|ECCV|[Motion Aware Event Representation-driven Image Deblurring](https://github.com/ZhijingS/DA_event_deblur)|[Code](https://github.com/ZhijingS/DA_event_deblur)|
 |2024|Arxiv|[Gyroscope-Assisted Motion Deblurring Network](https://arxiv.org/pdf/2402.06854)||
-|2025|CVPR|[Gyroscope-Assisted Motion Deblurring Network](https://arxiv.org/pdf/2404.00916)|[Code](https://github.com/hmyang0727/GyroDeblurNet)|
+|2025|CVPR|[Gyro-based Neural Single Image Deblurring](https://arxiv.org/pdf/2404.00916)|[Code](https://github.com/hmyang0727/GyroDeblurNet)|
 
 
 ## Non-Blind-Deblurring
