@@ -263,6 +263,7 @@
 |2024|WACV|[Deep Plug-and-Play Nighttime Non-Blind Deblurring With Saturated Pixel Handling Schemes](https://openaccess.thecvf.com/content/WACV2024/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf)||
 |2024|TCI|[The Secrets of Non-Blind Poisson Deconvolution](https://arxiv.org/abs/2309.03105)||
 |2024|IJCV|[Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring](https://arxiv.org/abs/2308.05543)||
+|2025|JMI|[Deep learning CT image restoration using system blur and noise models](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-1/014003/Deep-learning-CT-image-restoration-using-system-blur-and-noise/10.1117/1.JMI.12.1.014003.short)||
 
 ## (Multi-image/Video)-Motion-Deblurring
 |Year|Pub|Paper|Repo|
