@@ -18,6 +18,7 @@
 - [Single-Image-Blind-Motion-Deblurring (DL)](#single-image-blind-motion-deblurring-dl)
 - [Non-Blind-Deblurring](#non-blind-deblurring)
 - [(Multi-image/Video)-Motion-Deblurring](#multi-imagevideo-motion-deblurring)
+- [Depth-Aware Motion deblurring](#depth-aware-motion-deblurring)
 - [Other Closely Related Works](#other-closely-related-works)
 - [Defocus Deblurring and Potential Datasets](#defocus-deblurring-and-potential-datasets)
 - [Benchmark Datasets on Motion Deblurring](#benchmark-datasets-on-motion-deblurring)
@@ -134,7 +135,7 @@
 |2020|TIP|[Efficient and Interpretable Deep Blind Image Deblurring Via Algorithm Unrolling](https://arxiv.org/pdf/1902.03493.pdf)||
 |2020|TIP|[Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/abs/1907.13106)|[Code](https://github.com/rajeevyasarla/UMSN-Face-Deblurring)|
 |2020|TIP|[Dark and bright channel prior embedded network for dynamic scene deblurring](https://www4.comp.polyu.edu.hk/~cslzhang/paper/DBCPeNet_TIP.pdf)|[Code](https://github.com/csjcai/DBCPeNet)|
-|2020|TIP|[Dynamic Scene Deblurring by Depth Guided Model](https://faculty.ucmerced.edu/mhyang/papers/tip2020_dynamic_scene_deblurring.pdf)||
+|2020|TIP|[Dynamic Scene Deblurring by Depth Guided Model](https://faculty.ucmerced.edu/mhyang/papers/tip2020_dynamic_scene_deblurring.pdf)|[Project Page](https://sites.google.com/view/lerenhanli/homepage/depth_deblurring)|
 |2020|IEEEAccess|[Scale-Iterative Upscaling Network for Image Deblurring](https://ieeexplore.ieee.org/document/8963625)|[Code](https://github.com/minyuanye/SIUN)|
 |2020|ACCV|[Human Motion Deblurring using Localized Body Prior](https://openaccess.thecvf.com/content/ACCV2020/html/Lumentut_Human_Motion_Deblurring_using_Localized_Body_Prior_ACCV_2020_paper.html)||
 |2020|TPAMI|[Physics-Based Generative Adversarial Models for Image Restoration and Beyond](https://arxiv.org/abs/1808.00605)|[Code](https://jspan.github.io/projects/physicsgan/)|
@@ -349,6 +350,20 @@
 |2020|CVPR_W|[Deploying Image Deblurring across Mobile Devices: A Perspective of Quality and Latency](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Chiang_Deploying_Image_Deblurring_Across_Mobile_Devices_A_Perspective_of_Quality_CVPRW_2020_paper.pdf)||
 |2020|CVPR_W|[High-Resolution Dual-Stage Multi-Level Feature Aggregation for Single Image and Video Deblurring](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Brehm_High-Resolution_Dual-Stage_Multi-Level_Feature_Aggregation_for_Single_Image_and_Video_CVPRW_2020_paper.pdf)||
 
+## Depth-Aware Motion Deblurring
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2012|ICCP|[Depth-aware motion deblurring](https://ieeexplore.ieee.org/document/6215220)||
+|2014|CVPR|[Joint Depth Estimation and Camera Shake Removal from Single Blurry Image](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Hu_Joint_Depth_Estimation_2014_CVPR_paper.html)|[Code](https://github.com/chaehonglee/Joint_Depth_Esimation_and_Deblur)|
+|2019|WACV|[Single Image Deblurring and Camera Motion Estimation With Depth Map](https://ieeexplore.ieee.org/document/8658686)||
+|2019|CVPR|[DAVANet: Stereo Deblurring With View Aggregation](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_DAVANet_Stereo_Deblurring_With_View_Aggregation_CVPR_2019_paper.html)|[Code](https://github.com/sczhou/DAVANet)|
+|2020|TIP|[Dynamic Scene Deblurring by Depth Guided Model](https://faculty.ucmerced.edu/mhyang/papers/tip2020_dynamic_scene_deblurring.pdf)|[Project Page](https://sites.google.com/view/lerenhanli/homepage/depth_deblurring)|
+|2020|TCSVT|[Depth-Aware Motion Deblurring Using Loopy Belief Propagation](https://www4.comp.polyu.edu.hk/~pinli/CoRR/TCSVT/TCSVT2020_2.pdf)||
+|2022|ICME|[Dast-Net: Depth-Aware Spatio-Temporal Network for Video Deblurring](https://ieeexplore.ieee.org/document/9858929)||
+|2023|SCIA|[Depth-Aware Image Compositing Model for Parallax Camera Motion Blur](https://arxiv.org/abs/2303.09334)|[Code & Project Page](https://germanftv.github.io/ParallaxICB.github.io/)|
+|2023|WACV|[Fast and Accurate: Video Enhancement Using Sparse Depth](https://openaccess.thecvf.com/content/WACV2023/html/Feng_Fast_and_Accurate_Video_Enhancement_Using_Sparse_Depth_WACV_2023_paper.html)||
+|2024|ECCV_W|[DAVIDE: Depth-Aware Video Deblurring](https://arxiv.org/abs/2409.01274)|[Code & Project Page](https://germanftv.github.io/DAVIDE.github.io/)|
+|2024||[Deep Lidar-guided Image Deblurring](https://arxiv.org/abs/2412.07262v1)|[Code](https://github.com/diegovalsesia/lidardeblurring)|
 
 ## Other Closely Related Works
 |Year|Pub|Paper|Repo|
@@ -463,6 +478,7 @@
 |2022|IJCV (BSD)|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Dataset](https://github.com/zzh-tech/ESTRNN)|
 |2023|CVPR (RBI)|[Blur Interpolation Transformer for Real-World Motion from Blur](https://arxiv.org/abs/2211.11423)|[Code & Dataset](https://github.com/zzh-tech/BiT)|
 |2023|AAAI|[Real-world deep local motion deblurring](https://arxiv.org/abs/2204.08179)|[Code&Dataset](https://github.com/LeiaLi/ReLoBlur)|
+|2024|ECCV_W|[DAVIDE: Depth-Aware Video Deblurring](https://arxiv.org/abs/2409.01274)|[Code & Dataset](https://germanftv.github.io/DAVIDE.github.io/)|
 
 Abbreviations:
 
