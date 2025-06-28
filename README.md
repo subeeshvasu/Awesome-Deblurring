@@ -338,6 +338,8 @@
 |2022|ECCVW|[Towards Real-World Video Deblurring by Exploring Blur Formation Process](https://arxiv.org/abs/2208.13184)||
 |2022|CGF|[Real-Time Video Deblurring via Lightweight Motion Compensation](https://diglib.eg.org/bitstream/handle/10.1111/cgf14667/v41i7pp177-188.pdf?sequence=1&isAllowed=y)|[Code](https://github.com/codeslake/RealTime_VDBLR)|
 |2022|IJCV|[Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network](https://arxiv.org/abs/2106.16028)|[Code](https://github.com/zzh-tech/ESTRNN)|
+|2024|WACV|[Sharp-NeRF: Grid-Based Fast Deblurring Neural Radiance Fields Using Sharpness Prior](https://github.com/radimspetlik/SI-DDPM-FMO)|[Code](https://github.com/benhenryL/SharpNeRF)|
+|2024|WACV|[Deblur-NSFF: Neural Scene Flow Fields for Blurry Dynamic Scenes](https://openaccess.thecvf.com/content/WACV2024/papers/Luthra_Deblur-NSFF_Neural_Scene_Flow_Fields_for_Blurry_Dynamic_Scenes_WACV_2024_paper.pdf)||
 |2023|CVPR|[Blur Interpolation Transformer for Real-World Motion from Blur](https://arxiv.org/abs/2211.11423)|[Code](https://github.com/zzh-tech/BiT)|
 |2023|CVPR|[DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_DP-NeRF_Deblurred_Neural_Radiance_Field_With_Physical_Scene_Priors_CVPR_2023_paper.pdf)|[Code](https://github.com/dogyoonlee/DP-NeRF)|
 |2023|CVPR|[BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_BAD-NeRF_Bundle_Adjusted_Deblur_Neural_Radiance_Fields_CVPR_2023_paper.pdf)|[Code&Dataset](https://github.com/WU-CVGL/BAD-NeRF)|
@@ -348,8 +350,6 @@
 |2024|CVPR|[Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Blur-aware_Spatio-temporal_Sparse_Transformer_for_Video_Deblurring_CVPR_2024_paper.html)|[Code](https://github.com/huicongzhang/BSSTNet)|
 |2024|CVPR|[Mitigating Motion Blur in Neural Radiance Fields with Events and Frames](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html)|[Code](https://github.com/uzh-rpg/EvDeblurNeRF)|
 |2024|CVPR|[DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_DyBluRF_Dynamic_Neural_Radiance_Fields_from_Blurry_Monocular_Video_CVPR_2024_paper.html)||
-|2024|WACV|[Sharp-NeRF: Grid-Based Fast Deblurring Neural Radiance Fields Using Sharpness Prior](https://github.com/radimspetlik/SI-DDPM-FMO)|[Code](https://github.com/benhenryL/SharpNeRF)|
-|2024|WACV|[Deblur-NSFF: Neural Scene Flow Fields for Blurry Dynamic Scenes](https://openaccess.thecvf.com/content/WACV2024/papers/Luthra_Deblur-NSFF_Neural_Scene_Flow_Fields_for_Blurry_Dynamic_Scenes_WACV_2024_paper.pdf)||
 |2024|NeurIPS|[Learning Truncated Causal History Model for Video Restoration](https://arxiv.org/abs/2410.03936)|[Code](https://github.com/Ascend-Research/Turtle)|
 ## Challenges on Motion Deblurring
 
@@ -414,12 +414,12 @@
 |2023|CVPR|[Event-Based Blurry Frame Interpolation Under Blind Exposure](https://openaccess.thecvf.com/content/CVPR2023/html/Weng_Event-Based_Blurry_Frame_Interpolation_Under_Blind_Exposure_CVPR_2023_paper.html)|[Code](https://github.com/WarranWeng/EBFI-BE)|
 |2023|ICCV|[Non-Coaxial Event-Guided Motion Deblurring with Spatial Alignment](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Non-Coaxial_Event-Guided_Motion_Deblurring_with_Spatial_Alignment_ICCV_2023_paper.pdf)||
 |2023|ICCV|[Generalizing Event-Based Motion Deblurring in Real-World Scenarios](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Generalizing_Event-Based_Motion_Deblurring_in_Real-World_Scenarios_ICCV_2023_paper.pdf)|[Code](https://github.com/XiangZ-0/GEM)|
+|2024|WACV|[Single-Image Deblurring, Trajectory and Shape Recovery of Fast Moving Objects with Denoising Diffusion Probabilistic Models](https://openaccess.thecvf.com/content/WACV2024/papers/Spetlik_Single-Image_Deblurring_Trajectory_and_Shape_Recovery_of_Fast_Moving_Objects_WACV_2024_paper.pdf)|[Code](https://github.com/radimspetlik/SI-DDPM-FMO)|
 |2024|CVPR|[Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Spike-guided_Motion_Deblurring_with_Unknown_Modal_Spatiotemporal_Alignment_CVPR_2024_paper.html)|[Code](https://github.com/Leozhangjiyuan/UaSDN)|
 |2024|CVPR|[Latency Correction for Event-guided Deblurring and Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Latency_Correction_for_Event-guided_Deblurring_and_Frame_Interpolation_CVPR_2024_paper.html)||
 |2024|CVPR|[Frequency-aware Event-based Video Deblurring for Real-World Motion Blur](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.html)||
 |2024|CVPR|[EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_EVS-assisted_Joint_Deblurring_Rolling-Shutter_Correction_and_Video_Frame_Interpolation_through_CVPR_2024_paper.html)||
 |2024|CVPR|[Motion Blur Decomposition with Cross-shutter Guidance](https://openaccess.thecvf.com/content/CVPR2024/html/Ji_Motion_Blur_Decomposition_with_Cross-shutter_Guidance_CVPR_2024_paper.html)|[Code](https://github.com/jixiang2016/dualBR)|
-|2024|WACV|[Single-Image Deblurring, Trajectory and Shape Recovery of Fast Moving Objects with Denoising Diffusion Probabilistic Models](https://openaccess.thecvf.com/content/WACV2024/papers/Spetlik_Single-Image_Deblurring_Trajectory_and_Shape_Recovery_of_Fast_Moving_Objects_WACV_2024_paper.pdf)|[Code](https://github.com/radimspetlik/SI-DDPM-FMO)|
 
 ## Defocus Deblurring and Potential Datasets
 |Year|Pub|Paper|Repo|
@@ -470,9 +470,10 @@
 |2023|ICCV|[Single Image Defocus Deblurring via Implicit Neural Inverse Kernels](https://openaccess.thecvf.com/content/ICCV2023/papers/Quan_Single_Image_Defocus_Deblurring_via_Implicit_Neural_Inverse_Kernels_ICCV_2023_paper.pdf)||
 |2023|IJCV|[End-to-end Alternating Optimization for Real-World Blind Super Resolution](https://arxiv.org/abs/2308.08816)|[Code](https://github.com/greatlog/RealDAN.git)|
 |2023|Arxiv|[LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|[Code](https://github.com/lingyanruan/LaKDNet)|
+|2024|WACV|[Camera-Independent Single Image Depth Estimation From Defocus Blur](https://openaccess.thecvf.com/content/WACV2024/papers/Wijayasingha_Camera-Independent_Single_Image_Depth_Estimation_From_Defocus_Blur_WACV_2024_paper.pdf)||
 |2024|CVPR|[A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_A_Unified_Framework_for_Microscopy_Defocus_Deblur_with_Multi-Pyramid_Transformer_CVPR_2024_paper.html)|[Code](https://github.com/PieceZhang/MPT-CataBlur)|
 |2024|CVPR|[LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_LDP_Language-driven_Dual-Pixel_Image_Defocus_Deblurring_Network_CVPR_2024_paper.html)|[Code](https://github.com/noxsine/LDP)|
-|2024|WACV|[Camera-Independent Single Image Depth Estimation From Defocus Blur](https://openaccess.thecvf.com/content/WACV2024/papers/Wijayasingha_Camera-Independent_Single_Image_Depth_Estimation_From_Defocus_Blur_WACV_2024_paper.pdf)||
+
 
 ## Benchmark Datasets on Motion Deblurring
 |Year|Pub|Paper|Repo|
