@@ -197,6 +197,8 @@
 |2023|CVPR|[Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Self-Supervised_Blind_Motion_Deblurring_With_Deep_Expectation_Maximization_CVPR_2023_paper.html)|[Code](https://github.com/Chilie/Deblur_MCEM)|
 |2023|ICCV|[Multiscale Structure Guided Diffusion for Image Deblurring](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Multiscale_Structure_Guided_Diffusion_for_Image_Deblurring_ICCV_2023_paper.pdf)||
 |2023|ICCV|[Multi-Scale Residual Low-Pass Filter Network for Image Deblurring](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Multi-Scale_Residual_Low-Pass_Filter_Network_for_Image_Deblurring_ICCV_2023_paper.pdf)||
+|2023|ICCV|[DiffIR: Efficient Diffusion Model for Image Restoration](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)||
+|2023|NeurIPS|[Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://papers.neurips.cc/paper_files/paper/2023/file/5cebc89b113920dbff7c79854ba765a3-Paper-Conference.pdf)|[Code](https://github.com/zhengchen1999/HI-Diff)|
 |2023|Arxiv|[LaKDNet: Revisiting Image Deblurring with an Efficient ConvNet](https://arxiv.org/pdf/2302.02234.pdf)|[Code](https://github.com/lingyanruan/LaKDNet)|
 |2024|CVPR|[Unsupervised Blind Image Deblurring Based on Self-Enhancement](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Unsupervised_Blind_Image_Deblurring_Based_on_Self-Enhancement_CVPR_2024_paper.html)||
 |2024|CVPR|[Blur2Blur: Blur Conversion for Unsupervised Image Deblurring on Unknown Domains](https://openaccess.thecvf.com/content/CVPR2024/html/Pham_Blur2Blur_Blur_Conversion_for_Unsupervised_Image_Deblurring_on_Unknown_Domains_CVPR_2024_paper.html)|[Code](https://github.com/VinAIResearch/Blur2Blur)|
@@ -207,9 +209,11 @@
 |2024|CVPR|[AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_AdaRevD_Adaptive_Patch_Exiting_Reversible_Decoder_Pushes_the_Limit_of_CVPR_2024_paper.html)|[Code](https://github.com/INVOKERer/AdaRevD)|
 |2024|CVPR|[FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring](https://openaccess.thecvf.com/content/CVPR2024/html/Youk_FMA-Net_Flow-Guided_Dynamic_Filtering_and_Iterative_Feature_Refinement_with_Multi-Attention_CVPR_2024_paper.html)|[Code](https://github.com/KAIST-VICLab/FMA-Net)|
 |2024|CVPR|[ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_ID-Blau_Image_Deblurring_by_Implicit_Diffusion-based_reBLurring_AUgmentation_CVPR_2024_paper.html)|[Code](https://github.com/plusgood-steven/ID-Blau)|
+|2024|CVPR|[Residual Denoising Diffusion Models](https://arxiv.org/pdf/2308.13712)|[Code](https://github.com/nachifur/RDDM)|
 |2024|IJCV|[Blind Image Deblurring with Unknown Kernel Size and Substantial Noise](https://arxiv.org/pdf/2208.09483.pdf)|[Project Page](https://github.com/sun-umn/Blind-Image-Deblurring)|
 |2024|ECCV|[Motion Aware Event Representation-driven Image Deblurring](https://github.com/ZhijingS/DA_event_deblur)|[Code](https://github.com/ZhijingS/DA_event_deblur)|
 |2024|Arxiv|[Gyroscope-Assisted Motion Deblurring Network](https://arxiv.org/pdf/2402.06854)||
+|2024|Arxiv|[Efficient Image Deblurring Networks based on Diffusion Models](https://arxiv.org/abs/2401.05907)|[Code](https://github.com/bnm6900030/swintormer)|
 |2025|CVPR|[Gyro-based Neural Single Image Deblurring](https://arxiv.org/pdf/2404.00916)|[Code](https://github.com/hmyang0727/GyroDeblurNet)|
 
 
@@ -272,6 +276,7 @@
 |2023|TPAMI|[Blind Image Deconvolution Using Variational Deep Image Prior](https://arxiv.org/abs/2202.00179)|[Code](https://github.com/Dong-Huo/VDIP-Deconvolution)|
 |2024|WACV|[Deep Plug-and-Play Nighttime Non-Blind Deblurring With Saturated Pixel Handling Schemes](https://openaccess.thecvf.com/content/WACV2024/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf)||
 |2024|TCI|[The Secrets of Non-Blind Poisson Deconvolution](https://arxiv.org/abs/2309.03105)||
+|2024|ACM MM|[LoFormer: Local Frequency Transformer for Image Deblurring](https://arxiv.org/abs/2407.16993)|[Code](https://github.com/INVOKERer/LoFormer)|
 |2024|IJCV|[Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring](https://arxiv.org/abs/2308.05543)||
 |2025|JMI|[Deep learning CT image restoration using system blur and noise models](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-1/014003/Deep-learning-CT-image-restoration-using-system-blur-and-noise/10.1117/1.JMI.12.1.014003.short)||
 
@@ -350,6 +355,7 @@
 |2024|CVPR|[Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Blur-aware_Spatio-temporal_Sparse_Transformer_for_Video_Deblurring_CVPR_2024_paper.html)|[Code](https://github.com/huicongzhang/BSSTNet)|
 |2024|CVPR|[Mitigating Motion Blur in Neural Radiance Fields with Events and Frames](https://openaccess.thecvf.com/content/CVPR2024/html/Cannici_Mitigating_Motion_Blur_in_Neural_Radiance_Fields_with_Events_and_CVPR_2024_paper.html)|[Code](https://github.com/uzh-rpg/EvDeblurNeRF)|
 |2024|CVPR|[DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_DyBluRF_Dynamic_Neural_Radiance_Fields_from_Blurry_Monocular_Video_CVPR_2024_paper.html)||
+|2024|ECCV|[Rethinking video deblurring with waveletaware dynamic transformer and diffusion model](https://arxiv.org/abs/2408.13459)|[Code](https://github.com/Chen-Rao/VD-Diff)|
 |2024|NeurIPS|[Learning Truncated Causal History Model for Video Restoration](https://arxiv.org/abs/2410.03936)|[Code](https://github.com/Ascend-Research/Turtle)|
 ## Challenges on Motion Deblurring
 
